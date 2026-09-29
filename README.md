@@ -17,14 +17,16 @@ DUO - CASE COMP/
 │   │   ├── facilities_clean.csv        # Audited facility-level data (30 facilities across India)
 │   │   ├── cluster_totals.csv          # Sourced cluster capacity (9 clusters, Low vs High MW)
 │   │   └── city_market_totals.csv      # Metro-level capacity baselines
-│   └── clean/
-│       └── cluster_totals.csv          # Clean cluster baseline reference
+│   ├── clean/
+│   │   └── cluster_totals.csv          # Clean cluster baseline reference
+│   └── water_cooling_subsidiary.csv    # Water stress, WUE & demand dataset (9 clusters)
 │
 ├── grid_data/                          # Electricity supply, siting & RE matching pipelines
 │   ├── fetch.py                        # Automated data fetching & extraction
 │   ├── build_table.py                  # Generates cluster-level supply dataset (9 states)
 │   ├── siting_analysis.py              # Spatial relocation & sustainability scoring engine
 │   ├── build_matching_model.py         # Builds datacentre_RE_matching_model.xlsx
+│   ├── build_water_subsidiary.py       # Builds water_cooling_subsidiary.csv
 │   ├── output/
 │   │   ├── cluster_supply_data.csv     # Sourced grid emission factors, RE shares, solar/wind CF
 │   │   ├── siting_relocation_candidates_v3.csv  # Sited alternate corridors (v3 audited)
@@ -33,7 +35,8 @@ DUO - CASE COMP/
 │   └── tests/
 │       ├── test_supply_data.py         # Unit tests for 9-cluster grid supply data
 │       ├── test_siting_candidates.py   # Unit tests for spatial siting & score formulas
-│       └── test_matching_model.py      # Unit tests for 24/7 RE matching model & formulas
+│       ├── test_matching_model.py      # Unit tests for 24/7 RE matching model & formulas
+│       └── test_water_cooling.py       # Unit tests for water demand & cooling priority data
 │
 └── scraper/                            # Problem-discovery scraping pipeline (Reddit/News/HN)
     ├── main.py                         # CLI entry point for problem mining

@@ -214,7 +214,24 @@
   - **Outputs Produced & Verified**:
     - `datacentre_RE_matching_model.xlsx` (`Assumptions`, `Demand_Supply_Model`, `Slide_Ready_Summary` with 100% dynamic formulas)
     - `grid_data/build_matching_model.py` (Fully automated model generation script)
-    - `grid_data/tests/test_matching_model.py` (6 unit tests, 20/20 test suite passing)
+- **30 Sep 2026 — Water Demand & Water-Positive Cooling Subsidiary Dataset Integrated**:
+  - **What was done & Core Sourcing Standard**:
+    - **1. Water Stress Classification per Cluster**: Sourced district-level groundwater categories from Central Ground Water Board (CGWB) Dynamic Ground Water Resources Assessments and WRI Aqueduct 4.0 Water Risk Atlas.
+    - **2. WUE Assumption Transparency**: Applied a single, transparent industry-standard WUE factor of **1.25 L/kWh (1.25 ML/GWh)** across standard evaporative/chilled-water cooling architectures (matching Uptime Institute, AWS, and Microsoft disclosed 1.0–1.8 L/kWh benchmarks), avoiding false per-cluster precision.
+    - **3. Annual Water Demand Estimation**: Converted verified GWh demand directly into annual Megalitres ($\text{Demand ML} = \text{Demand GWh} \times 1.25$), scaling from **24,605 ML/yr (Low / Today)** to **61,190 ML/yr (High / 2030 Pipeline)** nationally.
+    - **4. 2x2 Priority Matrix Findings (Top 3 High-Priority Clusters)**:
+      - **Bengaluru** (**High Priority**): CGWB Over-Exploited; acute municipal drinking water tanker crisis; 1,830 ML/yr future cooling draw creates direct citizen conflict.
+      - **Delhi-NCR / Noida** (**High Priority**): CGWB Over-Exploited Yamuna basin; 2,512 ML/yr future draw in Greater Noida severely exacerbates critically depleted aquifers.
+      - **Chennai** (**High Priority**): CGWB Over-Exploited / 2019 Day Zero legacy; 5,025 ML/yr pipeline demand requires strict municipal effluent substitution.
+      - *Mitigation Caveat for Jamnagar & Vizag*: Jamnagar accounts for 21,353 ML/yr equivalent but is flagged as **Low Priority (Seawater Mitigated)** because Reliance's Dhirubhai Ambani giga-complex operates 100% captive seawater reverse osmosis desalination (zero municipal freshwater draw). Vizag is flagged as coastal with direct industrial/desal intake potential.
+    - **5. Water-Positive Cooling Recommendation**:
+      - **Precedent Grounding**: Sourced Chennai CMWSSB's operational 45 MLD Tertiary Treatment Reverse Osmosis (TTRO) industrial water pipeline and STT GDC / NTT municipal STP recycled water tie-ups.
+      - **Proposed Policy Target**: 100% substitution of freshwater cooling with tertiary-treated municipal/industrial effluent for all new data center approvals in High water-stress districts.
+    - **Scope Discipline**: Kept strictly to a single clean subsidiary table (`water_cooling_subsidiary.csv`) to serve as a focused slide bullet rather than expanding into a second parallel workstream.
+  - **Outputs Produced & Verified**:
+    - `data/water_cooling_subsidiary.csv` & `water_cooling_subsidiary.csv` (8 columns, 9 clusters, fully traceable)
+    - `grid_data/build_water_subsidiary.py` (Deterministic generation script)
+    - `grid_data/tests/test_water_cooling.py` (6 unit tests, full test suite 32/32 passing)
 
 ## 12. Team / Roles
 - _(fill in: names, roles, who owns research / deck / prototype / Q&A)_
