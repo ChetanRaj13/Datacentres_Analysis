@@ -1,0 +1,76 @@
+{
+  "exhaustive": {
+    "nbHits": false,
+    "typo": false
+  },
+  "exhaustiveNbHits": false,
+  "exhaustiveTypo": false,
+  "hits": [
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "marita_oxyn"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "plastic",
+            "and",
+            "packaging",
+            "india"
+          ],
+          "value": "Hey there SF! We are in search of green-minded people to join us at Oxyn to test our new blockchain app! During the pilot you will be able to return glass <em>packaging</em> for reusing <em>and</em> you'll get rewarded for that. All you'll need to do is download our app,  join our closed group of early birds on Discord <em>and</em> share your thoughts, <em>and</em> of course choose glass over <em>plastic</em> whenever possible! \nhttps://oxyn.io/<em>indi</em>vidual"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "plastic"
+          ],
+          "value": "Join us in our pilot project to end <em>plastic</em> waste"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_marita_oxyn",
+        "story_32767534",
+        "ask_hn"
+      ],
+      "author": "marita_oxyn",
+      "children": [
+        32767729
+      ],
+      "created_at": "2022-09-08T16:02:31Z",
+      "created_at_i": 1662652951,
+      "num_comments": 2,
+      "objectID": "32767534",
+      "points": 1,
+      "story_id": 32767534,
+      "story_text": "Hey there SF! We are in search of green-minded people to join us at Oxyn to test our new blockchain app! During the pilot you will be able to return glass packaging for reusing and you&#x27;ll get rewarded for that. All you&#x27;ll need to do is download our app,  join our closed group of early birds on Discord and share your thoughts, and of course choose glass over plastic whenever possible! \nhttps:&#x2F;&#x2F;oxyn.io&#x2F;individual",
+      "title": "Join us in our pilot project to end plastic waste",
+      "updated_at": "2024-09-20T12:03:32Z"
+    }
+  ],
+  "hitsPerPage": 20,
+  "nbHits": 1,
+  "nbPages": 1,
+  "page": 0,
+  "params": "query=plastic+and+packaging+India&tags=story&hitsPerPage=20&advancedSyntax=true&analyticsTags=backend",
+  "processingTimeMS": 27,
+  "processingTimingsMS": {
+    "_request": {
+      "roundTrip": 13
+    },
+    "fetch": {
+      "query": 22,
+      "scanning": 3,
+      "total": 26
+    },
+    "total": 27
+  },
+  "query": "plastic and packaging India",
+  "serverTimeMS": 27
+}

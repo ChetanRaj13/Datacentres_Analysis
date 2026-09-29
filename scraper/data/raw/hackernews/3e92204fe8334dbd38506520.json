@@ -1,0 +1,355 @@
+{
+  "exhaustive": {
+    "nbHits": false,
+    "typo": false
+  },
+  "exhaustiveNbHits": false,
+  "exhaustiveTypo": false,
+  "hits": [
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "llccbb"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "costs",
+            "india"
+          ],
+          "value": "Water shortages <em>cost</em> <em>India</em> 14 TWh of electricity generation in 2016"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "energy",
+            "costs",
+            "india"
+          ],
+          "value": "http://www.wri.org/blog/2017/07/droughts-and-blackouts-how-water-shortages-<em>cost</em>-<em>india</em>-enough-<em>energy</em>-power-sri-lanka"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_llccbb",
+        "story_14858887"
+      ],
+      "author": "llccbb",
+      "created_at": "2017-07-26T18:36:48Z",
+      "created_at_i": 1501094208,
+      "num_comments": 0,
+      "objectID": "14858887",
+      "points": 1,
+      "story_id": 14858887,
+      "title": "Water shortages cost India 14 TWh of electricity generation in 2016",
+      "updated_at": "2024-09-20T01:09:22Z",
+      "url": "http://www.wri.org/blog/2017/07/droughts-and-blackouts-how-water-shortages-cost-india-enough-energy-power-sri-lanka"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "cpeterso"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "costs",
+            "india"
+          ],
+          "value": "Coal Power Loses Its Luster in <em>India</em> as <em>Costs</em> Rise"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "energy",
+            "costs",
+            "india"
+          ],
+          "value": "http://news.nationalgeographic.com/news/<em>energy</em>/2012/07/120724-coal-power-<em>costs</em>-in-<em>india</em>/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_cpeterso",
+        "story_4299121"
+      ],
+      "author": "cpeterso",
+      "created_at": "2012-07-26T22:43:41Z",
+      "created_at_i": 1343342621,
+      "num_comments": 0,
+      "objectID": "4299121",
+      "points": 5,
+      "story_id": 4299121,
+      "title": "Coal Power Loses Its Luster in India as Costs Rise",
+      "updated_at": "2023-09-06T20:51:17Z",
+      "url": "http://news.nationalgeographic.com/news/energy/2012/07/120724-coal-power-costs-in-india/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "slake"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "energy",
+            "costs",
+            "india"
+          ],
+          "value": "<em>India</em>n Govt. handing out LED lamps to save double the <em>cost</em> on <em>energy</em> savings"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "energy",
+            "costs",
+            "india"
+          ],
+          "value": "http://www.theplaidzebra.com/<em>india</em>-is-handing-out-led-lights-to-its-residents-to-save-the-country-billions-in-<em>energy</em>-<em>costs</em>/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_slake",
+        "story_10752657"
+      ],
+      "author": "slake",
+      "created_at": "2015-12-17T17:06:34Z",
+      "created_at_i": 1450371994,
+      "num_comments": 0,
+      "objectID": "10752657",
+      "points": 1,
+      "story_id": 10752657,
+      "title": "Indian Govt. handing out LED lamps to save double the cost on energy savings",
+      "updated_at": "2024-09-19T22:35:44Z",
+      "url": "http://www.theplaidzebra.com/india-is-handing-out-led-lights-to-its-residents-to-save-the-country-billions-in-energy-costs/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "scottcha"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "energy",
+            "costs",
+            "india"
+          ],
+          "value": "Hi HN, We are an early-stage startup working on OS-level AI <em>energy</em> optimization. Our goal is to revolutionize the way systems manage power consumption at the OS level making AI and compute more <em>energy</em>-efficient and sustainable.  Our initial prototype has demonstrated significant saving (20%+) without application/model changes.<p>We are looking to connect with <em>indi</em>viduals who have exposure to <em>energy</em> <em>costs</em>, <em>energy</em> purchasing or a strong desire to optimize them at the server and datacenter level. Whether you are working in data centers, telco, AI infra, or any area where <em>energy</em> efficiency is crucial, we would love to discuss potential challenges, solutions, and opportunities in this space. We're eager to learn from your experiences and explore ways we can collaborate to make a meaningful impact. Drop us a note at scottcha@live.com and we'll connect up.<p>Thanks Scott &amp; Chad"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Ask HN: Are you paying electricity bills for your service?"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_scottcha",
+        "story_42454547",
+        "ask_hn"
+      ],
+      "author": "scottcha",
+      "children": [
+        42454890,
+        42455769
+      ],
+      "created_at": "2024-12-18T20:12:13Z",
+      "created_at_i": 1734552733,
+      "num_comments": 4,
+      "objectID": "42454547",
+      "points": 6,
+      "story_id": 42454547,
+      "story_text": "Hi HN, We are an early-stage startup working on OS-level AI energy optimization. Our goal is to revolutionize the way systems manage power consumption at the OS level making AI and compute more energy-efficient and sustainable.  Our initial prototype has demonstrated significant saving (20%+) without application&#x2F;model changes.<p>We are looking to connect with individuals who have exposure to energy costs, energy purchasing or a strong desire to optimize them at the server and datacenter level. Whether you are working in data centers, telco, AI infra, or any area where energy efficiency is crucial, we would love to discuss potential challenges, solutions, and opportunities in this space. We&#x27;re eager to learn from your experiences and explore ways we can collaborate to make a meaningful impact. Drop us a note at scottcha@live.com and we&#x27;ll connect up.<p>Thanks Scott &amp; Chad",
+      "title": "Ask HN: Are you paying electricity bills for your service?",
+      "updated_at": "2025-03-04T08:05:13Z"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "scottcha"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "energy",
+            "costs",
+            "india"
+          ],
+          "value": "Hi HN,\nWe are an early-stage startup working on OS-level AI <em>energy</em> optimization. Our goal is to revolutionize the way systems manage power consumption at the OS level making AI and compute more <em>energy</em>-efficient and sustainable.\nWe are looking to connect with <em>indi</em>viduals who have exposure to <em>energy</em> <em>costs</em>, <em>energy</em> purchasing or a strong desire to optimize them at the server and datacenter level. Whether you are working in data centers, telco, AI infra, or any area where <em>energy</em> efficiency is crucial, we would love to discuss potential challenges, solutions, and opportunities in this space. We're eager to learn from your experiences and explore ways we can collaborate to make a meaningful impact.\nDrop us a note at scottcha@live.com and we'll connect up.\nThanks Scott &amp; Chad"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "energy"
+          ],
+          "value": "Ask HN: Interested in optimizing datacenter <em>energy</em> use?"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_scottcha",
+        "story_42442909",
+        "ask_hn"
+      ],
+      "author": "scottcha",
+      "children": [
+        42442923
+      ],
+      "created_at": "2024-12-17T16:50:20Z",
+      "created_at_i": 1734454220,
+      "num_comments": 2,
+      "objectID": "42442909",
+      "points": 3,
+      "story_id": 42442909,
+      "story_text": "Hi HN,\nWe are an early-stage startup working on OS-level AI energy optimization. Our goal is to revolutionize the way systems manage power consumption at the OS level making AI and compute more energy-efficient and sustainable.\nWe are looking to connect with individuals who have exposure to energy costs, energy purchasing or a strong desire to optimize them at the server and datacenter level. Whether you are working in data centers, telco, AI infra, or any area where energy efficiency is crucial, we would love to discuss potential challenges, solutions, and opportunities in this space. We&#x27;re eager to learn from your experiences and explore ways we can collaborate to make a meaningful impact.\nDrop us a note at scottcha@live.com and we&#x27;ll connect up.\nThanks Scott &amp; Chad",
+      "title": "Ask HN: Interested in optimizing datacenter energy use?",
+      "updated_at": "2024-12-17T17:17:37Z"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "ThinkBeat"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "energy",
+            "costs",
+            "india"
+          ],
+          "value": "In Europe <em>energy</em> prices have skyrocketed. \nI will leave out why for an entirely different post.<p>We already see the <em>cost</em> of everything rising way\npast anything we have seen before (at least in my life) \nand far more people will need to make cuts in them\nPrivate habits and expenses.<p>With <em>energy</em> prices surging the <em>cost</em> of operating data centers\nwill become (I think) a lot more expensive. \nand massive &quot;cloud&quot; data centers even more so.<p>How fast and how will it impact the prices for<p>1) <em>Indi</em>vidual <em>cost</em>.<p>Things that, I think, may change:\nSpotify, Netflix (or any other tv stream), Dropbox, Office365 (yupp), lucidchart\npay for a couple of WordPress installs, email (yupp pay) and several other things.<p>Since I am already watching my grocery budget, a significant increase in prices\nfor the &quot;internet&quot; things will mean making some difficult (or not) choices \non what to cut.<p>2) Companies. \nWhen you are locked into AWS, Azure, Google Cloud how will the prices \nchange how budgets are allocated and what can you drop (if anything).<p>In addition, companies have email hosting, and a host of other\n&quot;cloud&quot; related expenses.<p>I imagine things will have to be prioritized. \nVendors offering lower prices can see a major migration perhaps.<p>3) Cloud providers.\nHow will AWS, Azure and the rest handle more than double or triple\nthe electricity/ <em>energy</em> related expenses?<p>An example: GYM<p>A company that operates a chain of gyms, are now trying to \nkeep their doors open even with a 5 to 6 times increase in their power bills<p>(For the gym it is made worse that many members come in just to take a good shower\nsince they can afford to do it at home)<p>They say they are going to be lowering the temperature in the gym to about 10C (50F)\nDecrease how hot showers can get and a cut in flow\nFewer lights and no music.<p>Will people still go?<p>An example: A FARMER<p>A farmer recently threw away his entire harvest of leeks ( I think) \ntons of food (sickening) \nbecause his business is largely dependent on storing produce in \ngiant freezers / fridges and with the rise in <em>cost</em> he will be \nPaying far more to chill the produce than he could possibly sell it for.<p>The world is in great need of food. \nBut storing and moving has gotten far more expensive."
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "energy",
+            "costs"
+          ],
+          "value": "Ask HN: Cloud hosting rates with surging <em>energy</em> <em>cost</em>"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_ThinkBeat",
+        "story_32717503",
+        "ask_hn"
+      ],
+      "author": "ThinkBeat",
+      "children": [
+        32717582,
+        32717604,
+        32723362
+      ],
+      "created_at": "2022-09-04T20:41:43Z",
+      "created_at_i": 1662324103,
+      "num_comments": 3,
+      "objectID": "32717503",
+      "points": 3,
+      "story_id": 32717503,
+      "story_text": "In Europe energy prices have skyrocketed. \nI will leave out why for an entirely different post.<p>We already see the cost of everything rising way\npast anything we have seen before (at least in my life) \nand far more people will need to make cuts in them\nPrivate habits and expenses.<p>With energy prices surging the cost of operating data centers\nwill become (I think) a lot more expensive. \nand massive &quot;cloud&quot; data centers even more so.<p>How fast and how will it impact the prices for<p>1) Individual cost.<p>Things that, I think, may change:\nSpotify, Netflix (or any other tv stream), Dropbox, Office365 (yupp), lucidchart\npay for a couple of WordPress installs, email (yupp pay) and several other things.<p>Since I am already watching my grocery budget, a significant increase in prices\nfor the &quot;internet&quot; things will mean making some difficult (or not) choices \non what to cut.<p>2) Companies. \nWhen you are locked into AWS, Azure, Google Cloud how will the prices \nchange how budgets are allocated and what can you drop (if anything).<p>In addition, companies have email hosting, and a host of other\n&quot;cloud&quot; related expenses.<p>I imagine things will have to be prioritized. \nVendors offering lower prices can see a major migration perhaps.<p>3) Cloud providers.\nHow will AWS, Azure and the rest handle more than double or triple\nthe electricity&#x2F; energy related expenses?<p>An example: GYM<p>A company that operates a chain of gyms, are now trying to \nkeep their doors open even with a 5 to 6 times increase in their power bills<p>(For the gym it is made worse that many members come in just to take a good shower\nsince they can afford to do it at home)<p>They say they are going to be lowering the temperature in the gym to about 10C (50F)\nDecrease how hot showers can get and a cut in flow\nFewer lights and no music.<p>Will people still go?<p>An example: A FARMER<p>A farmer recently threw away his entire harvest of leeks ( I think) \ntons of food (sickening) \nbecause his business is largely dependent on storing produce in \ngiant freezers &#x2F; fridges and with the rise in cost he will be \nPaying far more to chill the produce than he could possibly sell it for.<p>The world is in great need of food. \nBut storing and moving has gotten far more expensive.",
+      "title": "Ask HN: Cloud hosting rates with surging energy cost",
+      "updated_at": "2024-09-20T11:57:58Z"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "soinus"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "energy",
+            "costs",
+            "india"
+          ],
+          "value": "Hey HN. I am a fairly senior researcher/engineer with a PhD in the field as well as many years of hands-on experience in a couple of industries related to robotics and computer vision. I also now have a job that I like a lot for now and it seems that everyone is happy with the work I currently do.<p>However, I did my PhD right before the (2nd) deep learning revolution and have never understood how people do research in this new field. Most of the things I did and still do are very well defined and rooted in math, so I mostly know if the solution is good after the fact. I'm also keen on implementing these solutions well and mostly from scratch following similar principles there too.<p>Nowadays there is a lot of stuff coming out that is possible solely due to deep learning. My issue, however, with performing research in the field of deep learning has always been that I don't understand how to measure success. I might more or less randomly get to a system that works and outperforms the state of the art by a small margin but I would still not know if I found something fundamental or was just lucky. The only way to know seems to be purely empirical. Add to this the <em>energy</em> <em>cost</em> of GPUs and the discrepancy of training capacity between <em>indi</em>viduals, universities and companies and you will probably get more or less a full picture of my perception of the matter.<p>I did use various deep learning methods as a black box for particular tasks they seemed good at. However, I never really liked doing it and at this point I'm starting to feel like a dinosaur not being able or willing to adapt to the new reality.<p>What's your take on this? Anybody went through similar issues? How do I get excited about deep learning? Or is it fine to remain skeptical?"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Ask HN: How to get excited about deep learning"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_soinus",
+        "story_34088293",
+        "ask_hn"
+      ],
+      "author": "soinus",
+      "children": [
+        34090424
+      ],
+      "created_at": "2022-12-22T00:41:41Z",
+      "created_at_i": 1671669701,
+      "num_comments": 3,
+      "objectID": "34088293",
+      "points": 3,
+      "story_id": 34088293,
+      "story_text": "Hey HN. I am a fairly senior researcher&#x2F;engineer with a PhD in the field as well as many years of hands-on experience in a couple of industries related to robotics and computer vision. I also now have a job that I like a lot for now and it seems that everyone is happy with the work I currently do.<p>However, I did my PhD right before the (2nd) deep learning revolution and have never understood how people do research in this new field. Most of the things I did and still do are very well defined and rooted in math, so I mostly know if the solution is good after the fact. I&#x27;m also keen on implementing these solutions well and mostly from scratch following similar principles there too.<p>Nowadays there is a lot of stuff coming out that is possible solely due to deep learning. My issue, however, with performing research in the field of deep learning has always been that I don&#x27;t understand how to measure success. I might more or less randomly get to a system that works and outperforms the state of the art by a small margin but I would still not know if I found something fundamental or was just lucky. The only way to know seems to be purely empirical. Add to this the energy cost of GPUs and the discrepancy of training capacity between individuals, universities and companies and you will probably get more or less a full picture of my perception of the matter.<p>I did use various deep learning methods as a black box for particular tasks they seemed good at. However, I never really liked doing it and at this point I&#x27;m starting to feel like a dinosaur not being able or willing to adapt to the new reality.<p>What&#x27;s your take on this? Anybody went through similar issues? How do I get excited about deep learning? Or is it fine to remain skeptical?",
+      "title": "Ask HN: How to get excited about deep learning",
+      "updated_at": "2024-09-20T12:55:52Z"
+    }
+  ],
+  "hitsPerPage": 7,
+  "nbHits": 39,
+  "nbPages": 6,
+  "page": 0,
+  "params": "query=energy+costs+India&tags=story&hitsPerPage=7&advancedSyntax=true&analyticsTags=backend",
+  "processingTimeMS": 22,
+  "processingTimingsMS": {
+    "_request": {
+      "queue": 78,
+      "roundTrip": 19
+    },
+    "afterFetch": {
+      "format": {
+        "highlighting": 1,
+        "total": 1
+      }
+    },
+    "fetch": {
+      "query": 11,
+      "scanning": 5,
+      "total": 17
+    },
+    "getIdx": {
+      "load": {
+        "gens": 2,
+        "total": 3
+      },
+      "total": 3
+    },
+    "total": 22
+  },
+  "query": "energy costs India",
+  "serverTimeMS": 102
+}

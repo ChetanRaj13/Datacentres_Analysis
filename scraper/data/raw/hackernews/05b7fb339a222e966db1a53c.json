@@ -1,0 +1,28 @@
+{
+  "exhaustive": {
+    "nbHits": false,
+    "typo": false
+  },
+  "exhaustiveNbHits": false,
+  "exhaustiveTypo": false,
+  "hits": [],
+  "hitsPerPage": 15,
+  "nbHits": 0,
+  "nbPages": 0,
+  "page": 0,
+  "params": "query=urban+air+pollution+problem&tags=story&hitsPerPage=15&advancedSyntax=true&analyticsTags=backend",
+  "processingTimeMS": 20,
+  "processingTimingsMS": {
+    "_request": {
+      "queue": 1,
+      "roundTrip": 17
+    },
+    "fetch": {
+      "query": 19,
+      "total": 19
+    },
+    "total": 20
+  },
+  "query": "urban air pollution problem",
+  "serverTimeMS": 21
+}

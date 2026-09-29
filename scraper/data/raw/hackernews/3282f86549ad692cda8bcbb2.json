@@ -1,0 +1,28 @@
+{
+  "exhaustive": {
+    "nbHits": false,
+    "typo": false
+  },
+  "exhaustiveNbHits": false,
+  "exhaustiveTypo": false,
+  "hits": [],
+  "hitsPerPage": 30,
+  "nbHits": 0,
+  "nbPages": 0,
+  "page": 0,
+  "params": "query=farmer+income+and+post-harvest+loss&tags=story&hitsPerPage=30&advancedSyntax=true&analyticsTags=backend",
+  "processingTimeMS": 20,
+  "processingTimingsMS": {
+    "_request": {
+      "queue": 3,
+      "roundTrip": 24
+    },
+    "fetch": {
+      "query": 19,
+      "total": 20
+    },
+    "total": 20
+  },
+  "query": "farmer income and post-harvest loss",
+  "serverTimeMS": 24
+}

@@ -1,0 +1,9 @@
+cluster,state,facility_count,total_it_mw,annual_demand_gwh,status
+Mumbai/Navi Mumbai,Maharashtra,42,1150.0,10074.0,Operational & Under Construction
+Chennai,Tamil Nadu,28,680.0,5956.8,Operational & Under Construction
+Hyderabad,Telangana,24,590.0,5168.4,Operational & Under Construction
+Pune,Maharashtra,18,340.0,2978.4,Operational & Under Construction
+Delhi-NCR/Noida,Uttar Pradesh,32,750.0,6570.0,Operational & Under Construction
+Bengaluru,Karnataka,22,480.0,4204.8,Operational & Under Construction
+Vizag,Andhra Pradesh,6,120.0,1051.2,Operational & Announced
+Kolkata,West Bengal,8,95.0,832.2,Operational & Announced

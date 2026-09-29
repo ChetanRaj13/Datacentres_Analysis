@@ -1,0 +1,27 @@
+{
+  "exhaustive": {
+    "nbHits": false,
+    "typo": false
+  },
+  "exhaustiveNbHits": false,
+  "exhaustiveTypo": false,
+  "hits": [],
+  "hitsPerPage": 30,
+  "nbHits": 0,
+  "nbPages": 0,
+  "page": 0,
+  "params": "query=student+mental+health+and+burnout+problem&tags=story&hitsPerPage=30&advancedSyntax=true&analyticsTags=backend",
+  "processingTimeMS": 31,
+  "processingTimingsMS": {
+    "_request": {
+      "roundTrip": 18
+    },
+    "fetch": {
+      "query": 31,
+      "total": 31
+    },
+    "total": 31
+  },
+  "query": "student mental health and burnout problem",
+  "serverTimeMS": 32
+}

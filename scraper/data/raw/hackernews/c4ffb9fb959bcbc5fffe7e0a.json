@@ -1,0 +1,1673 @@
+{
+  "exhaustive": {
+    "nbHits": false,
+    "typo": false
+  },
+  "exhaustiveNbHits": false,
+  "exhaustiveTypo": false,
+  "hits": [
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "zdw"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "e",
+            "waste"
+          ],
+          "value": "Mechanical Apple Watch from real <em>e-waste</em> Apple Watch"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "e",
+            "waste"
+          ],
+          "value": "https://www.instructables.com/Mechanical-Apple-Watch-From-Real-<em>E-Waste</em>-Apple-Wat/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_zdw",
+        "story_36249671"
+      ],
+      "author": "zdw",
+      "children": [
+        36251924,
+        36251942,
+        36251946,
+        36252033,
+        36252045,
+        36252088,
+        36252096,
+        36252168,
+        36252237,
+        36252323,
+        36252422,
+        36252513,
+        36252714,
+        36252872,
+        36253146,
+        36253416,
+        36253608,
+        36253978,
+        36254265,
+        36254373,
+        36254417,
+        36254617,
+        36254805,
+        36255020,
+        36255150,
+        36255303,
+        36255450,
+        36255570,
+        36255843,
+        36255844,
+        36256186,
+        36256275,
+        36256472,
+        36258022,
+        36259901,
+        36260374,
+        36260803
+      ],
+      "created_at": "2023-06-08T21:48:20Z",
+      "created_at_i": 1686260900,
+      "num_comments": 173,
+      "objectID": "36249671",
+      "points": 570,
+      "story_id": 36249671,
+      "title": "Mechanical Apple Watch from real e-waste Apple Watch",
+      "updated_at": "2024-09-20T14:14:54Z",
+      "url": "https://www.instructables.com/Mechanical-Apple-Watch-From-Real-E-Waste-Apple-Wat/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "andsoitis"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "e",
+            "waste"
+          ],
+          "value": "An <em>e-waste</em> dumping ground"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://www.npr.org/sections/goats-and-soda/2024/10/05/g-s1-6411/electronics-public-health-waste-ghana-phones-computers"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_andsoitis",
+        "story_41765334"
+      ],
+      "author": "andsoitis",
+      "children": [
+        41765359,
+        41765524,
+        41765550,
+        41765651,
+        41765662,
+        41765696,
+        41765712,
+        41765753,
+        41765794,
+        41765796,
+        41765863,
+        41765925,
+        41765969,
+        41765975,
+        41766024,
+        41766063,
+        41766083,
+        41766105,
+        41766129,
+        41766137,
+        41766608,
+        41766695,
+        41766815,
+        41766830,
+        41767274,
+        41768639,
+        41768800,
+        41769039,
+        41769662,
+        41772226,
+        41772552,
+        41772696,
+        41772811,
+        41772895,
+        41773024,
+        41773755,
+        41774733,
+        41775588,
+        41775880,
+        41779525,
+        41824226
+      ],
+      "created_at": "2024-10-07T12:30:07Z",
+      "created_at_i": 1728304207,
+      "num_comments": 295,
+      "objectID": "41765334",
+      "points": 400,
+      "story_id": 41765334,
+      "title": "An e-waste dumping ground",
+      "updated_at": "2026-01-28T18:37:01Z",
+      "url": "https://www.npr.org/sections/goats-and-soda/2024/10/05/g-s1-6411/electronics-public-health-waste-ghana-phones-computers"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "dnewms"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "e",
+            "waste"
+          ],
+          "value": "<em>E-waste</em> recycler loses appeal on computer restore disks, must serve prison term"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://www.washingtonpost.com/news/true-crime/wp/2018/04/24/recycling-innovator-eric-lundgren-loses-appeal-on-computer-restore-discs-must-serve-15-month-prison-term/?tid=ss_tw-amp&noredirect=on"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_dnewms",
+        "story_16921634"
+      ],
+      "author": "dnewms",
+      "children": [
+        16921812,
+        16921845,
+        16921846,
+        16921856,
+        16921857,
+        16921861,
+        16921869,
+        16921875,
+        16921885,
+        16921888,
+        16921889,
+        16921899,
+        16921909,
+        16921935,
+        16921992,
+        16922034,
+        16922049,
+        16922057,
+        16922098,
+        16922118,
+        16922123,
+        16922146,
+        16922188,
+        16922246,
+        16922281,
+        16922287,
+        16922299,
+        16922353,
+        16922530,
+        16922789,
+        16923010,
+        16923117,
+        16923165,
+        16923178,
+        16923405,
+        16923591,
+        16925686
+      ],
+      "created_at": "2018-04-25T14:09:55Z",
+      "created_at_i": 1524665395,
+      "num_comments": 257,
+      "objectID": "16921634",
+      "points": 391,
+      "story_id": 16921634,
+      "title": "E-waste recycler loses appeal on computer restore disks, must serve prison term",
+      "updated_at": "2024-09-20T02:22:58Z",
+      "url": "https://www.washingtonpost.com/news/true-crime/wp/2018/04/24/recycling-innovator-eric-lundgren-loses-appeal-on-computer-restore-discs-must-serve-15-month-prison-term/?tid=ss_tw-amp&noredirect=on"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "1e1a"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "e",
+            "waste"
+          ],
+          "value": "Unlocking a locked/deactivated <em>e-waste</em> Cricut Maker"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_1e1a",
+        "story_49365841"
+      ],
+      "author": "1e1a",
+      "children": [
+        49366425,
+        49366426,
+        49367209,
+        49368230,
+        49368313,
+        49368385,
+        49369679,
+        49370537,
+        49371083
+      ],
+      "created_at": "2026-08-19T19:06:16Z",
+      "created_at_i": 1787166376,
+      "num_comments": 67,
+      "objectID": "49365841",
+      "points": 258,
+      "story_id": 49365841,
+      "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
+      "updated_at": "2026-09-02T17:36:00Z",
+      "url": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "_ugfj"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "e",
+            "waste"
+          ],
+          "value": "I picked up a shitty NUC from <em>ewaste</em> and it had a label on it for an AI company"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://digipres.club/@foone/112990331505043510"
+        }
+      },
+      "_tags": [
+        "story",
+        "author__ugfj",
+        "story_41298430"
+      ],
+      "author": "_ugfj",
+      "children": [
+        41298630,
+        41298640,
+        41298652,
+        41298673,
+        41298682,
+        41298704,
+        41298712,
+        41298723,
+        41298741,
+        41298799,
+        41298840,
+        41298967,
+        41299137,
+        41299144,
+        41299209,
+        41299357,
+        41299512,
+        41308171
+      ],
+      "created_at": "2024-08-20T09:45:05Z",
+      "created_at_i": 1724147105,
+      "num_comments": 68,
+      "objectID": "41298430",
+      "points": 204,
+      "story_id": 41298430,
+      "title": "I picked up a shitty NUC from ewaste and it had a label on it for an AI company",
+      "updated_at": "2026-05-21T16:43:07Z",
+      "url": "https://digipres.club/@foone/112990331505043510"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "sonabinu"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "e",
+            "waste"
+          ],
+          "value": "<em>E-waste</em> mining could be big business and good for the planet"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://www.bbc.com/news/business-44642176"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_sonabinu",
+        "story_17473373"
+      ],
+      "author": "sonabinu",
+      "children": [
+        17473668,
+        17473680,
+        17473689,
+        17473718,
+        17473939,
+        17473968,
+        17474075,
+        17474259,
+        17474543,
+        17474556,
+        17475046,
+        17475444,
+        17475474,
+        17476656,
+        17476822,
+        17478188,
+        17483546
+      ],
+      "created_at": "2018-07-06T17:32:57Z",
+      "created_at_i": 1530898377,
+      "num_comments": 82,
+      "objectID": "17473373",
+      "points": 170,
+      "story_id": 17473373,
+      "title": "E-waste mining could be big business and good for the planet",
+      "updated_at": "2024-09-20T02:45:13Z",
+      "url": "https://www.bbc.com/news/business-44642176"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "walterbell"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "e",
+            "waste"
+          ],
+          "value": "Where does America's <em>e-waste</em> end up? GPS tracker tells all"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "e",
+            "waste"
+          ],
+          "value": "http://www.pbs.org/newshour/updates/america-<em>e-waste</em>-gps-tracker-tells-all-earthfix/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_walterbell",
+        "story_11674350"
+      ],
+      "author": "walterbell",
+      "children": [
+        11679682,
+        11679760,
+        11679800,
+        11679834,
+        11680019,
+        11680038,
+        11680719,
+        11680928,
+        11681799,
+        11682028,
+        11682541,
+        11682786,
+        11686541
+      ],
+      "created_at": "2016-05-11T11:46:30Z",
+      "created_at_i": 1462967190,
+      "num_comments": 48,
+      "objectID": "11674350",
+      "points": 150,
+      "story_id": 11674350,
+      "title": "Where does America's e-waste end up? GPS tracker tells all",
+      "updated_at": "2024-09-19T23:13:22Z",
+      "url": "http://www.pbs.org/newshour/updates/america-e-waste-gps-tracker-tells-all-earthfix/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "cunidev"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "e",
+            "waste"
+          ],
+          "value": "Oculus will allow sideloading and rooting to avoid <em>e-waste</em>"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://twitter.com/id_aa_carmack/status/1441496418368294914"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_cunidev",
+        "story_28686128"
+      ],
+      "author": "cunidev",
+      "children": [
+        28686214,
+        28686219,
+        28686223,
+        28686232,
+        28686276,
+        28686294,
+        28686331,
+        28686352,
+        28686355,
+        28686387,
+        28686491,
+        28686548,
+        28686649,
+        28686688,
+        28686745,
+        28686855,
+        28686863,
+        28690860
+      ],
+      "created_at": "2021-09-28T18:53:59Z",
+      "created_at_i": 1632855239,
+      "num_comments": 57,
+      "objectID": "28686128",
+      "points": 142,
+      "story_id": 28686128,
+      "title": "Oculus will allow sideloading and rooting to avoid e-waste",
+      "updated_at": "2024-09-20T09:33:11Z",
+      "url": "https://twitter.com/id_aa_carmack/status/1441496418368294914"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "eso_logic"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "e",
+            "waste"
+          ],
+          "value": "Benchmarking 15 “<em>E-Waste</em>” GPUs with Modern Workloads"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://esologic.com/benchmarking-tesla-gpus/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_eso_logic",
+        "story_48892638"
+      ],
+      "author": "eso_logic",
+      "children": [
+        48894876,
+        48895194,
+        48895936,
+        48896437,
+        48896486,
+        48896729,
+        48897073,
+        48897486,
+        48897835,
+        48897865,
+        48898276,
+        48899087,
+        48900384,
+        48902041
+      ],
+      "created_at": "2026-07-13T13:48:42Z",
+      "created_at_i": 1783950522,
+      "num_comments": 64,
+      "objectID": "48892638",
+      "points": 141,
+      "story_id": 48892638,
+      "title": "Benchmarking 15 “E-Waste” GPUs with Modern Workloads",
+      "updated_at": "2026-07-27T13:10:02Z",
+      "url": "https://esologic.com/benchmarking-tesla-gpus/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "giuliomagnifico"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "e",
+            "waste"
+          ],
+          "value": "Bitcoin's growing <em>e-waste</em> problem"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://www.sciencedirect.com/science/article/abs/pii/S0921344921005103?dgcid"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_giuliomagnifico",
+        "story_28563436"
+      ],
+      "author": "giuliomagnifico",
+      "children": [
+        28564381,
+        28564430,
+        28564559,
+        28564567,
+        28564590,
+        28564607,
+        28564639,
+        28564655,
+        28564714,
+        28564774,
+        28564794,
+        28564848,
+        28564872,
+        28564947,
+        28564959,
+        28565241,
+        28565541,
+        28565576,
+        28565636,
+        28565912
+      ],
+      "created_at": "2021-09-17T10:13:04Z",
+      "created_at_i": 1631873584,
+      "num_comments": 167,
+      "objectID": "28563436",
+      "points": 134,
+      "story_id": 28563436,
+      "title": "Bitcoin's growing e-waste problem",
+      "updated_at": "2024-09-20T09:28:17Z",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0921344921005103?dgcid"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Brajeshwar"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "e",
+            "waste"
+          ],
+          "value": "India's billion-dollar <em>e-waste</em> empire"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "e",
+            "waste"
+          ],
+          "value": "https://restofworld.org/2025/india-<em>e-waste</em>-recycling-electronics/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_Brajeshwar",
+        "story_45061376"
+      ],
+      "author": "Brajeshwar",
+      "children": [
+        45093322,
+        45093463,
+        45093919,
+        45094090,
+        45099152
+      ],
+      "created_at": "2025-08-29T07:52:54Z",
+      "created_at_i": 1756453974,
+      "num_comments": 51,
+      "objectID": "45061376",
+      "points": 120,
+      "story_id": 45061376,
+      "title": "India's billion-dollar e-waste empire",
+      "updated_at": "2026-04-03T14:39:07Z",
+      "url": "https://restofworld.org/2025/india-e-waste-recycling-electronics/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "_0nac"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "e",
+            "waste"
+          ],
+          "value": "Agbogbloshie, the world's largest <em>e-waste</em> dump"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://en.wikipedia.org/wiki/Agbogbloshie"
+        }
+      },
+      "_tags": [
+        "story",
+        "author__0nac",
+        "story_9136204"
+      ],
+      "author": "_0nac",
+      "children": [
+        9137146,
+        9137167,
+        9137201,
+        9137217,
+        9137419,
+        9137600,
+        9137863,
+        9137919,
+        9138214,
+        9141199,
+        9148849
+      ],
+      "created_at": "2015-03-03T05:08:20Z",
+      "created_at_i": 1425359300,
+      "num_comments": 51,
+      "objectID": "9136204",
+      "points": 107,
+      "story_id": 9136204,
+      "title": "Agbogbloshie, the world's largest e-waste dump",
+      "updated_at": "2025-09-21T20:52:36Z",
+      "url": "https://en.wikipedia.org/wiki/Agbogbloshie"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "endswapper"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "e",
+            "waste"
+          ],
+          "value": "The <em>e-waste</em> mountains – in pictures"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "e",
+            "waste"
+          ],
+          "value": "https://www.theguardian.com/global-development-professionals-network/gallery/2016/oct/18/the-<em>e-waste</em>-reduce-waste-old-technology-mountains-in-pictures"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_endswapper",
+        "story_12742974"
+      ],
+      "author": "endswapper",
+      "children": [
+        12743045,
+        12743549,
+        12743791,
+        12743971,
+        12743979,
+        12744997,
+        12745044,
+        12745301,
+        12745733
+      ],
+      "created_at": "2016-10-19T11:57:33Z",
+      "created_at_i": 1476878253,
+      "num_comments": 33,
+      "objectID": "12742974",
+      "points": 101,
+      "story_id": 12742974,
+      "title": "The e-waste mountains – in pictures",
+      "updated_at": "2024-09-19T23:50:55Z",
+      "url": "https://www.theguardian.com/global-development-professionals-network/gallery/2016/oct/18/the-e-waste-reduce-waste-old-technology-mountains-in-pictures"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "technlogger"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "e",
+            "waste"
+          ],
+          "value": "Fixing 200 broken raspberry Pis to prevent <em>e-waste</em> and donating the money raised"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://blog.jmdawson.co.uk/i-bought-200-raspberry-pi-model-bs-and-im-going-to-fix-them-part-4/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_technlogger",
+        "story_25972094"
+      ],
+      "author": "technlogger",
+      "children": [
+        25973442,
+        25976227,
+        25977059,
+        25977637,
+        25977665
+      ],
+      "created_at": "2021-01-30T19:26:31Z",
+      "created_at_i": 1612034791,
+      "num_comments": 12,
+      "objectID": "25972094",
+      "points": 93,
+      "story_id": 25972094,
+      "title": "Fixing 200 broken raspberry Pis to prevent e-waste and donating the money raised",
+      "updated_at": "2024-09-20T07:52:44Z",
+      "url": "https://blog.jmdawson.co.uk/i-bought-200-raspberry-pi-model-bs-and-im-going-to-fix-them-part-4/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "ilamont"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "e",
+            "waste"
+          ],
+          "value": "‘<em>E-waste’</em> activist gets 15 months in prison for selling Windows restore disks"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://www.polygon.com/windows/2018/4/25/17280178/eric-lundgren-windows-restore-disks-microsoft-prison"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_ilamont",
+        "story_16924587"
+      ],
+      "author": "ilamont",
+      "children": [
+        16925093,
+        16925509,
+        16925552,
+        16925564,
+        16925648,
+        16925724,
+        16925726,
+        16925818,
+        16925835
+      ],
+      "created_at": "2018-04-25T18:35:12Z",
+      "created_at_i": 1524681312,
+      "num_comments": 11,
+      "objectID": "16924587",
+      "points": 87,
+      "story_id": 16924587,
+      "title": "‘E-waste’ activist gets 15 months in prison for selling Windows restore disks",
+      "updated_at": "2024-09-20T02:23:15Z",
+      "url": "https://www.polygon.com/windows/2018/4/25/17280178/eric-lundgren-windows-restore-disks-microsoft-prison"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "edward"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "e",
+            "waste"
+          ],
+          "value": "Killing Windows 10 in 2025 could turn PCs into <em>eWaste</em>"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "e",
+            "waste"
+          ],
+          "value": "https://liliputing.com/lilbits-killing-windows-10-in-2025-could-turn-millions-of-pcs-into-<em>ewaste</em>-or-at-least-compromise-their-security/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_edward",
+        "story_38050752"
+      ],
+      "author": "edward",
+      "children": [
+        38051003,
+        38051089,
+        38051213,
+        38051231,
+        38051302,
+        38051349,
+        38051406,
+        38051451,
+        38051512,
+        38051540,
+        38051581,
+        38051656,
+        38052001,
+        38052015,
+        38054608
+      ],
+      "created_at": "2023-10-28T15:50:22Z",
+      "created_at_i": 1698508222,
+      "num_comments": 103,
+      "objectID": "38050752",
+      "points": 69,
+      "story_id": 38050752,
+      "title": "Killing Windows 10 in 2025 could turn PCs into eWaste",
+      "updated_at": "2025-08-14T22:54:31Z",
+      "url": "https://liliputing.com/lilbits-killing-windows-10-in-2025-could-turn-millions-of-pcs-into-ewaste-or-at-least-compromise-their-security/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Brajeshwar"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "e",
+            "waste"
+          ],
+          "value": "Gold recovery from <em>e-waste</em> by food-waste amyloid aerogels"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://onlinelibrary.wiley.com/doi/10.1002/adma.202310642"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_Brajeshwar",
+        "story_39590071"
+      ],
+      "author": "Brajeshwar",
+      "children": [
+        39624844,
+        39624956,
+        39625093
+      ],
+      "created_at": "2024-03-04T13:15:38Z",
+      "created_at_i": 1709558138,
+      "num_comments": 20,
+      "objectID": "39590071",
+      "points": 69,
+      "story_id": 39590071,
+      "title": "Gold recovery from e-waste by food-waste amyloid aerogels",
+      "updated_at": "2025-08-14T22:43:26Z",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1002/adma.202310642"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "montrose"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "e",
+            "waste"
+          ],
+          "value": "<em>E-Waste</em> Innovator Will Go to Jail for Making Windows Restore Disks"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "e",
+            "waste"
+          ],
+          "value": "https://gizmodo.com/<em>e-waste</em>-innovator-will-go-to-jail-for-selling-windows-r-1825518742"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_montrose",
+        "story_16918987"
+      ],
+      "author": "montrose",
+      "children": [
+        16921709,
+        16922444,
+        16923283,
+        16923290
+      ],
+      "created_at": "2018-04-25T06:21:38Z",
+      "created_at_i": 1524637298,
+      "num_comments": 4,
+      "objectID": "16918987",
+      "points": 69,
+      "story_id": 16918987,
+      "title": "E-Waste Innovator Will Go to Jail for Making Windows Restore Disks",
+      "updated_at": "2024-09-20T02:22:39Z",
+      "url": "https://gizmodo.com/e-waste-innovator-will-go-to-jail-for-selling-windows-r-1825518742"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "rntn"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "e",
+            "waste"
+          ],
+          "value": "Guy makes \"dodgy e-bike\" from 130 used vapes to make point about <em>e-waste</em>"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://arstechnica.com/gadgets/2024/11/disposable-vapes-from-a-music-festival-can-power-a-beefy-e-bike-20-miles/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_rntn",
+        "story_42045621"
+      ],
+      "author": "rntn",
+      "children": [
+        42046140,
+        42046868,
+        42047501,
+        42051730
+      ],
+      "created_at": "2024-11-04T20:19:28Z",
+      "created_at_i": 1730751568,
+      "num_comments": 14,
+      "objectID": "42045621",
+      "points": 63,
+      "story_id": 42045621,
+      "title": "Guy makes \"dodgy e-bike\" from 130 used vapes to make point about e-waste",
+      "updated_at": "2025-09-16T12:17:18Z",
+      "url": "https://arstechnica.com/gadgets/2024/11/disposable-vapes-from-a-music-festival-can-power-a-beefy-e-bike-20-miles/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "wyldfire"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "e",
+            "waste"
+          ],
+          "value": "<em>E-Waste</em> recycling innovator faces prison for trying to extend life span of PCs"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "e",
+            "waste"
+          ],
+          "value": "https://www.washingtonpost.com/news/true-crime/wp/2018/02/15/eric-lundgren-<em>e-waste</em>-recycling-innovator-faces-prison-for-trying-to-extend-lifespan-of-pcs/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_wyldfire",
+        "story_16413693"
+      ],
+      "author": "wyldfire",
+      "children": [
+        16414659,
+        16415332
+      ],
+      "created_at": "2018-02-19T16:15:06Z",
+      "created_at_i": 1519056906,
+      "num_comments": 8,
+      "objectID": "16413693",
+      "points": 56,
+      "story_id": 16413693,
+      "title": "E-Waste recycling innovator faces prison for trying to extend life span of PCs",
+      "updated_at": "2024-09-20T02:00:46Z",
+      "url": "https://www.washingtonpost.com/news/true-crime/wp/2018/02/15/eric-lundgren-e-waste-recycling-innovator-faces-prison-for-trying-to-extend-lifespan-of-pcs/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Tomte"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "e",
+            "waste"
+          ],
+          "value": "<em>E-Waste</em> Empire"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "e",
+            "waste"
+          ],
+          "value": "http://www.theverge.com/2016/6/22/11991440/eri-<em>e-waste</em>-electronics-recycling-nyc-gadget-trash"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_Tomte",
+        "story_11955841"
+      ],
+      "author": "Tomte",
+      "children": [
+        11957848,
+        11957939,
+        11957973,
+        11958003,
+        11962451
+      ],
+      "created_at": "2016-06-22T18:14:14Z",
+      "created_at_i": 1466619254,
+      "num_comments": 21,
+      "objectID": "11955841",
+      "points": 51,
+      "story_id": 11955841,
+      "title": "E-Waste Empire",
+      "updated_at": "2024-09-19T23:22:43Z",
+      "url": "http://www.theverge.com/2016/6/22/11991440/eri-e-waste-electronics-recycling-nyc-gadget-trash"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "rntn"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "e",
+            "waste"
+          ],
+          "value": "GenAI is set to create a mountainous increase in <em>e-waste</em>"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://www.theregister.com/2024/10/28/genai_dirty_secret/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_rntn",
+        "story_41974159"
+      ],
+      "author": "rntn",
+      "children": [
+        41974385,
+        41974390,
+        41974465,
+        41974490,
+        41974960,
+        41975209,
+        41978394
+      ],
+      "created_at": "2024-10-28T18:06:00Z",
+      "created_at_i": 1730138760,
+      "num_comments": 18,
+      "objectID": "41974159",
+      "points": 49,
+      "story_id": 41974159,
+      "title": "GenAI is set to create a mountainous increase in e-waste",
+      "updated_at": "2024-11-18T19:42:19Z",
+      "url": "https://www.theregister.com/2024/10/28/genai_dirty_secret/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "makos"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "e",
+            "waste"
+          ],
+          "value": "African inventor makes 3D printer from <em>e-waste</em> "
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "e",
+            "waste"
+          ],
+          "value": "http://www.3ders.org/articles/20131010-african-inventor-makes-3d-printer-from-<em>e-waste</em>.html"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_makos",
+        "story_6532245"
+      ],
+      "author": "makos",
+      "children": [
+        6532321,
+        6532334,
+        6532339,
+        6532341,
+        6532380,
+        6532392,
+        6533061,
+        6534152,
+        6535830,
+        6537064,
+        6537808
+      ],
+      "created_at": "2013-10-11T09:58:22Z",
+      "created_at_i": 1381485502,
+      "num_comments": 14,
+      "objectID": "6532245",
+      "points": 48,
+      "story_id": 6532245,
+      "title": "African inventor makes 3D printer from e-waste ",
+      "updated_at": "2024-09-19T20:01:19Z",
+      "url": "http://www.3ders.org/articles/20131010-african-inventor-makes-3d-printer-from-e-waste.html"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "todsacerdoti"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "e",
+            "waste"
+          ],
+          "value": "How to save an old printer from the <em>e-waste</em> pile with a Raspberry Pi"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://ounapuu.ee/posts/2024/06/12/save-old-printer/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_todsacerdoti",
+        "story_40657753"
+      ],
+      "author": "todsacerdoti",
+      "children": [
+        40664408,
+        40664509,
+        40664519,
+        40664558,
+        40664898,
+        40665585,
+        40668618,
+        40698792
+      ],
+      "created_at": "2024-06-12T13:12:54Z",
+      "created_at_i": 1718197974,
+      "num_comments": 9,
+      "objectID": "40657753",
+      "points": 44,
+      "story_id": 40657753,
+      "title": "How to save an old printer from the e-waste pile with a Raspberry Pi",
+      "updated_at": "2024-09-20T17:16:02Z",
+      "url": "https://ounapuu.ee/posts/2024/06/12/save-old-printer/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "leejoramo"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "e",
+            "waste"
+          ],
+          "value": "Chromebooks Were Once a Good Deal for Schools. Now They’re Becoming <em>E-Waste</em>"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "e",
+            "waste"
+          ],
+          "value": "https://www.wsj.com/tech/personal-tech/chromebooks-were-once-a-good-deal-for-schools-now-theyre-becoming-<em>e-waste</em>-dc93833b"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_leejoramo",
+        "story_37281480"
+      ],
+      "author": "leejoramo",
+      "children": [
+        37281491,
+        37281601,
+        37281637,
+        37281651,
+        37281737,
+        37282573,
+        37283041,
+        37283107,
+        37284052,
+        37284374,
+        37284596,
+        37284670,
+        37284674,
+        37285499,
+        37285669,
+        37289308
+      ],
+      "created_at": "2023-08-27T11:13:11Z",
+      "created_at_i": 1693134791,
+      "num_comments": 50,
+      "objectID": "37281480",
+      "points": 43,
+      "story_id": 37281480,
+      "title": "Chromebooks Were Once a Good Deal for Schools. Now They’re Becoming E-Waste",
+      "updated_at": "2025-08-15T22:05:04Z",
+      "url": "https://www.wsj.com/tech/personal-tech/chromebooks-were-once-a-good-deal-for-schools-now-theyre-becoming-e-waste-dc93833b"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "lxm"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "e",
+            "waste"
+          ],
+          "value": "Chromebooks Were Once a Good Deal for Schools. Now They’re Becoming <em>E-Waste</em>"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "e",
+            "waste"
+          ],
+          "value": "https://www.wsj.com/tech/chromebooks-were-once-a-good-deal-for-schools-now-theyre-becoming-<em>e-waste</em>-dc93833b"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_lxm",
+        "story_37384323"
+      ],
+      "author": "lxm",
+      "children": [
+        37384498,
+        37384576,
+        37384618,
+        37384628,
+        37384644,
+        37384672,
+        37384678,
+        37384679,
+        37384737,
+        37384758,
+        37384965,
+        37385058,
+        37385514
+      ],
+      "created_at": "2023-09-04T19:56:35Z",
+      "created_at_i": 1693857395,
+      "num_comments": 62,
+      "objectID": "37384323",
+      "points": 37,
+      "story_id": 37384323,
+      "title": "Chromebooks Were Once a Good Deal for Schools. Now They’re Becoming E-Waste",
+      "updated_at": "2024-09-20T15:05:23Z",
+      "url": "https://www.wsj.com/tech/chromebooks-were-once-a-good-deal-for-schools-now-theyre-becoming-e-waste-dc93833b"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "bikenaga"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "e",
+            "waste"
+          ],
+          "value": "Generative AI could generate tons of <em>e-waste</em> by decade's end"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://techxplore.com/news/2024-10-generative-ai-generate-millions-tons.html"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_bikenaga",
+        "story_41989555"
+      ],
+      "author": "bikenaga",
+      "children": [
+        41989723,
+        41989828,
+        41989858,
+        41989883,
+        41990030,
+        41990034,
+        41990089,
+        41990092,
+        41990626,
+        41990926
+      ],
+      "created_at": "2024-10-29T21:24:32Z",
+      "created_at_i": 1730237072,
+      "num_comments": 41,
+      "objectID": "41989555",
+      "points": 34,
+      "story_id": 41989555,
+      "title": "Generative AI could generate tons of e-waste by decade's end",
+      "updated_at": "2025-08-14T22:29:29Z",
+      "url": "https://techxplore.com/news/2024-10-generative-ai-generate-millions-tons.html"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "doener"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "e",
+            "waste"
+          ],
+          "value": "The end of Windows 10 support could turn 240M PCs into <em>e-waste</em>"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "e",
+            "waste"
+          ],
+          "value": "https://www.canalys.com/insights/end-of-windows-10-support-could-turn-240-million-pcs-into-<em>e-waste</em>"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_doener",
+        "story_38745605"
+      ],
+      "author": "doener",
+      "children": [
+        38745885,
+        38745887,
+        38745891,
+        38745900,
+        38745912,
+        38745937,
+        38745938,
+        38745945,
+        38745967,
+        38745996,
+        38746005,
+        38746017,
+        38746023,
+        38746040,
+        38746538,
+        38747464,
+        38749610
+      ],
+      "created_at": "2023-12-23T16:50:06Z",
+      "created_at_i": 1703350206,
+      "num_comments": 39,
+      "objectID": "38745605",
+      "points": 33,
+      "story_id": 38745605,
+      "title": "The end of Windows 10 support could turn 240M PCs into e-waste",
+      "updated_at": "2025-03-23T11:06:50Z",
+      "url": "https://www.canalys.com/insights/end-of-windows-10-support-could-turn-240-million-pcs-into-e-waste"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "pabs3"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "e",
+            "waste"
+          ],
+          "value": "Modular PC Design: Sustainable Approach Enhanced Repairability Reduced <em>E-Waste</em>"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://community.intel.com/t5/Blogs/Tech-Innovation/Client/Modular-PC-Design-A-Sustainable-Approach-for-Enhanced/post/1657681"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_pabs3",
+        "story_42810865"
+      ],
+      "author": "pabs3",
+      "children": [
+        42811971,
+        42811991,
+        42812001,
+        42812012,
+        42812052,
+        42812069,
+        42812131,
+        42812316,
+        42812434,
+        42812905,
+        42813659
+      ],
+      "created_at": "2025-01-24T06:03:42Z",
+      "created_at_i": 1737698622,
+      "num_comments": 53,
+      "objectID": "42810865",
+      "points": 23,
+      "story_id": 42810865,
+      "title": "Modular PC Design: Sustainable Approach Enhanced Repairability Reduced E-Waste",
+      "updated_at": "2025-02-09T00:18:37Z",
+      "url": "https://community.intel.com/t5/Blogs/Tech-Innovation/Client/Modular-PC-Design-A-Sustainable-Approach-for-Enhanced/post/1657681"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "arch1e"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "e",
+            "waste"
+          ],
+          "value": "Saving 100+ Desk Phones from <em>E-Waste</em> Doom with TFTP and a Simpler PBX"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://difuse.io/blog/cucm-migration"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_arch1e",
+        "story_42585898"
+      ],
+      "author": "arch1e",
+      "children": [
+        42585990
+      ],
+      "created_at": "2025-01-03T14:25:36Z",
+      "created_at_i": 1735914336,
+      "num_comments": 0,
+      "objectID": "42585898",
+      "points": 19,
+      "story_id": 42585898,
+      "title": "Saving 100+ Desk Phones from E-Waste Doom with TFTP and a Simpler PBX",
+      "updated_at": "2025-01-03T23:41:43Z",
+      "url": "https://difuse.io/blog/cucm-migration"
+    }
+  ],
+  "hitsPerPage": 30,
+  "nbHits": 285,
+  "nbPages": 10,
+  "page": 0,
+  "params": "query=e-waste&tags=story&hitsPerPage=30&advancedSyntax=true&analyticsTags=backend",
+  "processingTimeMS": 11,
+  "processingTimingsMS": {
+    "_request": {
+      "roundTrip": 20
+    },
+    "afterFetch": {
+      "merge": {
+        "total": 1
+      },
+      "total": 1
+    },
+    "fetch": {
+      "query": 2,
+      "scanning": 6,
+      "total": 9
+    },
+    "total": 11
+  },
+  "query": "e-waste",
+  "serverTimeMS": 12
+}

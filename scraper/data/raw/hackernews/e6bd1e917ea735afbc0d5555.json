@@ -1,0 +1,820 @@
+{
+  "exhaustive": {
+    "nbHits": false,
+    "typo": false
+  },
+  "exhaustiveNbHits": false,
+  "exhaustiveTypo": false,
+  "hits": [
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "swores"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "plastic",
+            "and",
+            "packaging"
+          ],
+          "value": "EU unveils plans to cut Europe’s <em>plastic</em> <em>and</em> <em>packaging</em> waste"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "plastic",
+            "and",
+            "packaging"
+          ],
+          "value": "https://www.theguardian.com/environment/2022/nov/30/eu-unveils-plans-to-cut-europes-<em>plastic</em>-<em>and</em>-<em>packaging</em>-waste"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_swores",
+        "story_33809149"
+      ],
+      "author": "swores",
+      "created_at": "2022-11-30T22:51:48Z",
+      "created_at_i": 1669848708,
+      "num_comments": 0,
+      "objectID": "33809149",
+      "points": 7,
+      "story_id": 33809149,
+      "title": "EU unveils plans to cut Europe’s plastic and packaging waste",
+      "updated_at": "2024-09-20T12:35:29Z",
+      "url": "https://www.theguardian.com/environment/2022/nov/30/eu-unveils-plans-to-cut-europes-plastic-and-packaging-waste"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "quotz"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "plastic",
+            "and",
+            "packaging"
+          ],
+          "value": "Hi! I am launching a new eco-friendly <em>and</em> sustainable company <em>and</em> I need your help! Our mission is to reduce CO2 by cutting out unnecessary water from personal care <em>and</em> household products. We all have tap water at home, why don't we just cut shipping costs <em>and</em> pollution with a &quot;Bring your own water&quot; solution where you can use tap water to dissolve the products at home!<p>Our first product will be toothpaste <em>and</em> mouthwash tablets which are infinitely refillable <em>and</em> come in zero waste <em>and</em> zero <em>plastic</em> <em>packaging</em>.<p>However, we are in a dilemma about choosing a name that fits. We have the necessary domains with both options. These are the options:<p>1. Earthbound or Earthbound Society. \nWe like this name because it associates with sustainability <em>and</em> community. We can drop the society if only earthbound is better.<p>2. Lavabo. \nWe like this name because it means &quot;washbasin&quot; in almost all of European languages. Its also short <em>and</em> sweet.<p>Whats your opinion? Every single answer helps, also I can send you free samples once the first batch arrives if interested!"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Ask HN: Help me name my startup"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_quotz",
+        "story_38564955",
+        "ask_hn"
+      ],
+      "author": "quotz",
+      "children": [
+        38564978,
+        38564985,
+        38565040,
+        38565473,
+        38565795,
+        38565851
+      ],
+      "created_at": "2023-12-08T03:02:45Z",
+      "created_at_i": 1702004565,
+      "num_comments": 16,
+      "objectID": "38564955",
+      "points": 5,
+      "story_id": 38564955,
+      "story_text": "Hi! I am launching a new eco-friendly and sustainable company and I need your help! Our mission is to reduce CO2 by cutting out unnecessary water from personal care and household products. We all have tap water at home, why don&#x27;t we just cut shipping costs and pollution with a &quot;Bring your own water&quot; solution where you can use tap water to dissolve the products at home!<p>Our first product will be toothpaste and mouthwash tablets which are infinitely refillable and come in zero waste and zero plastic packaging.<p>However, we are in a dilemma about choosing a name that fits. We have the necessary domains with both options. These are the options:<p>1. Earthbound or Earthbound Society. \nWe like this name because it associates with sustainability and community. We can drop the society if only earthbound is better.<p>2. Lavabo. \nWe like this name because it means &quot;washbasin&quot; in almost all of European languages. Its also short and sweet.<p>Whats your opinion? Every single answer helps, also I can send you free samples once the first batch arrives if interested!",
+      "title": "Ask HN: Help me name my startup",
+      "updated_at": "2024-09-20T15:52:22Z"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "_pmpt"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "plastic",
+            "and",
+            "packaging"
+          ],
+          "value": "Hi! I am launching a new eco-friendly <em>and</em> sustainable personal care <em>and</em> household care startup <em>and</em> I need your help for choosing a name! We are launching in under 6 months in the US &amp; Canada, <em>and</em> later in Europe.<p>We are in a dilemma about choosing a name that fits. We have the necessary domains with both options. These are the options:<p>---- [redacted] or [redacted] Society. We like this name because it associates with sustainability <em>and</em> community. We can drop the society if only [redacted] is better. It also feels futuristic, imagine the year is 2300 <em>and</em> there's shuttle busses going between planets in the solar system <em>and</em> you hop on the bus that says [redacted], next stop ISS :D<p>---- Lavabo. We like this name because it means &quot;washbasin&quot; in almost all of European languages. Its also short <em>and</em> sweet. Since most personal care products are kept on the sink, it also fits our business!<p>Our mission is to reduce CO2 by cutting out unnecessary water from personal care <em>and</em> household products. We all have tap water at home, why don't we just cut shipping costs <em>and</em> pollution with a &quot;Bring your own water&quot; solution where you can use tap water to dissolve the products at home! Our first product will be toothpaste <em>and</em> mouthwash tablets which are infinitely refillable <em>and</em> come in zero waste <em>and</em> zero <em>plastic</em> <em>packaging</em>.<p>The brand style we are going for is sort of eco-friendly, hipsterish, West Coast / California, but also lifestyle. Our direct competitors are called Everist <em>and</em> BlueLand. Simple names like that would work. Essentially the products are ecommerce, direct to consumer, modern, innovative.<p>Whats your opinion? Every single answer helps, also I can send you free samples once the first batch arrives if interested! Oh, if you dont like either name feel free to submit a name you like!"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Ask HN: Name my startup"
+        }
+      },
+      "_tags": [
+        "story",
+        "author__pmpt",
+        "story_38596651",
+        "ask_hn"
+      ],
+      "author": "_pmpt",
+      "children": [
+        38596689,
+        38596697,
+        38596699,
+        38597115,
+        38597451,
+        38597588,
+        38598315
+      ],
+      "created_at": "2023-12-11T01:17:13Z",
+      "created_at_i": 1702257433,
+      "num_comments": 8,
+      "objectID": "38596651",
+      "points": 2,
+      "story_id": 38596651,
+      "story_text": "Hi! I am launching a new eco-friendly and sustainable personal care and household care startup and I need your help for choosing a name! We are launching in under 6 months in the US &amp; Canada, and later in Europe.<p>We are in a dilemma about choosing a name that fits. We have the necessary domains with both options. These are the options:<p>---- [redacted] or [redacted] Society. We like this name because it associates with sustainability and community. We can drop the society if only [redacted] is better. It also feels futuristic, imagine the year is 2300 and there&#x27;s shuttle busses going between planets in the solar system and you hop on the bus that says [redacted], next stop ISS :D<p>---- Lavabo. We like this name because it means &quot;washbasin&quot; in almost all of European languages. Its also short and sweet. Since most personal care products are kept on the sink, it also fits our business!<p>Our mission is to reduce CO2 by cutting out unnecessary water from personal care and household products. We all have tap water at home, why don&#x27;t we just cut shipping costs and pollution with a &quot;Bring your own water&quot; solution where you can use tap water to dissolve the products at home! Our first product will be toothpaste and mouthwash tablets which are infinitely refillable and come in zero waste and zero plastic packaging.<p>The brand style we are going for is sort of eco-friendly, hipsterish, West Coast &#x2F; California, but also lifestyle. Our direct competitors are called Everist and BlueLand. Simple names like that would work. Essentially the products are ecommerce, direct to consumer, modern, innovative.<p>Whats your opinion? Every single answer helps, also I can send you free samples once the first batch arrives if interested! Oh, if you dont like either name feel free to submit a name you like!",
+      "title": "Ask HN: Name my startup",
+      "updated_at": "2025-08-14T22:50:39Z"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "jelliclesfarm"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "plastic",
+            "and",
+            "packaging"
+          ],
+          "value": "Elsewhere on LinkedIn, someone asked for leads to find child resistant paper <em>packaging</em> instead of <em>plastic</em>.<p>They didn’t mention the product that was being packaged.<p>It was suggested that choosing paper over <em>plastic</em> was an uneducated choice <em>and</em> other ‘experts’ were beckoned.<p>It is my opinion that <em>plastic</em> <em>packaging</em> should be considered only if we resolve the landfill <em>and</em> waste management issues.<p>An ‘expert’ (aka someone with a Ph.D) started like this: [..]first, you have no science background.  How on earth can you tell those with a combined few hundred years in the industry, who’ve developed some of the most powerful sustainability, clean <em>and</em> green technologies on earth what is uneducated?  How?[..]<p><em>And</em> further devolved into: [..] ‘my name’ was rude from the outset...<em>and</em> folks like her really need to stop bashing the 10MM plus who work in this industry.  Me?  I have had enough PC bs.  Folks spreading the lies border on criminal if not criminal.<p>Know what you're talking about.  [..]<p>I cannot have a discussion with this person. It is very aggravating. I did not even know this person before he was tagged in a reply to me.<p>But I DO want to know if a case can be made for the use of <em>plastic</em> <em>packaging</em>. Can someone explain to me or direct me to material that show the pros <em>and</em> cons of <em>plastic</em> <em>packaging</em> without any agenda(political/profit based), but from an environmental/sustainable POV?<p>I want to know more but I can’t hold a civil discourse with someone who is so aggravating."
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "plastic",
+            "packaging"
+          ],
+          "value": "Ask HN: Making a Case for <em>Plastic</em> <em>Packaging</em>"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_jelliclesfarm",
+        "story_20616627",
+        "ask_hn"
+      ],
+      "author": "jelliclesfarm",
+      "created_at": "2019-08-05T18:11:45Z",
+      "created_at_i": 1565028705,
+      "num_comments": 0,
+      "objectID": "20616627",
+      "points": 2,
+      "story_id": 20616627,
+      "story_text": "Elsewhere on LinkedIn, someone asked for leads to find child resistant paper packaging instead of plastic.<p>They didn’t mention the product that was being packaged.<p>It was suggested that choosing paper over plastic was an uneducated choice and other ‘experts’ were beckoned.<p>It is my opinion that plastic packaging should be considered only if we resolve the landfill and waste management issues.<p>An ‘expert’ (aka someone with a Ph.D) started like this: [..]first, you have no science background.  How on earth can you tell those with a combined few hundred years in the industry, who’ve developed some of the most powerful sustainability, clean and green technologies on earth what is uneducated?  How?[..]<p>And further devolved into: [..] ‘my name’ was rude from the outset...and folks like her really need to stop bashing the 10MM plus who work in this industry.  Me?  I have had enough PC bs.  Folks spreading the lies border on criminal if not criminal.<p>Know what you&#x27;re talking about.  [..]<p>I cannot have a discussion with this person. It is very aggravating. I did not even know this person before he was tagged in a reply to me.<p>But I DO want to know if a case can be made for the use of plastic packaging. Can someone explain to me or direct me to material that show the pros and cons of plastic packaging without any agenda(political&#x2F;profit based), but from an environmental&#x2F;sustainable POV?<p>I want to know more but I can’t hold a civil discourse with someone who is so aggravating.",
+      "title": "Ask HN: Making a Case for Plastic Packaging",
+      "updated_at": "2024-09-20T04:34:59Z"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "chefkoch"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "plastic",
+            "and",
+            "packaging"
+          ],
+          "value": "France to ban <em>plastic</em> <em>packaging</em> for most fruit <em>and</em> vegetables from January 2022"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "plastic",
+            "and",
+            "packaging"
+          ],
+          "value": "https://www.france24.com/en/europe/20211011-france-to-ban-<em>plastic</em>-<em>packaging</em>-for-fruit-<em>and</em>-vegetables-from-january-2022"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_chefkoch",
+        "story_28837064"
+      ],
+      "author": "chefkoch",
+      "children": [
+        28837182,
+        28837491
+      ],
+      "created_at": "2021-10-12T07:35:33Z",
+      "created_at_i": 1634024133,
+      "num_comments": 8,
+      "objectID": "28837064",
+      "points": 18,
+      "story_id": 28837064,
+      "title": "France to ban plastic packaging for most fruit and vegetables from January 2022",
+      "updated_at": "2024-09-20T09:36:07Z",
+      "url": "https://www.france24.com/en/europe/20211011-france-to-ban-plastic-packaging-for-fruit-and-vegetables-from-january-2022"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "giuliomagnifico"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "plastic",
+            "and",
+            "packaging"
+          ],
+          "value": "<em>Plastic</em> recycling results in rare metals being found in toys <em>and</em> food <em>packaging</em>"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "plastic",
+            "and",
+            "packaging"
+          ],
+          "value": "https://www.plymouth.ac.uk/news/<em>plastic</em>-recycling-results-in-rare-metals-being-found-in-childrens-toys-<em>and</em>-food-<em>packaging</em>"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_giuliomagnifico",
+        "story_26196315"
+      ],
+      "author": "giuliomagnifico",
+      "children": [
+        26301437
+      ],
+      "created_at": "2021-02-19T18:35:45Z",
+      "created_at_i": 1613759745,
+      "num_comments": 1,
+      "objectID": "26196315",
+      "points": 2,
+      "story_id": 26196315,
+      "title": "Plastic recycling results in rare metals being found in toys and food packaging",
+      "updated_at": "2024-09-20T08:03:40Z",
+      "url": "https://www.plymouth.ac.uk/news/plastic-recycling-results-in-rare-metals-being-found-in-childrens-toys-and-food-packaging"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "rbanffy"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "plastic",
+            "and"
+          ],
+          "value": "We're entering a post-<em>plastic</em> world <em>and</em> seaweed will replace oil UK"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "plastic",
+            "packaging"
+          ],
+          "value": "http://www.wired.co.uk/article/post-<em>plastic</em>-future-seaweed-<em>packaging</em>-wired-world-2018?utm_content=buffer1a493&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_rbanffy",
+        "story_16185121"
+      ],
+      "author": "rbanffy",
+      "created_at": "2018-01-19T09:46:57Z",
+      "created_at_i": 1516355217,
+      "num_comments": 0,
+      "objectID": "16185121",
+      "points": 2,
+      "story_id": 16185121,
+      "title": "We're entering a post-plastic world and seaweed will replace oil UK",
+      "updated_at": "2024-09-20T01:57:08Z",
+      "url": "http://www.wired.co.uk/article/post-plastic-future-seaweed-packaging-wired-world-2018?utm_content=buffer1a493&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "jxub"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "plastic",
+            "and",
+            "packaging"
+          ],
+          "value": "<em>Plastic</em> <em>packaging</em> from M&S <em>and</em> Tesco found piling up in a Malaysian jungle"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "plastic",
+            "packaging"
+          ],
+          "value": "https://www.dailymail.co.uk/news/article-7070709/<em>Plastic</em>-<em>packaging</em>-M-S-Tesco-Essex-council-recycling-sacks-Malaysian-jungle.html"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_jxub",
+        "story_20015816"
+      ],
+      "author": "jxub",
+      "created_at": "2019-05-26T16:43:10Z",
+      "created_at_i": 1558888990,
+      "num_comments": 0,
+      "objectID": "20015816",
+      "points": 1,
+      "story_id": 20015816,
+      "title": "Plastic packaging from M&S and Tesco found piling up in a Malaysian jungle",
+      "updated_at": "2024-09-20T04:14:11Z",
+      "url": "https://www.dailymail.co.uk/news/article-7070709/Plastic-packaging-M-S-Tesco-Essex-council-recycling-sacks-Malaysian-jungle.html"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "rooam-dev"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "plastic",
+            "and",
+            "packaging"
+          ],
+          "value": "Hello,<p>I have ordered an phone (iPhone 11 pro) from Mindfactory (Germany) <em>and</em> to my surprise the box/<em>packaging</em> was open. There were no scratches anything, just some dirt left <em>and</em> the <em>plastic</em> wrap was careful cut.<p>Their online service doesn't have an option for a full refund but only replacement/repair. My concern is that this doesn't stop them to send another open package.<p>The problem is that, this is the 2nd time it happens to me in Germany (different store). That time I let is slide, too much trouble for 100EUR.\nHowever this time is 1500EUR <em>and</em> it's unacceptable imho.<p>Any input is welcome. I would like to contact an attorney, but before I start spending money, perhaps there is a more formal <em>and</em>/or appropriate solution.<p>Thank you in advance.<p>PS: Meanwhile I have sent it back while waiting their response."
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Ask HN: Dealing with shops that send open box products (Germany)"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_rooam-dev",
+        "story_21980551",
+        "ask_hn"
+      ],
+      "author": "rooam-dev",
+      "children": [
+        21980673,
+        21980734,
+        21982681
+      ],
+      "created_at": "2020-01-07T15:05:45Z",
+      "created_at_i": 1578409545,
+      "num_comments": 7,
+      "objectID": "21980551",
+      "points": 1,
+      "story_id": 21980551,
+      "story_text": "Hello,<p>I have ordered an phone (iPhone 11 pro) from Mindfactory (Germany) and to my surprise the box&#x2F;packaging was open. There were no scratches anything, just some dirt left and the plastic wrap was careful cut.<p>Their online service doesn&#x27;t have an option for a full refund but only replacement&#x2F;repair. My concern is that this doesn&#x27;t stop them to send another open package.<p>The problem is that, this is the 2nd time it happens to me in Germany (different store). That time I let is slide, too much trouble for 100EUR.\nHowever this time is 1500EUR and it&#x27;s unacceptable imho.<p>Any input is welcome. I would like to contact an attorney, but before I start spending money, perhaps there is a more formal and&#x2F;or appropriate solution.<p>Thank you in advance.<p>PS: Meanwhile I have sent it back while waiting their response.",
+      "title": "Ask HN: Dealing with shops that send open box products (Germany)",
+      "updated_at": "2024-09-20T05:34:14Z"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "marita_oxyn"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "plastic",
+            "and",
+            "packaging"
+          ],
+          "value": "Hey there SF! We are in search of green-minded people to join us at Oxyn to test our new blockchain app! During the pilot you will be able to return glass <em>packaging</em> for reusing <em>and</em> you'll get rewarded for that. All you'll need to do is download our app,  join our closed group of early birds on Discord <em>and</em> share your thoughts, <em>and</em> of course choose glass over <em>plastic</em> whenever possible! \nhttps://oxyn.io/individual"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "plastic"
+          ],
+          "value": "Join us in our pilot project to end <em>plastic</em> waste"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_marita_oxyn",
+        "story_32767534",
+        "ask_hn"
+      ],
+      "author": "marita_oxyn",
+      "children": [
+        32767729
+      ],
+      "created_at": "2022-09-08T16:02:31Z",
+      "created_at_i": 1662652951,
+      "num_comments": 2,
+      "objectID": "32767534",
+      "points": 1,
+      "story_id": 32767534,
+      "story_text": "Hey there SF! We are in search of green-minded people to join us at Oxyn to test our new blockchain app! During the pilot you will be able to return glass packaging for reusing and you&#x27;ll get rewarded for that. All you&#x27;ll need to do is download our app,  join our closed group of early birds on Discord and share your thoughts, and of course choose glass over plastic whenever possible! \nhttps:&#x2F;&#x2F;oxyn.io&#x2F;individual",
+      "title": "Join us in our pilot project to end plastic waste",
+      "updated_at": "2024-09-20T12:03:32Z"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "rococode"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "plastic"
+          ],
+          "value": "KitKat Japan is replacing <em>plastic</em> wrappers with origami paper versions"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "plastic",
+            "and",
+            "packaging"
+          ],
+          "value": "https://www.independent.co.uk/life-style/food-<em>and</em>-drink/kitkat-japan-nestle-<em>plastic</em>-<em>packaging</em>-paper-wrapper-origami-cranes-waste-a9057356.html"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_rococode",
+        "story_20989035"
+      ],
+      "author": "rococode",
+      "children": [
+        20989584,
+        20991191
+      ],
+      "created_at": "2019-09-16T22:07:08Z",
+      "created_at_i": 1568671628,
+      "num_comments": 5,
+      "objectID": "20989035",
+      "points": 25,
+      "story_id": 20989035,
+      "title": "KitKat Japan is replacing plastic wrappers with origami paper versions",
+      "updated_at": "2024-09-20T04:52:44Z",
+      "url": "https://www.independent.co.uk/life-style/food-and-drink/kitkat-japan-nestle-plastic-packaging-paper-wrapper-origami-cranes-waste-a9057356.html"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "trvrprkr"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "plastic",
+            "and"
+          ],
+          "value": "Material Formed from Crab Shells <em>and</em> Trees Could Replace Flexible <em>Plastic</em>"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "plastic",
+            "and",
+            "packaging"
+          ],
+          "value": "http://www.news.gatech.edu/2018/07/23/material-formed-crab-shells-<em>and</em>-trees-could-replace-flexible-<em>plastic</em>-<em>packaging</em>"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_trvrprkr",
+        "story_17644125"
+      ],
+      "author": "trvrprkr",
+      "created_at": "2018-07-30T13:07:10Z",
+      "created_at_i": 1532956030,
+      "num_comments": 0,
+      "objectID": "17644125",
+      "points": 2,
+      "story_id": 17644125,
+      "title": "Material Formed from Crab Shells and Trees Could Replace Flexible Plastic",
+      "updated_at": "2024-09-20T02:47:50Z",
+      "url": "http://www.news.gatech.edu/2018/07/23/material-formed-crab-shells-and-trees-could-replace-flexible-plastic-packaging"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "imartin2k"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "plastic",
+            "and"
+          ],
+          "value": "France Is Freeing Fruit <em>and</em> Veg from Its <em>Plastic</em> Prison"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "plastic",
+            "packaging"
+          ],
+          "value": "https://reasonstobecheerful.world/france-<em>plastic</em>-<em>packaging</em>-fruit-vegetables/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_imartin2k",
+        "story_29329075"
+      ],
+      "author": "imartin2k",
+      "children": [
+        29329386
+      ],
+      "created_at": "2021-11-24T11:52:48Z",
+      "created_at_i": 1637754768,
+      "num_comments": 1,
+      "objectID": "29329075",
+      "points": 2,
+      "story_id": 29329075,
+      "title": "France Is Freeing Fruit and Veg from Its Plastic Prison",
+      "updated_at": "2024-09-20T09:50:20Z",
+      "url": "https://reasonstobecheerful.world/france-plastic-packaging-fruit-vegetables/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "elorant"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "plastic",
+            "packaging"
+          ],
+          "value": "Chinese scientists create edible food <em>packaging</em> to replace <em>plastic</em>"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "and"
+          ],
+          "value": "https://www.jpost.com/business-<em>and</em>-innovation/all-news/article-748532"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_elorant",
+        "story_36575938"
+      ],
+      "author": "elorant",
+      "children": [
+        36576732
+      ],
+      "created_at": "2023-07-03T17:11:05Z",
+      "created_at_i": 1688404265,
+      "num_comments": 1,
+      "objectID": "36575938",
+      "points": 7,
+      "story_id": 36575938,
+      "title": "Chinese scientists create edible food packaging to replace plastic",
+      "updated_at": "2024-09-20T14:29:07Z",
+      "url": "https://www.jpost.com/business-and-innovation/all-news/article-748532"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "hoodoof"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "plastic",
+            "and",
+            "packaging"
+          ],
+          "value": "Where are the startups working on solving &quot;The <em>Plastics</em> Problem&quot;?<p>Our society is PAYING <em>plastics</em> companies to create a seemingly infinite quantity of garbage that we throw into the sea <em>and</em> our land based environment.<p>The company(s) that solve The <em>Plastics</em> Problem stand to become gigantic because <em>packaging</em> is a vast industry.<p>Here's the best idea I have - it's yours free: standard sized, reusable <em>packaging</em><p>- Imagine a future in which we do not create single use <em>packaging</em>.<p>- Instead, society uses a small range of standard package types.<p>- These packages can be cleaned <em>and</em> reused.<p>- A deposit is paid for use <em>and</em> return of each of these reusable standard sized <em>packaging</em> items.<p>- The reusable <em>packaging</em> is made from some extremely durable material such as for example Gorilla Glass.<p>The goal being to end the &quot;garbage creation&quot; industry - also known as the &quot;<em>packaging</em>&quot; industry.<p>Someone needs to solve this - the world is filling up with <em>plastic</em> single use <em>packaging</em> garbage."
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "plastic",
+            "packaging"
+          ],
+          "value": "Want a big idea? Solve the <em>Plastics</em> Problem: disrupt the <em>packaging</em> industry"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_hoodoof",
+        "story_14473891",
+        "ask_hn"
+      ],
+      "author": "hoodoof",
+      "children": [
+        14473924,
+        14474632,
+        14475265
+      ],
+      "created_at": "2017-06-02T23:04:32Z",
+      "created_at_i": 1496444672,
+      "num_comments": 3,
+      "objectID": "14473891",
+      "points": 2,
+      "story_id": 14473891,
+      "story_text": "Where are the startups working on solving &quot;The Plastics Problem&quot;?<p>Our society is PAYING plastics companies to create a seemingly infinite quantity of garbage that we throw into the sea and our land based environment.<p>The company(s) that solve The Plastics Problem stand to become gigantic because packaging is a vast industry.<p>Here&#x27;s the best idea I have - it&#x27;s yours free: standard sized, reusable packaging<p>- Imagine a future in which we do not create single use packaging.<p>- Instead, society uses a small range of standard package types.<p>- These packages can be cleaned and reused.<p>- A deposit is paid for use and return of each of these reusable standard sized packaging items.<p>- The reusable packaging is made from some extremely durable material such as for example Gorilla Glass.<p>The goal being to end the &quot;garbage creation&quot; industry - also known as the &quot;packaging&quot; industry.<p>Someone needs to solve this - the world is filling up with plastic single use packaging garbage.",
+      "title": "Want a big idea? Solve the Plastics Problem: disrupt the packaging industry",
+      "updated_at": "2024-09-20T00:55:22Z"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "acgourley"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "plastic",
+            "and",
+            "packaging"
+          ],
+          "value": "I keep hearing talk about an upcoming \"internet of things\" <em>and</em> yet I see very few startups building physical products. It's no surprise though! Commercial scale production of hardware is a dark art; a unpredictable <em>and</em> archaic process passed down to new apprentices via direct contact.<p>So I want to create a site to publish (<em>and</em> link to) content that would teach: soldering, rework, pcb cad, assembly, <em>plastics</em>, textiles, <em>packaging</em>, production in asia, contract manufacturers, QA, import laws, selling B&M, IP concerns, etc. Furthermore I would like more technical articles giving accessible landscape views of microprocessors, wireless solutions, sensors, LCDs, etc.<p>Everything you would need to build <em>and</em> sell hardware on a commercial scale, really.<p>Would you read this? What topics would be most interesting?<p>Would you contribute?"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Ask HN: Would you read lessons walking through every step of a hardware startup?"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": ""
+        }
+      },
+      "_tags": [
+        "story",
+        "author_acgourley",
+        "story_2482233",
+        "ask_hn"
+      ],
+      "author": "acgourley",
+      "children": [
+        2482332,
+        2482348,
+        2482390,
+        2483460,
+        2484011
+      ],
+      "created_at": "2011-04-25T18:04:46Z",
+      "created_at_i": 1303754686,
+      "num_comments": 10,
+      "objectID": "2482233",
+      "points": 19,
+      "story_id": 2482233,
+      "story_text": "I keep hearing talk about an upcoming \"internet of things\" and yet I see very few startups building physical products. It's no surprise though! Commercial scale production of hardware is a dark art; a unpredictable and archaic process passed down to new apprentices via direct contact.<p>So I want to create a site to publish (and link to) content that would teach: soldering, rework, pcb cad, assembly, plastics, textiles, packaging, production in asia, contract manufacturers, QA, import laws, selling B&#38;M, IP concerns, etc. Furthermore I would like more technical articles giving accessible landscape views of microprocessors, wireless solutions, sensors, LCDs, etc.<p>Everything you would need to build and sell hardware on a commercial scale, really.<p>Would you read this? What topics would be most interesting?<p>Would you contribute?",
+      "title": "Ask HN: Would you read lessons walking through every step of a hardware startup?",
+      "updated_at": "2024-09-19T17:44:01Z",
+      "url": ""
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "paulnpace"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "plastic",
+            "and",
+            "packaging"
+          ],
+          "value": "The prices on diesel are approaching ludicrous. In my mind, this should be an opportunity for a new technological solution to be implemented.<p>AFAICT, one significant part of the problem is something like:<p>Huge hulking expensive iron delivery vessels chugging through the water get blown up by inexpensive distant ordinance delivery.<p>Thus, a general solution could be something like:<p>Transition to small, cheap <em>and</em> highly numerous delivery vessels to nullify the effectiveness of distant ordinance delivery.<p>My layperson conceptual solution:<p>Create synthetic (e.g., <em>plastic</em>, PVC, etc.) eel-shaped self-navigating &quot;vessels&quot; that provide delivery in very high volume (millions of such &quot;vessels&quot;) through dangerous waters to be recovered in safe waters.<p>These could be manufactured into large rolls, à la inflatable <em>packing</em>, <em>and</em> filled using mechanical power (either any simple motor powered by whatever or even human-powered via crank handle).<p>Drive can be provided by whatever works: time the release of the vessels to go out with a tide current; small sails; solar-powered propellers, etc. Speed does not matter as the quantity can be so high that once the vessels are being recovered the volume being delivered will be massive. (Conceptually similar to the old saw about &quot;never underestimate the bandwidth of a 747 full of tape.&quot;)<p>I really only provide the above to hopefully inspire people who have the talent <em>and</em> means to create something yet better than what we currently have so that we do not arrive at a very real problem of products such as diesel fuel being not only high in price, but largely unavailable, as we may currently be on course to experience."
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Ask HN: How about small technological solutions to bring oil prices back down?"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_paulnpace",
+        "story_49740835",
+        "ask_hn"
+      ],
+      "author": "paulnpace",
+      "children": [
+        49740881,
+        49742710
+      ],
+      "created_at": "2026-09-17T13:57:07Z",
+      "created_at_i": 1789653427,
+      "num_comments": 11,
+      "objectID": "49740835",
+      "points": 1,
+      "story_id": 49740835,
+      "story_text": "The prices on diesel are approaching ludicrous. In my mind, this should be an opportunity for a new technological solution to be implemented.<p>AFAICT, one significant part of the problem is something like:<p>Huge hulking expensive iron delivery vessels chugging through the water get blown up by inexpensive distant ordinance delivery.<p>Thus, a general solution could be something like:<p>Transition to small, cheap and highly numerous delivery vessels to nullify the effectiveness of distant ordinance delivery.<p>My layperson conceptual solution:<p>Create synthetic (e.g., plastic, PVC, etc.) eel-shaped self-navigating &quot;vessels&quot; that provide delivery in very high volume (millions of such &quot;vessels&quot;) through dangerous waters to be recovered in safe waters.<p>These could be manufactured into large rolls, à la inflatable packing, and filled using mechanical power (either any simple motor powered by whatever or even human-powered via crank handle).<p>Drive can be provided by whatever works: time the release of the vessels to go out with a tide current; small sails; solar-powered propellers, etc. Speed does not matter as the quantity can be so high that once the vessels are being recovered the volume being delivered will be massive. (Conceptually similar to the old saw about &quot;never underestimate the bandwidth of a 747 full of tape.&quot;)<p>I really only provide the above to hopefully inspire people who have the talent and means to create something yet better than what we currently have so that we do not arrive at a very real problem of products such as diesel fuel being not only high in price, but largely unavailable, as we may currently be on course to experience.",
+      "title": "Ask HN: How about small technological solutions to bring oil prices back down?",
+      "updated_at": "2026-09-19T15:28:07Z"
+    }
+  ],
+  "hitsPerPage": 30,
+  "nbHits": 17,
+  "nbPages": 1,
+  "page": 0,
+  "params": "query=plastic+and+packaging&tags=story&hitsPerPage=30&advancedSyntax=true&analyticsTags=backend",
+  "processingTimeMS": 25,
+  "processingTimingsMS": {
+    "_request": {
+      "queue": 80,
+      "roundTrip": 17
+    },
+    "afterFetch": {
+      "merge": {
+        "mergeLoop": {
+          "prepareNextHit": 1,
+          "total": 1
+        },
+        "total": 1
+      },
+      "total": 1
+    },
+    "fetch": {
+      "query": 14,
+      "scanning": 8,
+      "total": 23
+    },
+    "total": 25
+  },
+  "query": "plastic and packaging",
+  "serverTimeMS": 106
+}

@@ -1,0 +1,647 @@
+[
+  {
+    "cluster_id": 10,
+    "title": "\"I am following all possible precautions, but I can still get the virus home, stil...",
+    "theme": "Sustainability",
+    "size": 106,
+    "distinct_sources": 3,
+    "sources_breakdown": {
+      "reddit": 101,
+      "hackernews": 2,
+      "google_news": 3
+    },
+    "avg_pain_score": 6.03,
+    "growth_over_time": "+60% Surge (Recent)",
+    "top_terms": [
+      "just",
+      "people",
+      "work",
+      "don",
+      "like"
+    ],
+    "representative_quotes": [
+      {
+        "quote": "Sarakki Signal Bus Stop, a few days later... . Massive respect to u/St_Broseph for the cleanup last weekend. But the spot is already piling up again. This photo was taken by a local we've been in touch with about this ex...",
+        "url": "https://www.reddit.com/r/bangalore/comments/1wdbk1p/sarakki_signal_bus_stop_a_few_days_later/",
+        "source": "reddit",
+        "score": 15,
+        "pain_score": 8.88
+      },
+      {
+        "quote": "I regret coming to go to Canada and it's only been a month since I stepped foot here (The reality of going to Canada as a student). Background I tried to leave to Canada for the same reasons everyone tries to leave India...",
+        "url": "https://www.reddit.com/r/india/comments/r7rej5/i_regret_coming_to_go_to_canada_and_its_only_been/",
+        "source": "reddit",
+        "score": 15,
+        "pain_score": 8.88
+      },
+      {
+        "quote": "27M , Jobless, CSE grad 4 years of bad choices procrastination, Don't commit these mistakes and need your honest advice!!. I graduated with a B.Tech in CSE from a tier 3 college in 2020. Since then, I've been stuck in a ...",
+        "url": "https://www.reddit.com/r/india/comments/1gzb368/27m_jobless_cse_grad_4_years_of_bad_choices/",
+        "source": "reddit",
+        "score": 15,
+        "pain_score": 8.88
+      }
+    ],
+    "rank_score": 953.41,
+    "scorecard": {
+      "Candidate": "\"I am following all possible precautions, but I can still get the virus home, stil...",
+      "Depth of pain": 3,
+      "Data available": 5,
+      "Novel angle": 3,
+      "Feasible in ~6 mo": 2,
+      "Measurable impact": 5,
+      "Total": 18
+    }
+  },
+  {
+    "cluster_id": 4,
+    "title": "Inside Delhi's gadget graveyard where the West's e-waste ends up Indian men, women...",
+    "theme": "Environment",
+    "size": 89,
+    "distinct_sources": 3,
+    "sources_breakdown": {
+      "reddit": 26,
+      "hackernews": 31,
+      "google_news": 32
+    },
+    "avg_pain_score": 5.29,
+    "growth_over_time": "+61% Surge (Recent)",
+    "top_terms": [
+      "waste",
+      "india",
+      "india waste",
+      "submitted",
+      "link"
+    ],
+    "representative_quotes": [
+      {
+        "quote": "Inside Delhi's gadget graveyard where the West's e-waste ends up Indian men, women and children process discarded technology for as little as 2.10 a day and it is slowly poisoning them.. submitted by /u/madazzahatter lin...",
+        "url": "https://www.reddit.com/r/india/comments/40642q/inside_delhis_gadget_graveyard_where_the_wests/",
+        "source": "reddit",
+        "score": 15,
+        "pain_score": 7.26
+      },
+      {
+        "quote": "E-waste management in India?. What are some of the ways in which we can safely dispose off our e-waste. I have two printers that don't work and as I look forward to buying another one I feel guilty for contributing to e ...",
+        "url": "https://www.reddit.com/r/india/comments/j8xcct/ewaste_management_in_india/",
+        "source": "reddit",
+        "score": 15,
+        "pain_score": 6.45
+      },
+      {
+        "quote": "In India, e-waste recycling comes at a heavy cost to workers' health and environment. submitted by /u/Ajaatshatru34 link comments",
+        "url": "https://www.reddit.com/r/india/comments/asbcbp/in_india_ewaste_recycling_comes_at_a_heavy_cost/",
+        "source": "reddit",
+        "score": 15,
+        "pain_score": 6.45
+      }
+    ],
+    "rank_score": 720.6,
+    "scorecard": {
+      "Candidate": "Inside Delhi's gadget graveyard where the West's e-waste ends up Indian men, women...",
+      "Depth of pain": 3,
+      "Data available": 5,
+      "Novel angle": 4,
+      "Feasible in ~6 mo": 2,
+      "Measurable impact": 5,
+      "Total": 19
+    }
+  },
+  {
+    "cluster_id": 3,
+    "title": "I am tired of people badmouthing the auto drivers in Mumbai. A daughter's perspect...",
+    "theme": "Environment",
+    "size": 74,
+    "distinct_sources": 3,
+    "sources_breakdown": {
+      "reddit": 70,
+      "hackernews": 2,
+      "google_news": 2
+    },
+    "avg_pain_score": 5.68,
+    "growth_over_time": "+78% Surge (Recent)",
+    "top_terms": [
+      "mumbai",
+      "people",
+      "city",
+      "like",
+      "just"
+    ],
+    "representative_quotes": [
+      {
+        "quote": "Flashback 26 July 2005 13 years since Mumbai was flooded like never before. 26 July 2005 , a date etched in the memory of every Mumbai citizen. Through pictures, we look at the deadly deluge the city suffered. The rains ...",
+        "url": "https://www.reddit.com/r/mumbai/comments/920pb4/flashback_26_july_2005_13_years_since_mumbai_was/",
+        "source": "reddit",
+        "score": 15,
+        "pain_score": 8.88
+      },
+      {
+        "quote": "I am tired of people badmouthing the auto drivers in Mumbai. A daughter's perspective.. I just read a post on this sub , a rant about a person calling auto drivers monsters etc. They were talking all sorts of angry thing...",
+        "url": "https://www.reddit.com/r/mumbai/comments/1e1dc0k/i_am_tired_of_people_badmouthing_the_auto_drivers/",
+        "source": "reddit",
+        "score": 15,
+        "pain_score": 8.88
+      },
+      {
+        "quote": "Coldplay concert which is for privileged of mumbai has led middle class to face problems. I love Coldplay, love their music and their sings bring me a separate level of joy. I was really sad when I didn't get the tickets...",
+        "url": "https://www.reddit.com/r/mumbai/comments/1i5t10x/coldplay_concert_which_is_for_privileged_of/",
+        "source": "reddit",
+        "score": 15,
+        "pain_score": 8.88
+      }
+    ],
+    "rank_score": 661.32,
+    "scorecard": {
+      "Candidate": "I am tired of people badmouthing the auto drivers in Mumbai. A daughter's perspect...",
+      "Depth of pain": 3,
+      "Data available": 5,
+      "Novel angle": 3,
+      "Feasible in ~6 mo": 2,
+      "Measurable impact": 5,
+      "Total": 18
+    }
+  },
+  {
+    "cluster_id": 2,
+    "title": "Even The Garbage Glows When You Are Awake",
+    "theme": "Sustainability",
+    "size": 74,
+    "distinct_sources": 3,
+    "sources_breakdown": {
+      "reddit": 29,
+      "hackernews": 2,
+      "google_news": 43
+    },
+    "avg_pain_score": 5.35,
+    "growth_over_time": "+81% Surge (Recent)",
+    "top_terms": [
+      "waste",
+      "india",
+      "management",
+      "waste management",
+      "segregation"
+    ],
+    "representative_quotes": [
+      {
+        "quote": "Even The Garbage Glows When You Are Awake. The \"Other\" Garbage Crisis How the two Engineers of Bengaluru are quietly tackling a multi-ton problem hidden in your wardrobe. If you live in Bengaluru, you have probably seen ...",
+        "url": "https://www.reddit.com/r/bangalore/comments/1u49pup/even_the_garbage_glows_when_you_are_awake/",
+        "source": "reddit",
+        "score": 15,
+        "pain_score": 8.88
+      },
+      {
+        "quote": "BBMP garbage segregation - what happens with the waste?. We live in an apartment building of 45 houses. Every other week, some or the other resident does not segregate wet and dry properly and the garbage collector throw...",
+        "url": "https://www.reddit.com/r/bangalore/comments/sbearb/bbmp_garbage_segregation_what_happens_with_the/",
+        "source": "reddit",
+        "score": 15,
+        "pain_score": 8.07
+      },
+      {
+        "quote": "Zepto but for Garbage Collection. Hey everyone, I'm exploring a startup idea specifically targeting the garbage collection mess in Indian cities (initially Bangalore). Here's the concept Problem - Unreliable government g...",
+        "url": "https://www.reddit.com/r/bangalore/comments/1go2c98/zepto_but_for_garbage_collection/",
+        "source": "reddit",
+        "score": 15,
+        "pain_score": 7.8
+      }
+    ],
+    "rank_score": 622.45,
+    "scorecard": {
+      "Candidate": "Even The Garbage Glows When You Are Awake",
+      "Depth of pain": 3,
+      "Data available": 5,
+      "Novel angle": 3,
+      "Feasible in ~6 mo": 2,
+      "Measurable impact": 5,
+      "Total": 18
+    }
+  },
+  {
+    "cluster_id": 8,
+    "title": "Looking for Volunteers in Delhi NCR for Food Waste Reduction",
+    "theme": "Sustainability",
+    "size": 61,
+    "distinct_sources": 3,
+    "sources_breakdown": {
+      "reddit": 11,
+      "hackernews": 32,
+      "google_news": 18
+    },
+    "avg_pain_score": 4.9,
+    "growth_over_time": "+44% Surge (Recent)",
+    "top_terms": [
+      "waste",
+      "food",
+      "food waste",
+      "india",
+      "wasted"
+    ],
+    "representative_quotes": [
+      {
+        "quote": "Looking for Volunteers in Delhi NCR for Food Waste Reduction. Hey Everyone! We're Second Serve Delhi, a grassroots community initiative where we collect surplus food from restaurants across Delhi and distribute it the sa...",
+        "url": "https://www.reddit.com/r/india/comments/1u3psez/looking_for_volunteers_in_delhi_ncr_for_food/",
+        "source": "reddit",
+        "score": 15,
+        "pain_score": 7.26
+      },
+      {
+        "quote": "South Korea now recycles 95% of its food waste. South Korea now recycles 95% of its food waste",
+        "url": "https://www.weforum.org/agenda/2019/04/south-korea-recycling-food-waste/",
+        "source": "hackernews",
+        "score": 538,
+        "pain_score": 6.44
+      },
+      {
+        "quote": "Farmers Are Using Food Waste to Make Electricity. Farmers Are Using Food Waste to Make Electricity",
+        "url": "https://www.npr.org/sections/thesalt/2019/11/30/783001327/chew-on-this-farmers-are-using-food-waste-to-make-electricity",
+        "source": "hackernews",
+        "score": 100,
+        "pain_score": 6.2
+      }
+    ],
+    "rank_score": 484.23,
+    "scorecard": {
+      "Candidate": "Looking for Volunteers in Delhi NCR for Food Waste Reduction",
+      "Depth of pain": 2,
+      "Data available": 5,
+      "Novel angle": 4,
+      "Feasible in ~6 mo": 2,
+      "Measurable impact": 5,
+      "Total": 18
+    }
+  },
+  {
+    "cluster_id": 1,
+    "title": "Why Indians never top the charts in Olympics?",
+    "theme": "Social impact",
+    "size": 78,
+    "distinct_sources": 2,
+    "sources_breakdown": {
+      "google_news": 63,
+      "reddit": 15
+    },
+    "avg_pain_score": 4.11,
+    "growth_over_time": "+94% Surge (Recent)",
+    "top_terms": [
+      "india",
+      "gig",
+      "workers",
+      "gig workers",
+      "msmes"
+    ],
+    "representative_quotes": [
+      {
+        "quote": "Why Indians never top the charts in Olympics?. This is a question every so called middle class tax payer who earns 15 lakhs per annum (and upwards) has in this country. Just wanted to put up a friendly reminder of what s...",
+        "url": "https://www.reddit.com/r/india/comments/1ei71yj/why_indians_never_top_the_charts_in_olympics/",
+        "source": "reddit",
+        "score": 15,
+        "pain_score": 8.07
+      },
+      {
+        "quote": "Bengaluru RWAs are basically private Municipal Corporations at this point (and we pay extra for the privilege). Anyone else involved in an RWA recently realize that managing an apartment society in Bengaluru is literally...",
+        "url": "https://www.reddit.com/r/bangalore/comments/1wqyke3/bengaluru_rwas_are_basically_private_municipal/",
+        "source": "reddit",
+        "score": 15,
+        "pain_score": 8.07
+      },
+      {
+        "quote": "Why protest in India fails to bring the Change. As the protest has ended now, we should ask ourselves why protests in India fail to bring the change. We have seen protests on corruption like in 2011 which demanded the Ja...",
+        "url": "https://www.reddit.com/r/india/comments/1v7zpxa/why_protest_in_india_fails_to_bring_the_change/",
+        "source": "reddit",
+        "score": 15,
+        "pain_score": 7.74
+      }
+    ],
+    "rank_score": 431.03,
+    "scorecard": {
+      "Candidate": "Why Indians never top the charts in Olympics?",
+      "Depth of pain": 2,
+      "Data available": 5,
+      "Novel angle": 3,
+      "Feasible in ~6 mo": 2,
+      "Measurable impact": 5,
+      "Total": 17
+    }
+  },
+  {
+    "cluster_id": 11,
+    "title": "Extremely affordable/free mental health service that saved me from severe anxiety ...",
+    "theme": "Social impact",
+    "size": 69,
+    "distinct_sources": 2,
+    "sources_breakdown": {
+      "reddit": 33,
+      "google_news": 36
+    },
+    "avg_pain_score": 4.4,
+    "growth_over_time": "+65% Surge (Recent)",
+    "top_terms": [
+      "india",
+      "mental",
+      "mental health",
+      "health",
+      "students"
+    ],
+    "representative_quotes": [
+      {
+        "quote": "Why You Should Not Vote for BJP (Part 1) Education. India saw rapid change in the 21st century, which I will always be grateful to, for it gave me this lifestyle, and the audacity to write this post. It won't be wrong to...",
+        "url": "https://www.reddit.com/r/india/comments/1v3vhqy/why_you_should_not_vote_for_bjp_part_1_education/",
+        "source": "reddit",
+        "score": 15,
+        "pain_score": 8.88
+      },
+      {
+        "quote": "How our education system failed us. Back in 2009, prepping for ICSE class 10. Everyone told me, 90% is the benchmark. I was told, it was the biggest exam of my life. Too immature back then, I studied hard, never saw the ...",
+        "url": "https://www.reddit.com/r/india/comments/8op57h/how_our_education_system_failed_us/",
+        "source": "reddit",
+        "score": 15,
+        "pain_score": 8.72
+      },
+      {
+        "quote": "Extremely affordable/free mental health service that saved me from severe anxiety and stress.. My anxiety was getting worse and I was really struggling to seek help. I couldn't find a good and inexpensive therapist and m...",
+        "url": "https://www.reddit.com/r/india/comments/n3bam0/extremely_affordablefree_mental_health_service/",
+        "source": "reddit",
+        "score": 15,
+        "pain_score": 8.72
+      }
+    ],
+    "rank_score": 415.58,
+    "scorecard": {
+      "Candidate": "Extremely affordable/free mental health service that saved me from severe anxiety ...",
+      "Depth of pain": 2,
+      "Data available": 5,
+      "Novel angle": 4,
+      "Feasible in ~6 mo": 2,
+      "Measurable impact": 5,
+      "Total": 18
+    }
+  },
+  {
+    "cluster_id": 6,
+    "title": "Can we actually bring the Vrishabhavathi back to life? And why aren't we treating ...",
+    "theme": "Environment",
+    "size": 82,
+    "distinct_sources": 3,
+    "sources_breakdown": {
+      "reddit": 19,
+      "hackernews": 27,
+      "google_news": 36
+    },
+    "avg_pain_score": 3.11,
+    "growth_over_time": "+82% Surge (Recent)",
+    "top_terms": [
+      "water",
+      "scarcity",
+      "water scarcity",
+      "india",
+      "crisis"
+    ],
+    "representative_quotes": [
+      {
+        "quote": "Can we actually bring the Vrishabhavathi back to life? And why aren't we treating this as a water-security issue?. I recently went down the rabbit hole of reading about the Vrishabhavathi, and honestly, it's difficult to...",
+        "url": "https://www.reddit.com/r/bangalore/comments/1wbffai/can_we_actually_bring_the_vrishabhavathi_back_to/",
+        "source": "reddit",
+        "score": 15,
+        "pain_score": 8.88
+      },
+      {
+        "quote": "How can we help solve the water problems in Bengaluru?. It isn't even summer yet, and parts of Bengaluru are already facing water shortages and water cuts! For four years, the water situation has been getting worse, and ...",
+        "url": "https://www.reddit.com/r/bangalore/comments/1b1u5oo/how_can_we_help_solve_the_water_problems_in/",
+        "source": "reddit",
+        "score": 15,
+        "pain_score": 8.07
+      },
+      {
+        "quote": "Ganpati Visarjan Shouldn't Come at the Cost of Our Water Bodies. I usually stay out of debates about religious festivals because people should have the freedom to celebrate their faith. Ganpati Visarjan is deeply meaning...",
+        "url": "https://www.reddit.com/r/india/comments/1wqqvlw/ganpati_visarjan_shouldnt_come_at_the_cost_of_our/",
+        "source": "reddit",
+        "score": 15,
+        "pain_score": 8.07
+      }
+    ],
+    "rank_score": 395.57,
+    "scorecard": {
+      "Candidate": "Can we actually bring the Vrishabhavathi back to life? And why aren't we treating ...",
+      "Depth of pain": 2,
+      "Data available": 5,
+      "Novel angle": 4,
+      "Feasible in ~6 mo": 2,
+      "Measurable impact": 5,
+      "Total": 18
+    }
+  },
+  {
+    "cluster_id": 7,
+    "title": "India's real problem huge talent, weak state capacity, poor quality of life, and t...",
+    "theme": "Sustainability",
+    "size": 71,
+    "distinct_sources": 2,
+    "sources_breakdown": {
+      "reddit": 12,
+      "google_news": 59
+    },
+    "avg_pain_score": 3.75,
+    "growth_over_time": "+91% Surge (Recent)",
+    "top_terms": [
+      "india",
+      "food",
+      "farmers",
+      "harvest",
+      "com"
+    ],
+    "representative_quotes": [
+      {
+        "quote": "India's real problem huge talent, weak state capacity, poor quality of life, and too much propaganda around GDP rank. I am not saying India has no growth. India still has strong private talent, a huge domestic market, go...",
+        "url": "https://www.reddit.com/r/india/comments/1tfdfy5/indias_real_problem_huge_talent_weak_state/",
+        "source": "reddit",
+        "score": 15,
+        "pain_score": 8.88
+      },
+      {
+        "quote": "I transcribed the full text of Dr. Manmohan Singh's remarks on economic mismanagement by the current government in India. Transcript of the remarks by India's former Prime Minister, Dr. Manmohan Singh, about economic mis...",
+        "url": "https://www.reddit.com/r/india/comments/czvagp/i_transcribed_the_full_text_of_dr_manmohan_singhs/",
+        "source": "reddit",
+        "score": 15,
+        "pain_score": 8.39
+      },
+      {
+        "quote": "This is India. People vote for money and elect leaders for small gains, then expect good infrastructure and good leadership. The ruling party, BJP, is built on religion in a democratic country. Education and healthcare a...",
+        "url": "https://www.reddit.com/r/india/comments/1vg4x3p/this_is_india/",
+        "source": "reddit",
+        "score": 15,
+        "pain_score": 8.07
+      }
+    ],
+    "rank_score": 362.92,
+    "scorecard": {
+      "Candidate": "India's real problem huge talent, weak state capacity, poor quality of life, and t...",
+      "Depth of pain": 2,
+      "Data available": 5,
+      "Novel angle": 4,
+      "Feasible in ~6 mo": 2,
+      "Measurable impact": 5,
+      "Total": 18
+    }
+  },
+  {
+    "cluster_id": 5,
+    "title": "Bombay HC Calls Kanjurmarg Odour Pollution An Emergency, Seeks Immediate Measures ...",
+    "theme": "Environment",
+    "size": 66,
+    "distinct_sources": 3,
+    "sources_breakdown": {
+      "google_news": 32,
+      "reddit": 17,
+      "hackernews": 17
+    },
+    "avg_pain_score": 3.08,
+    "growth_over_time": "+78% Surge (Recent)",
+    "top_terms": [
+      "air",
+      "pollution",
+      "air pollution",
+      "urban",
+      "urban air"
+    ],
+    "representative_quotes": [
+      {
+        "quote": "Bombay HC Calls Kanjurmarg Odour Pollution An Emergency, Seeks Immediate Measures To Protect Citizens' Health. Terming the situation an \"emergency\", the Bombay High Court has directed authorities to suggest and implement...",
+        "url": "https://www.reddit.com/r/mumbai/comments/1ptss2x/bombay_hc_calls_kanjurmarg_odour_pollution_an/",
+        "source": "reddit",
+        "score": 15,
+        "pain_score": 8.88
+      },
+      {
+        "quote": "Pollution ka Solution RightToBreathe. The winters are coming and are going to turn our cities into gas chambers once again. Once again, the politicians will do some nonsense to show they are doing something without havin...",
+        "url": "https://www.reddit.com/r/delhi/comments/1elph13/pollution_ka_solution_righttobreathe/",
+        "source": "reddit",
+        "score": 15,
+        "pain_score": 8.07
+      },
+      {
+        "quote": "Why Stubble Burning Continues in Punjab Perspectives from the Ground. Stubble burning incidents are decreasing, but solving it requires understanding the complex barriers farmers still face A recent Supreme Court ruling ...",
+        "url": "https://www.reddit.com/r/delhi/comments/1gk2o08/why_stubble_burning_continues_in_punjab/",
+        "source": "reddit",
+        "score": 15,
+        "pain_score": 8.39
+      }
+    ],
+    "rank_score": 325.43,
+    "scorecard": {
+      "Candidate": "Bombay HC Calls Kanjurmarg Odour Pollution An Emergency, Seeks Immediate Measures ...",
+      "Depth of pain": 2,
+      "Data available": 5,
+      "Novel angle": 3,
+      "Feasible in ~6 mo": 2,
+      "Measurable impact": 5,
+      "Total": 17
+    }
+  },
+  {
+    "cluster_id": 9,
+    "title": "How 10-minute deliveries are fuelling India's growing waste crisis - The Indian Ex...",
+    "theme": "Sustainability",
+    "size": 70,
+    "distinct_sources": 3,
+    "sources_breakdown": {
+      "google_news": 36,
+      "reddit": 3,
+      "hackernews": 31
+    },
+    "avg_pain_score": 2.81,
+    "growth_over_time": "+80% Surge (Recent)",
+    "top_terms": [
+      "energy",
+      "cost",
+      "costs",
+      "india",
+      "energy costs"
+    ],
+    "representative_quotes": [
+      {
+        "quote": "How 10-minute deliveries are fuelling India's growing waste crisis - The Indian Express. How 10-minute deliveries are fuelling India's growing waste crisis The Indian Express",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNzdRa05mVXYxUGNnbnVVSHkyNmJFX05Ha1MzaG91dkpXY0VGQUN5Q2RSQUx5QXZEZ1cyTUdMX1NjMlJtMHVqZUFTNVJyV200MGRSMmtLM3pVMnZOWTc3cnF6Tjc2ZVV2MW45aktaVGNXUHAxSV9OUkpaRC1jWG1kV25QaERhT2ZlRGJjUlpNQWpwajVmdHpwclRSRDN3aDVDcFpOVXdseEV2TGJpbTg4atIBtwFBVV95cUxOSEM5d25mLVhENkd1MDdTYk4tSTFkUzZEMGNlYXBOSTE2TkhQdmlldUItZ3JjNlYwU3ZjTW9Tc3JOM3dPMlhKWFNJV29TTVhVVE5DY2hJTDVHRUx2bVRVcF93b3RuWWc3bnhqUWQzendMMGJ1RjE4SXhfNEJ4OVlRM0VCQnQxRzdZQTl0bmw0RUpkYzFYeUpEM2hHYVBDSG9WYU44Z2dvcE1wMExlUE1lVVdWbkR3WEE?oc=5",
+        "source": "google_news",
+        "score": 10,
+        "pain_score": 6.97
+      },
+      {
+        "quote": "How much will this government squeeze us for tax money?. They are imposing taxes left, right, and center. They said everything is under control but increased the cost of commercial cylinders anyway. That too by a 1000 ru...",
+        "url": "https://www.reddit.com/r/india/comments/1t2f3iv/how_much_will_this_government_squeeze_us_for_tax/",
+        "source": "reddit",
+        "score": 15,
+        "pain_score": 5.64
+      },
+      {
+        "quote": "Water shortages cost India 14 TWh of electricity generation in 2016. Water shortages cost India 14 TWh of electricity generation in 2016",
+        "url": "http://www.wri.org/blog/2017/07/droughts-and-blackouts-how-water-shortages-cost-india-enough-energy-power-sri-lanka",
+        "source": "hackernews",
+        "score": 1,
+        "pain_score": 4.14
+      }
+    ],
+    "rank_score": 312.35,
+    "scorecard": {
+      "Candidate": "How 10-minute deliveries are fuelling India's growing waste crisis - The Indian Ex...",
+      "Depth of pain": 1,
+      "Data available": 5,
+      "Novel angle": 4,
+      "Feasible in ~6 mo": 2,
+      "Measurable impact": 5,
+      "Total": 17
+    }
+  },
+  {
+    "cluster_id": 0,
+    "title": "Should India go back to using Glass Bottles for Milk? Considering the negative imp...",
+    "theme": "Sustainability",
+    "size": 53,
+    "distinct_sources": 3,
+    "sources_breakdown": {
+      "reddit": 11,
+      "google_news": 34,
+      "hackernews": 8
+    },
+    "avg_pain_score": 3.11,
+    "growth_over_time": "+88% Surge (Recent)",
+    "top_terms": [
+      "packaging",
+      "plastic",
+      "india",
+      "plastic packaging",
+      "food"
+    ],
+    "representative_quotes": [
+      {
+        "quote": "Should India go back to using Glass Bottles for Milk? Considering the negative impact that plastic has on our environment combined with our increased dependency on the same and the realization that pretty soon, we all wi...",
+        "url": "https://www.reddit.com/r/india/comments/bm6mcv/should_india_go_back_to_using_glass_bottles_for/",
+        "source": "reddit",
+        "score": 15,
+        "pain_score": 8.88
+      },
+      {
+        "quote": "Is One Country's Trash, Another Country's Treasure What Happened When China Banned the Import of Waste Plastic?. Since 1950, the word has produced 8.3 billion tons of plastic, and 322 million in 2015 alone. Plastic utens...",
+        "url": "https://www.reddit.com/r/india/comments/a6xhlu/is_one_countrys_trash_another_countrys_treasure/",
+        "source": "reddit",
+        "score": 15,
+        "pain_score": 7.8
+      },
+      {
+        "quote": "India tightens plastic waste rules to boost recycling and reuse - Packaging Insights. India tightens plastic waste rules to boost recycling and reuse Packaging Insights",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVWVxaVVVdXlueC11bThlWFp4R25mczNBbC1weWhrclpYaUxIT21yWmdwU3RMbEpqQTE1MTRqMk5wTmlkaFJjQ0dLWUN4SlpKZWNxOHlQNTVSSTNZZ1BPbVNqWFRfOWZ3aWZhZVFjeFdnZEJyaUZxR3dhZUZuYlhwU1hB?oc=5",
+        "source": "google_news",
+        "score": 10,
+        "pain_score": 5.02
+      }
+    ],
+    "rank_score": 272.45,
+    "scorecard": {
+      "Candidate": "Should India go back to using Glass Bottles for Milk? Considering the negative imp...",
+      "Depth of pain": 2,
+      "Data available": 5,
+      "Novel angle": 3,
+      "Feasible in ~6 mo": 2,
+      "Measurable impact": 5,
+      "Total": 17
+    }
+  }
+]

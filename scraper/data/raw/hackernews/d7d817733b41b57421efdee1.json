@@ -1,0 +1,172 @@
+{
+  "exhaustive": {
+    "nbHits": false,
+    "typo": false
+  },
+  "exhaustiveNbHits": false,
+  "exhaustiveTypo": false,
+  "hits": [
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "rooam-dev"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "plastic",
+            "and",
+            "packaging",
+            "problem"
+          ],
+          "value": "Hello,<p>I have ordered an phone (iPhone 11 pro) from Mindfactory (Germany) <em>and</em> to my surprise the box/<em>packaging</em> was open. There were no scratches anything, just some dirt left <em>and</em> the <em>plastic</em> wrap was careful cut.<p>Their online service doesn't have an option for a full refund but only replacement/repair. My concern is that this doesn't stop them to send another open package.<p>The <em>problem</em> is that, this is the 2nd time it happens to me in Germany (different store). That time I let is slide, too much trouble for 100EUR.\nHowever this time is 1500EUR <em>and</em> it's unacceptable imho.<p>Any input is welcome. I would like to contact an attorney, but before I start spending money, perhaps there is a more formal <em>and</em>/or appropriate solution.<p>Thank you in advance.<p>PS: Meanwhile I have sent it back while waiting their response."
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Ask HN: Dealing with shops that send open box products (Germany)"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_rooam-dev",
+        "story_21980551",
+        "ask_hn"
+      ],
+      "author": "rooam-dev",
+      "children": [
+        21980673,
+        21980734,
+        21982681
+      ],
+      "created_at": "2020-01-07T15:05:45Z",
+      "created_at_i": 1578409545,
+      "num_comments": 7,
+      "objectID": "21980551",
+      "points": 1,
+      "story_id": 21980551,
+      "story_text": "Hello,<p>I have ordered an phone (iPhone 11 pro) from Mindfactory (Germany) and to my surprise the box&#x2F;packaging was open. There were no scratches anything, just some dirt left and the plastic wrap was careful cut.<p>Their online service doesn&#x27;t have an option for a full refund but only replacement&#x2F;repair. My concern is that this doesn&#x27;t stop them to send another open package.<p>The problem is that, this is the 2nd time it happens to me in Germany (different store). That time I let is slide, too much trouble for 100EUR.\nHowever this time is 1500EUR and it&#x27;s unacceptable imho.<p>Any input is welcome. I would like to contact an attorney, but before I start spending money, perhaps there is a more formal and&#x2F;or appropriate solution.<p>Thank you in advance.<p>PS: Meanwhile I have sent it back while waiting their response.",
+      "title": "Ask HN: Dealing with shops that send open box products (Germany)",
+      "updated_at": "2024-09-20T05:34:14Z"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "hoodoof"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "plastic",
+            "and",
+            "packaging",
+            "problem"
+          ],
+          "value": "Where are the startups working on solving &quot;The <em>Plastics</em> <em>Problem</em>&quot;?<p>Our society is PAYING <em>plastics</em> companies to create a seemingly infinite quantity of garbage that we throw into the sea <em>and</em> our land based environment.<p>The company(s) that solve The <em>Plastics</em> <em>Problem</em> stand to become gigantic because <em>packaging</em> is a vast industry.<p>Here's the best idea I have - it's yours free: standard sized, reusable <em>packaging</em><p>- Imagine a future in which we do not create single use <em>packaging</em>.<p>- Instead, society uses a small range of standard package types.<p>- These packages can be cleaned <em>and</em> reused.<p>- A deposit is paid for use <em>and</em> return of each of these reusable standard sized <em>packaging</em> items.<p>- The reusable <em>packaging</em> is made from some extremely durable material such as for example Gorilla Glass.<p>The goal being to end the &quot;garbage creation&quot; industry - also known as the &quot;<em>packaging</em>&quot; industry.<p>Someone needs to solve this - the world is filling up with <em>plastic</em> single use <em>packaging</em> garbage."
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "plastic",
+            "packaging",
+            "problem"
+          ],
+          "value": "Want a big idea? Solve the <em>Plastics</em> <em>Problem</em>: disrupt the <em>packaging</em> industry"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_hoodoof",
+        "story_14473891",
+        "ask_hn"
+      ],
+      "author": "hoodoof",
+      "children": [
+        14473924,
+        14474632,
+        14475265
+      ],
+      "created_at": "2017-06-02T23:04:32Z",
+      "created_at_i": 1496444672,
+      "num_comments": 3,
+      "objectID": "14473891",
+      "points": 2,
+      "story_id": 14473891,
+      "story_text": "Where are the startups working on solving &quot;The Plastics Problem&quot;?<p>Our society is PAYING plastics companies to create a seemingly infinite quantity of garbage that we throw into the sea and our land based environment.<p>The company(s) that solve The Plastics Problem stand to become gigantic because packaging is a vast industry.<p>Here&#x27;s the best idea I have - it&#x27;s yours free: standard sized, reusable packaging<p>- Imagine a future in which we do not create single use packaging.<p>- Instead, society uses a small range of standard package types.<p>- These packages can be cleaned and reused.<p>- A deposit is paid for use and return of each of these reusable standard sized packaging items.<p>- The reusable packaging is made from some extremely durable material such as for example Gorilla Glass.<p>The goal being to end the &quot;garbage creation&quot; industry - also known as the &quot;packaging&quot; industry.<p>Someone needs to solve this - the world is filling up with plastic single use packaging garbage.",
+      "title": "Want a big idea? Solve the Plastics Problem: disrupt the packaging industry",
+      "updated_at": "2024-09-20T00:55:22Z"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "paulnpace"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "plastic",
+            "and",
+            "packaging",
+            "problem"
+          ],
+          "value": "The prices on diesel are approaching ludicrous. In my mind, this should be an opportunity for a new technological solution to be implemented.<p>AFAICT, one significant part of the <em>problem</em> is something like:<p>Huge hulking expensive iron delivery vessels chugging through the water get blown up by inexpensive distant ordinance delivery.<p>Thus, a general solution could be something like:<p>Transition to small, cheap <em>and</em> highly numerous delivery vessels to nullify the effectiveness of distant ordinance delivery.<p>My layperson conceptual solution:<p>Create synthetic (e.g., <em>plastic</em>, PVC, etc.) eel-shaped self-navigating &quot;vessels&quot; that provide delivery in very high volume (millions of such &quot;vessels&quot;) through dangerous waters to be recovered in safe waters.<p>These could be manufactured into large rolls, à la inflatable <em>packing</em>, <em>and</em> filled using mechanical power (either any simple motor powered by whatever or even human-powered via crank handle).<p>Drive can be provided by whatever works: time the release of the vessels to go out with a tide current; small sails; solar-powered propellers, etc. Speed does not matter as the quantity can be so high that once the vessels are being recovered the volume being delivered will be massive. (Conceptually similar to the old saw about &quot;never underestimate the bandwidth of a 747 full of tape.&quot;)<p>I really only provide the above to hopefully inspire people who have the talent <em>and</em> means to create something yet better than what we currently have so that we do not arrive at a very real <em>problem</em> of products such as diesel fuel being not only high in price, but largely unavailable, as we may currently be on course to experience."
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Ask HN: How about small technological solutions to bring oil prices back down?"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_paulnpace",
+        "story_49740835",
+        "ask_hn"
+      ],
+      "author": "paulnpace",
+      "children": [
+        49740881,
+        49742710
+      ],
+      "created_at": "2026-09-17T13:57:07Z",
+      "created_at_i": 1789653427,
+      "num_comments": 11,
+      "objectID": "49740835",
+      "points": 1,
+      "story_id": 49740835,
+      "story_text": "The prices on diesel are approaching ludicrous. In my mind, this should be an opportunity for a new technological solution to be implemented.<p>AFAICT, one significant part of the problem is something like:<p>Huge hulking expensive iron delivery vessels chugging through the water get blown up by inexpensive distant ordinance delivery.<p>Thus, a general solution could be something like:<p>Transition to small, cheap and highly numerous delivery vessels to nullify the effectiveness of distant ordinance delivery.<p>My layperson conceptual solution:<p>Create synthetic (e.g., plastic, PVC, etc.) eel-shaped self-navigating &quot;vessels&quot; that provide delivery in very high volume (millions of such &quot;vessels&quot;) through dangerous waters to be recovered in safe waters.<p>These could be manufactured into large rolls, à la inflatable packing, and filled using mechanical power (either any simple motor powered by whatever or even human-powered via crank handle).<p>Drive can be provided by whatever works: time the release of the vessels to go out with a tide current; small sails; solar-powered propellers, etc. Speed does not matter as the quantity can be so high that once the vessels are being recovered the volume being delivered will be massive. (Conceptually similar to the old saw about &quot;never underestimate the bandwidth of a 747 full of tape.&quot;)<p>I really only provide the above to hopefully inspire people who have the talent and means to create something yet better than what we currently have so that we do not arrive at a very real problem of products such as diesel fuel being not only high in price, but largely unavailable, as we may currently be on course to experience.",
+      "title": "Ask HN: How about small technological solutions to bring oil prices back down?",
+      "updated_at": "2026-09-19T15:28:07Z"
+    }
+  ],
+  "hitsPerPage": 19,
+  "nbHits": 3,
+  "nbPages": 1,
+  "page": 0,
+  "params": "query=plastic+and+packaging+problem&tags=story&hitsPerPage=19&advancedSyntax=true&analyticsTags=backend",
+  "processingTimeMS": 22,
+  "processingTimingsMS": {
+    "_request": {
+      "queue": 70,
+      "roundTrip": 20
+    },
+    "fetch": {
+      "query": 16,
+      "scanning": 5,
+      "total": 22
+    },
+    "total": 22
+  },
+  "query": "plastic and packaging problem",
+  "serverTimeMS": 93
+}

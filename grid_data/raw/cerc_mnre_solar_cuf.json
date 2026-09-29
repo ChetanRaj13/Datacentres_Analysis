@@ -1,0 +1,40 @@
+{
+  "title": "CERC RE Tariff Regulations & Solar Resource Assessment Benchmarks",
+  "agency": "Central Electricity Regulatory Commission (CERC) / MNRE",
+  "url": "https://cercind.gov.in/regulations.html",
+  "description": "Normative and empirical capacity utilization factors (CUF %) for utility-scale solar PV parks across Indian states.",
+  "solar_cuf_benchmarks": {
+    "Karnataka": {
+      "cuf_pct": 22.5,
+      "basis": "Pavagada Ultra Mega Solar Park benchmark (2,050 MW high-DNI plateau)"
+    },
+    "Andhra Pradesh": {
+      "cuf_pct": 22.0,
+      "basis": "Kurnool / Ananthapuramu Ultra Mega Solar Park empirical benchmark"
+    },
+    "Telangana": {
+      "cuf_pct": 21.5,
+      "basis": "Deccan plateau state normative benchmark (CERC Southern Region zone)"
+    },
+    "Tamil Nadu": {
+      "cuf_pct": 21.0,
+      "basis": "Kamuthi / TNERC normative utility-scale solar benchmark"
+    },
+    "Maharashtra": {
+      "cuf_pct": 20.8,
+      "basis": "Western Maharashtra / Sakri Solar Park regional benchmark"
+    },
+    "Uttar Pradesh": {
+      "cuf_pct": 19.5,
+      "basis": "Bundelkhand regional solar park proxy (moderate DNI, winter haze impact)"
+    },
+    "West Bengal": {
+      "cuf_pct": 18.2,
+      "basis": "Gangetic delta regional proxy (lower DNI, higher monsoon cloud attenuation)"
+    },
+    "Gujarat": {
+      "cuf_pct": 23.0,
+      "basis": "Charanka Solar Park & Coastal Saurashtra / Kutch high-irradiance benchmark"
+    }
+  }
+}

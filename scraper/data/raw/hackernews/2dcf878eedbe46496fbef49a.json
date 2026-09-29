@@ -1,0 +1,27 @@
+{
+  "exhaustive": {
+    "nbHits": false,
+    "typo": false
+  },
+  "exhaustiveNbHits": false,
+  "exhaustiveTypo": false,
+  "hits": [],
+  "hitsPerPage": 30,
+  "nbHits": 0,
+  "nbPages": 0,
+  "page": 0,
+  "params": "query=gig-worker+income+India&tags=story&hitsPerPage=30&advancedSyntax=true&analyticsTags=backend",
+  "processingTimeMS": 10,
+  "processingTimingsMS": {
+    "_request": {
+      "roundTrip": 22
+    },
+    "fetch": {
+      "query": 9,
+      "total": 10
+    },
+    "total": 11
+  },
+  "query": "gig-worker income India",
+  "serverTimeMS": 11
+}

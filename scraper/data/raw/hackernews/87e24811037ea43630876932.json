@@ -1,0 +1,176 @@
+{
+  "exhaustive": {
+    "nbHits": false,
+    "typo": false
+  },
+  "exhaustiveNbHits": false,
+  "exhaustiveTypo": false,
+  "hits": [
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "scottc"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "water",
+            "scarcity",
+            "problem"
+          ],
+          "value": "The last 3 years, I’ve been selling SaaS and digital courses on my website<p>And while it’s very fun and freeing, I’ve always dreaded the moment when I had to plop down own the used office chair my old boss gave me and bust out the sales copy for my products. Back then, switching from “product creation mode” to “copywriter mode” was more difficult than that 2,000-piece jigsaw puzzle I did last weekend with my grandma<p>Sitting in front of a blank google docs screen, I would start writing the sales copy for sales pages, email blasts, etc., and it would just take me days before I could get in the swing of writing good copy and truly hum along. Days I could not really afford to lose.<p>I’ve tried to learn as much as I could about writing good sales copy. I read books, took courses, watched videos, but when it came time to putting together my own sales page, and putting the right words into place, I would just spin my wheels. You can learn all the techniques and best practices, but figuring out <i>how to apply it to your stuff in the right order on your website</i> is a skill in its own right.<p>I have worked with professional copywriters and freelancers for help on improving my landing pages, and they have always been downright impressive. But sometimes, my products are not 100% complete or validated yet, and I’m simply just testing the <em>waters</em>—so it wouldn’t make sense to hire a pro yet.<p>I always had the itch to make some kind of tool that aids hackers in copywriting. It wouldn’t generate my entire landing page with AI or anything too fancy. But it swiftly would guide me along so that I could mindlessly plug-and-play the right copy in the right place on my sales page, resulting in higher conversions and ultimately, more sales.<p>So I decided, eff it, I will make a tool that does exactly this. I have created what is essentially a gsheet where I plug in the value prop, benefits, customer <em>problems</em>, features, urgency &amp; <em>scarcity</em>, etc. into my gsheet and then multiple visual landing page variants are created for me.<p>I still have to fill in some of the gaps, but 80% of the page is &quot;organized&quot; for me in a visual hierarchy based on my inputs. I mostly took advice from CROs and copywriters and tried to make a tool so that I didn't have to re-read the how-to's on copywriting.<p>*I want to know which parts of copywriting are hardest for you.* I would be so grateful to get your opinion here in this short 9-question survey! https://forms.gle/S2ewFBybpL4ndWdy8<p>I think HN's got some awesome hackers and founders in here that might be able to relate to my story and just wanted to get some honest feedback about the clarity of the value proposition and whether this is a tool that you'd use or not."
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Ask HN: What do you think of my landing page copywriting tool idea?"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_scottc",
+        "story_31265082",
+        "ask_hn"
+      ],
+      "author": "scottc",
+      "created_at": "2022-05-04T20:00:43Z",
+      "created_at_i": 1651694443,
+      "num_comments": 0,
+      "objectID": "31265082",
+      "points": 2,
+      "story_id": 31265082,
+      "story_text": "The last 3 years, I’ve been selling SaaS and digital courses on my website<p>And while it’s very fun and freeing, I’ve always dreaded the moment when I had to plop down own the used office chair my old boss gave me and bust out the sales copy for my products. Back then, switching from “product creation mode” to “copywriter mode” was more difficult than that 2,000-piece jigsaw puzzle I did last weekend with my grandma<p>Sitting in front of a blank google docs screen, I would start writing the sales copy for sales pages, email blasts, etc., and it would just take me days before I could get in the swing of writing good copy and truly hum along. Days I could not really afford to lose.<p>I’ve tried to learn as much as I could about writing good sales copy. I read books, took courses, watched videos, but when it came time to putting together my own sales page, and putting the right words into place, I would just spin my wheels. You can learn all the techniques and best practices, but figuring out <i>how to apply it to your stuff in the right order on your website</i> is a skill in its own right.<p>I have worked with professional copywriters and freelancers for help on improving my landing pages, and they have always been downright impressive. But sometimes, my products are not 100% complete or validated yet, and I’m simply just testing the waters—so it wouldn’t make sense to hire a pro yet.<p>I always had the itch to make some kind of tool that aids hackers in copywriting. It wouldn’t generate my entire landing page with AI or anything too fancy. But it swiftly would guide me along so that I could mindlessly plug-and-play the right copy in the right place on my sales page, resulting in higher conversions and ultimately, more sales.<p>So I decided, eff it, I will make a tool that does exactly this. I have created what is essentially a gsheet where I plug in the value prop, benefits, customer problems, features, urgency &amp; scarcity, etc. into my gsheet and then multiple visual landing page variants are created for me.<p>I still have to fill in some of the gaps, but 80% of the page is &quot;organized&quot; for me in a visual hierarchy based on my inputs. I mostly took advice from CROs and copywriters and tried to make a tool so that I didn&#x27;t have to re-read the how-to&#x27;s on copywriting.<p>*I want to know which parts of copywriting are hardest for you.* I would be so grateful to get your opinion here in this short 9-question survey! https:&#x2F;&#x2F;forms.gle&#x2F;S2ewFBybpL4ndWdy8<p>I think HN&#x27;s got some awesome hackers and founders in here that might be able to relate to my story and just wanted to get some honest feedback about the clarity of the value proposition and whether this is a tool that you&#x27;d use or not.",
+      "title": "Ask HN: What do you think of my landing page copywriting tool idea?",
+      "updated_at": "2024-09-20T11:06:00Z"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "wppick"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "water",
+            "scarcity",
+            "problem"
+          ],
+          "value": "Want to just put this idea out there for the feasibility of a crypto currency backed not by solving hard computations, but instead for producing clean, pure <em>water</em>.<p>High quality <em>water</em> and availability seems to be trending in the direction of <em>scarcity</em>. You might think this is ridiculous, since there appears to be an unlimited supply of tap <em>water</em>, but how clean is that <em>water</em>? Tap <em>water</em> is increasingly becoming polluted in ways hard to clean. Microplastics, metals, hormones like estrogen, possible contamination by farming, industry.<p>What if the work done to mine the crypto currency was the cleaning of <em>water</em>. Either waste <em>water</em>, salt <em>water</em>, or tap <em>water</em> locally (in the home, or apartment complex, or neighbourhood level).<p>It would need a way to be cheat-proof, but there could be a <em>water</em>-exchange where you can consume or inject clear <em>water</em> and receive/spend crypto-currency.<p>How harebrained of an idea is it? The fundamental <em>problem</em> is there, but the execution would need to be heavily regulated (possibly limited to highly trusted actors). What if a future fiat currency were not backed by something like gold, or Bitcoin, but clean <em>water</em>?"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "water"
+          ],
+          "value": "Proposal: Crypto Mining for Clean <em>Water</em>"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_wppick",
+        "story_30949580",
+        "ask_hn"
+      ],
+      "author": "wppick",
+      "children": [
+        30949817,
+        30949879,
+        30950465
+      ],
+      "created_at": "2022-04-07T19:53:25Z",
+      "created_at_i": 1649361205,
+      "num_comments": 2,
+      "objectID": "30949580",
+      "points": 1,
+      "story_id": 30949580,
+      "story_text": "Want to just put this idea out there for the feasibility of a crypto currency backed not by solving hard computations, but instead for producing clean, pure water.<p>High quality water and availability seems to be trending in the direction of scarcity. You might think this is ridiculous, since there appears to be an unlimited supply of tap water, but how clean is that water? Tap water is increasingly becoming polluted in ways hard to clean. Microplastics, metals, hormones like estrogen, possible contamination by farming, industry.<p>What if the work done to mine the crypto currency was the cleaning of water. Either waste water, salt water, or tap water locally (in the home, or apartment complex, or neighbourhood level).<p>It would need a way to be cheat-proof, but there could be a water-exchange where you can consume or inject clear water and receive&#x2F;spend crypto-currency.<p>How harebrained of an idea is it? The fundamental problem is there, but the execution would need to be heavily regulated (possibly limited to highly trusted actors). What if a future fiat currency were not backed by something like gold, or Bitcoin, but clean water?",
+      "title": "Proposal: Crypto Mining for Clean Water",
+      "updated_at": "2024-09-20T10:53:05Z"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "JumpinJack_Cash"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "water",
+            "scarcity",
+            "problem"
+          ],
+          "value": "I have had enough of this modern world where there are no strong feelings between men and women and most importantly among men.<p>Everybody seems to just be doing their job which is essentially being a infinitly small cogwheel in an immense and intricated system.<p>I miss the strong sentiment that I had towards people when I was a younger, both the friends from high school but also the enemies from high school, those who want to steal your girl, those who always try to bully you and you have to rebut both methaphorically and physically.<p>It seemed like the only thing that mattered were the friendships and the rivalries within the school. No worries about the economy or jobs or cash runaway, mostly no worries about the external world.<p>All the informations that we are constantly bombarded by have propelled lots of economic growth, but also they <em>water</em> down every emotion and sentiment because there is always another place to go or another option to explore as far as romantic partners, friends and ever rivalries are watered down because of the abundance of informations and options makes it so that nobody has to stand their ground anymore for anything because there is always the option to find it elsewhere through a path of less resistance.<p>I think the way we talk towards the 3rd world and uncontacted tribes with this sense of superiority is unwarrwanted, because sure they might have little to no stuff, but for sure they have strong sentiments toward one another, because of the aforementioned lack of stuff, and also much lower life expectancy, they have to make things happen in a very short time and in conditions of extreme <em>scarcity</em>, hence bonds and alliances are formed and dissolved on a daily basis. Friends become enemies, and viceversa in a constant waltzer of strong emotions.<p>Us on the other hand we experience next to nothing emotionally because of the aforementioned watering down<p>So the question after the rant:<p>How would you guys solve the <em>problem</em> of lack of strong emotions towards other people which spirals down into lack of strong friendships, lack of strong rivalries, lack of romantic partners that you really care about ( not just a girl that you pick because you don’t want to be alone) ?"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Ask HN: How do you go about finding friends and enemies?"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_JumpinJack_Cash",
+        "story_40433529",
+        "ask_hn"
+      ],
+      "author": "JumpinJack_Cash",
+      "children": [
+        40433650,
+        40434895,
+        40436092
+      ],
+      "created_at": "2024-05-21T20:34:11Z",
+      "created_at_i": 1716323651,
+      "num_comments": 8,
+      "objectID": "40433529",
+      "points": 3,
+      "story_id": 40433529,
+      "story_text": "I have had enough of this modern world where there are no strong feelings between men and women and most importantly among men.<p>Everybody seems to just be doing their job which is essentially being a infinitly small cogwheel in an immense and intricated system.<p>I miss the strong sentiment that I had towards people when I was a younger, both the friends from high school but also the enemies from high school, those who want to steal your girl, those who always try to bully you and you have to rebut both methaphorically and physically.<p>It seemed like the only thing that mattered were the friendships and the rivalries within the school. No worries about the economy or jobs or cash runaway, mostly no worries about the external world.<p>All the informations that we are constantly bombarded by have propelled lots of economic growth, but also they water down every emotion and sentiment because there is always another place to go or another option to explore as far as romantic partners, friends and ever rivalries are watered down because of the abundance of informations and options makes it so that nobody has to stand their ground anymore for anything because there is always the option to find it elsewhere through a path of less resistance.<p>I think the way we talk towards the 3rd world and uncontacted tribes with this sense of superiority is unwarrwanted, because sure they might have little to no stuff, but for sure they have strong sentiments toward one another, because of the aforementioned lack of stuff, and also much lower life expectancy, they have to make things happen in a very short time and in conditions of extreme scarcity, hence bonds and alliances are formed and dissolved on a daily basis. Friends become enemies, and viceversa in a constant waltzer of strong emotions.<p>Us on the other hand we experience next to nothing emotionally because of the aforementioned watering down<p>So the question after the rant:<p>How would you guys solve the problem of lack of strong emotions towards other people which spirals down into lack of strong friendships, lack of strong rivalries, lack of romantic partners that you really care about ( not just a girl that you pick because you don’t want to be alone) ?",
+      "title": "Ask HN: How do you go about finding friends and enemies?",
+      "updated_at": "2024-09-20T17:02:52Z"
+    }
+  ],
+  "hitsPerPage": 5,
+  "nbHits": 3,
+  "nbPages": 1,
+  "page": 0,
+  "params": "query=water+scarcity+problem&tags=story&hitsPerPage=5&advancedSyntax=true&analyticsTags=backend",
+  "processingTimeMS": 179,
+  "processingTimingsMS": {
+    "_request": {
+      "roundTrip": 14
+    },
+    "afterFetch": {
+      "format": {
+        "highlighting": 1,
+        "total": 1
+      }
+    },
+    "fetch": {
+      "query": 18,
+      "scanning": 2,
+      "total": 21
+    },
+    "getIdx": {
+      "load": {
+        "gens": 126,
+        "synonyms": 28,
+        "total": 156
+      },
+      "total": 156
+    },
+    "total": 179
+  },
+  "query": "water scarcity problem",
+  "serverTimeMS": 197
+}

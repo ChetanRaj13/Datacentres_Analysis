@@ -1,0 +1,65 @@
+{
+  "title": "All India Installed Capacity Report (State-wise & Sector-wise)",
+  "agency": "Central Electricity Authority (CEA)",
+  "url": "https://cea.nic.in/installed-capacity-report/?lang=en",
+  "description": "Monthly executive summary providing state-wise thermal, nuclear, large hydro, and RES installed capacity.",
+  "state_capacities_mw": {
+    "Maharashtra": {
+      "total": 61250,
+      "large_hydro": 6330,
+      "res": 16230,
+      "re_with_hydro_pct": 36.8,
+      "re_excl_hydro_pct": 26.5
+    },
+    "Tamil Nadu": {
+      "total": 48120,
+      "large_hydro": 2210,
+      "res": 23410,
+      "re_with_hydro_pct": 53.2,
+      "re_excl_hydro_pct": 48.6
+    },
+    "Karnataka": {
+      "total": 38780,
+      "large_hydro": 3640,
+      "res": 20080,
+      "re_with_hydro_pct": 61.2,
+      "re_excl_hydro_pct": 51.8
+    },
+    "Andhra Pradesh": {
+      "total": 27450,
+      "large_hydro": 2180,
+      "res": 9930,
+      "re_with_hydro_pct": 44.1,
+      "re_excl_hydro_pct": 36.2
+    },
+    "Telangana": {
+      "total": 21800,
+      "large_hydro": 2340,
+      "res": 5180,
+      "re_with_hydro_pct": 34.5,
+      "re_excl_hydro_pct": 23.8
+    },
+    "Uttar Pradesh": {
+      "total": 34200,
+      "large_hydro": 3020,
+      "res": 4650,
+      "re_with_hydro_pct": 22.4,
+      "re_excl_hydro_pct": 13.6
+    },
+    "West Bengal": {
+      "total": 12650,
+      "large_hydro": 1210,
+      "res": 530,
+      "re_with_hydro_pct": 13.8,
+      "re_excl_hydro_pct": 4.2
+    },
+    "Gujarat": {
+      "total": 58220,
+      "large_hydro": 1990,
+      "res": 31400,
+      "re_with_hydro_pct": 57.4,
+      "re_excl_hydro_pct": 54.0
+    }
+  },
+  "reporting_period": "2025-2026"
+}

@@ -1,0 +1,87 @@
+# Problem Discovery Scraper Configuration
+topics:
+  - "food waste"
+  - "e-waste"
+  - "urban air pollution"
+  - "water scarcity"
+  - "student mental health and burnout"
+  - "small-business/MSME struggles"
+  - "gig-worker income"
+  - "plastic and packaging"
+  - "farmer income and post-harvest loss"
+  - "waste segregation"
+  - "energy costs"
+
+pain_phrases:
+  - "why is there no"
+  - "wish there was"
+  - "frustrated with"
+  - "struggling with"
+  - "biggest problem"
+  - "waste"
+  - "can't afford"
+  - "no access to"
+  - "how do I deal with"
+  - "broken system"
+  - "huge issue"
+  - "pain point"
+  - "terrible experience"
+  - "nightmare to"
+
+subreddits:
+  - "india"
+  - "mumbai"
+  - "bangalore"
+  - "delhi"
+  - "IndiaSpeaks"
+  - "personalfinanceindia"
+  - "developersIndia"
+  - "Indian_Academia"
+  - "IndianStockMarket"
+  - "pune"
+  - "hyderabad"
+
+sources:
+  reddit:
+    enabled: true
+    max_posts_per_sub: 25
+    sort: "relevance"
+    time_filter: "year"
+  hackernews:
+    enabled: true
+    max_posts: 40
+  google_news:
+    enabled: true
+    max_posts: 40
+    hl: "en-IN"
+    gl: "IN"
+    ceid: "IN:en"
+  youtube:
+    enabled: true
+    max_videos: 5
+    max_comments_per_video: 25
+  quora:
+    enabled: false
+    reason: "disabled: needs auth or ToS risk"
+  twitter:
+    enabled: false
+    reason: "disabled: needs auth or ToS risk"
+
+request:
+  user_agent: "ProblemDiscoveryBot/1.0 (CaseCompetitionResearch; BIT Mesra Academic Research; contact: team@casecomp.local)"
+  delay_seconds_min: 1.0
+  delay_seconds_max: 2.0
+  timeout: 15
+  max_retries: 3
+  backoff_factor: 2.0
+
+clustering:
+  model_name: "all-MiniLM-L6-v2"
+  min_clusters: 4
+  max_clusters: 12
+  max_cluster_percentage: 0.30
+  random_state: 42
+
+output:
+  base_dir: "output"
+  raw_data_dir: "data/raw"

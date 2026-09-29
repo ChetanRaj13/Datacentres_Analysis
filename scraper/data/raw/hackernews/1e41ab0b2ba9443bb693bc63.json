@@ -1,0 +1,1512 @@
+{
+  "exhaustive": {
+    "nbHits": false,
+    "typo": false
+  },
+  "exhaustiveNbHits": false,
+  "exhaustiveTypo": false,
+  "hits": [
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "tartoran"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "energy",
+            "costs"
+          ],
+          "value": "US inflation jumps to 3.8% as <em>energy</em> <em>costs</em> surge from Iran war"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://www.bbc.com/news/articles/c202pgxx89lo"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_tartoran",
+        "story_48108313"
+      ],
+      "author": "tartoran",
+      "children": [
+        48108581,
+        48108612,
+        48108624,
+        48108685,
+        48108711,
+        48108766,
+        48108835,
+        48108840,
+        48108968,
+        48109024,
+        48109030,
+        48109034,
+        48109057,
+        48109082,
+        48109087,
+        48109098,
+        48109153,
+        48109292,
+        48109431,
+        48110502,
+        48110717,
+        48111229,
+        48112085,
+        48113423,
+        48114664,
+        48115107,
+        48117826,
+        48120901
+      ],
+      "created_at": "2026-05-12T13:51:36Z",
+      "created_at_i": 1778593896,
+      "num_comments": 439,
+      "objectID": "48108313",
+      "points": 260,
+      "story_id": 48108313,
+      "title": "US inflation jumps to 3.8% as energy costs surge from Iran war",
+      "updated_at": "2026-08-26T10:42:07Z",
+      "url": "https://www.bbc.com/news/articles/c202pgxx89lo"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "bshanks"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "energy",
+            "costs"
+          ],
+          "value": "In mobile, 62.7% of computation <em>energy</em> <em>cost</em> is spent on data movement [pdf]"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://safari.ethz.ch/architecture/fall2019/lib/exe/fetch.php?media=onur-comparch-fall2019-lecture6b-in-memory-computation-i-afterlecture.pdf"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_bshanks",
+        "story_21641343"
+      ],
+      "author": "bshanks",
+      "children": [
+        21641721,
+        21646456,
+        21646556,
+        21646630,
+        21646699,
+        21646789,
+        21646926,
+        21647065,
+        21647321,
+        21647444,
+        21648129,
+        21648995,
+        21649522,
+        21650680,
+        21651583,
+        21652287,
+        21652678
+      ],
+      "created_at": "2019-11-26T18:48:50Z",
+      "created_at_i": 1574794130,
+      "num_comments": 157,
+      "objectID": "21641343",
+      "points": 200,
+      "story_id": 21641343,
+      "title": "In mobile, 62.7% of computation energy cost is spent on data movement [pdf]",
+      "updated_at": "2024-09-20T05:19:15Z",
+      "url": "https://safari.ethz.ch/architecture/fall2019/lib/exe/fetch.php?media=onur-comparch-fall2019-lecture6b-in-memory-computation-i-afterlecture.pdf"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "TekMol"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "energy",
+            "costs"
+          ],
+          "value": "Turkey’s inflation soars to 73%, a 23-year high, as food and <em>energy</em> <em>costs</em> rise"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "energy",
+            "costs"
+          ],
+          "value": "https://www.cnbc.com/2022/06/03/turkeys-inflation-soars-to-73percent-as-food-and-<em>energy</em>-<em>costs</em>-skyrocket.html"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_TekMol",
+        "story_31619089"
+      ],
+      "author": "TekMol",
+      "children": [
+        31619648,
+        31619703,
+        31619736,
+        31619930,
+        31619944,
+        31620091,
+        31620106,
+        31620108,
+        31620288,
+        31620290,
+        31620346,
+        31620500,
+        31620906,
+        31620949,
+        31621040,
+        31621219,
+        31621294,
+        31621773,
+        31622488,
+        31630306
+      ],
+      "created_at": "2022-06-04T11:22:00Z",
+      "created_at_i": 1654341720,
+      "num_comments": 332,
+      "objectID": "31619089",
+      "points": 196,
+      "story_id": 31619089,
+      "title": "Turkey’s inflation soars to 73%, a 23-year high, as food and energy costs rise",
+      "updated_at": "2024-09-20T11:15:24Z",
+      "url": "https://www.cnbc.com/2022/06/03/turkeys-inflation-soars-to-73percent-as-food-and-energy-costs-skyrocket.html"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "nkurz"
+        },
+        "story_text": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": ""
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "energy",
+            "costs"
+          ],
+          "value": "Flying at No Mechanical <em>Energy</em> <em>Cost</em>: The Secret of Wandering Albatrosses"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0041449"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_nkurz",
+        "story_4593205"
+      ],
+      "author": "nkurz",
+      "children": [
+        4593432,
+        4593513,
+        4593648,
+        4593701,
+        4593933,
+        4593991,
+        4594292
+      ],
+      "created_at": "2012-09-30T16:13:11Z",
+      "created_at_i": 1349021591,
+      "num_comments": 32,
+      "objectID": "4593205",
+      "points": 94,
+      "story_id": 4593205,
+      "story_text": "",
+      "title": "Flying at No Mechanical Energy Cost: The Secret of Wandering Albatrosses",
+      "updated_at": "2024-09-19T19:00:52Z",
+      "url": "http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0041449"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "andsoitis"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "energy",
+            "costs"
+          ],
+          "value": "Addressing AI’s <em>energy</em> <em>cost</em>"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://numenta.com/blog/2022/05/24/ai-is-harming-our-planet"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_andsoitis",
+        "story_31662560"
+      ],
+      "author": "andsoitis",
+      "children": [
+        31662653,
+        31662716,
+        31662726,
+        31662730,
+        31662736,
+        31662757,
+        31662782,
+        31662798,
+        31662844,
+        31662852,
+        31662858,
+        31662863,
+        31662869,
+        31662890,
+        31662937,
+        31662988,
+        31663471,
+        31663765,
+        31664154,
+        31664667,
+        31664684,
+        31664705,
+        31664977,
+        31665131,
+        31666213,
+        31667143,
+        31668063,
+        31672115
+      ],
+      "created_at": "2022-06-08T02:34:28Z",
+      "created_at_i": 1654655668,
+      "num_comments": 164,
+      "objectID": "31662560",
+      "points": 93,
+      "story_id": 31662560,
+      "title": "Addressing AI’s energy cost",
+      "updated_at": "2025-10-08T02:42:09Z",
+      "url": "https://numenta.com/blog/2022/05/24/ai-is-harming-our-planet"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "pdog"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "energy",
+            "costs"
+          ],
+          "value": "Bitcoin's Enormous <em>Energy</em> <em>Costs</em> May Prove to Be Its Biggest Risk"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "energy",
+            "costs"
+          ],
+          "value": "https://www.bloomberg.com/news/articles/2017-11-09/bitcoin-s-exorbitant-<em>energy</em>-<em>costs</em>-may-prove-to-be-biggest-risk"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_pdog",
+        "story_15663053"
+      ],
+      "author": "pdog",
+      "children": [
+        15665265,
+        15665273,
+        15665312,
+        15665354,
+        15665374,
+        15665456,
+        15665519,
+        15665593,
+        15665702,
+        15665766,
+        15665777,
+        15665778,
+        15665785,
+        15665840,
+        15665845,
+        15665868,
+        15666289,
+        15667667
+      ],
+      "created_at": "2017-11-09T15:15:45Z",
+      "created_at_i": 1510240545,
+      "num_comments": 104,
+      "objectID": "15663053",
+      "points": 72,
+      "story_id": 15663053,
+      "title": "Bitcoin's Enormous Energy Costs May Prove to Be Its Biggest Risk",
+      "updated_at": "2024-09-20T01:38:22Z",
+      "url": "https://www.bloomberg.com/news/articles/2017-11-09/bitcoin-s-exorbitant-energy-costs-may-prove-to-be-biggest-risk"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Bender"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "energy",
+            "costs"
+          ],
+          "value": "OpenAI puts Stargate UK on ice, blames <em>energy</em> <em>costs</em> and red tape"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://www.theregister.com/2026/04/09/openai_puts_stargate_uk_on/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_Bender",
+        "story_47708593"
+      ],
+      "author": "Bender",
+      "children": [
+        47708992,
+        47709053,
+        47709340,
+        47709383,
+        47709569,
+        47710015,
+        47710113,
+        47710144,
+        47710177,
+        47710226,
+        47710850
+      ],
+      "created_at": "2026-04-09T19:29:59Z",
+      "created_at_i": 1775762999,
+      "num_comments": 35,
+      "objectID": "47708593",
+      "points": 60,
+      "story_id": 47708593,
+      "title": "OpenAI puts Stargate UK on ice, blames energy costs and red tape",
+      "updated_at": "2026-06-05T15:12:08Z",
+      "url": "https://www.theregister.com/2026/04/09/openai_puts_stargate_uk_on/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "jeremejevs"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "energy",
+            "costs"
+          ],
+          "value": "The <em>Energy</em> <em>Cost</em> of Electric and Human-Powered Bicycles (2004) [pdf]"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "energy"
+          ],
+          "value": "https://www.ebikes.ca/documents/Ebike_<em>Energy</em>.pdf"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_jeremejevs",
+        "story_20317643"
+      ],
+      "author": "jeremejevs",
+      "children": [
+        20318242,
+        20318425,
+        20318854,
+        20318884,
+        20318990,
+        20319018,
+        20319037,
+        20319357,
+        20319408,
+        20319493,
+        20319802,
+        20319804,
+        20320138,
+        20320475,
+        20320642,
+        20320919
+      ],
+      "created_at": "2019-06-30T11:17:02Z",
+      "created_at_i": 1561893422,
+      "num_comments": 44,
+      "objectID": "20317643",
+      "points": 58,
+      "story_id": 20317643,
+      "title": "The Energy Cost of Electric and Human-Powered Bicycles (2004) [pdf]",
+      "updated_at": "2024-09-20T04:25:03Z",
+      "url": "https://www.ebikes.ca/documents/Ebike_Energy.pdf"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "f_allwein"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "energy",
+            "costs"
+          ],
+          "value": "Switching World to Renewable <em>Energy</em> Will <em>Cost</em> $62T, Payback Would Take 6 Years"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "energy",
+            "costs"
+          ],
+          "value": "https://cleantechnica.com/2022/09/06/switching-the-world-to-renewable-<em>energy</em>-will-<em>cost</em>-62-trillion-but-the-payback-would-take-just-6-years/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_f_allwein",
+        "story_33135183"
+      ],
+      "author": "f_allwein",
+      "children": [
+        33135645,
+        33135724,
+        33135810,
+        33136007,
+        33136090,
+        33136117,
+        33136301,
+        33136435,
+        33136550,
+        33136606,
+        33137935,
+        33143050
+      ],
+      "created_at": "2022-10-08T19:22:39Z",
+      "created_at_i": 1665256959,
+      "num_comments": 68,
+      "objectID": "33135183",
+      "points": 45,
+      "story_id": 33135183,
+      "title": "Switching World to Renewable Energy Will Cost $62T, Payback Would Take 6 Years",
+      "updated_at": "2024-09-20T12:12:40Z",
+      "url": "https://cleantechnica.com/2022/09/06/switching-the-world-to-renewable-energy-will-cost-62-trillion-but-the-payback-would-take-just-6-years/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "doener"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "energy",
+            "costs"
+          ],
+          "value": "US manufacturers' <em>energy</em> <em>costs</em> soar because of AI data center demand"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "energy",
+            "costs"
+          ],
+          "value": "https://arstechnica.com/tech-policy/2026/07/us-manufacturers-<em>energy</em>-<em>costs</em>-soar-because-of-ai-data-center-demand/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_doener",
+        "story_48823772"
+      ],
+      "author": "doener",
+      "children": [
+        48824027,
+        48824385,
+        48825135
+      ],
+      "created_at": "2026-07-07T21:07:29Z",
+      "created_at_i": 1783458449,
+      "num_comments": 6,
+      "objectID": "48823772",
+      "points": 34,
+      "story_id": 48823772,
+      "title": "US manufacturers' energy costs soar because of AI data center demand",
+      "updated_at": "2026-07-09T22:01:35Z",
+      "url": "https://arstechnica.com/tech-policy/2026/07/us-manufacturers-energy-costs-soar-because-of-ai-data-center-demand/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "evaneykelen"
+        },
+        "story_text": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": ""
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "energy",
+            "costs"
+          ],
+          "value": "Estimating the <em>energy</em> <em>cost</em> of evolution"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "energy",
+            "costs"
+          ],
+          "value": "http://alanwinfield.blogspot.com/2014/07/estimating-<em>energy</em>-<em>cost</em>-of-evolution.html"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_evaneykelen",
+        "story_8059732"
+      ],
+      "author": "evaneykelen",
+      "children": [
+        8060092,
+        8061132,
+        8061618
+      ],
+      "created_at": "2014-07-20T06:23:39Z",
+      "created_at_i": 1405837419,
+      "num_comments": 8,
+      "objectID": "8059732",
+      "points": 33,
+      "story_id": 8059732,
+      "story_text": "",
+      "title": "Estimating the energy cost of evolution",
+      "updated_at": "2023-09-06T22:00:24Z",
+      "url": "http://alanwinfield.blogspot.com/2014/07/estimating-energy-cost-of-evolution.html"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "TimTheTinker"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "energy",
+            "costs"
+          ],
+          "value": "<em>Energy</em> <em>cost</em> of mining Bitcoin more than twice that of copper or gold"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "energy",
+            "costs"
+          ],
+          "value": "https://www.theguardian.com/technology/2018/nov/05/<em>energy</em>-<em>cost</em>-of-mining-bitcoin-more-than-twice-that-of-copper-or-gold"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_TimTheTinker",
+        "story_18394194"
+      ],
+      "author": "TimTheTinker",
+      "children": [
+        18395576,
+        18395772
+      ],
+      "created_at": "2018-11-06T19:32:57Z",
+      "created_at_i": 1541532777,
+      "num_comments": 3,
+      "objectID": "18394194",
+      "points": 25,
+      "story_id": 18394194,
+      "title": "Energy cost of mining Bitcoin more than twice that of copper or gold",
+      "updated_at": "2024-09-20T03:24:04Z",
+      "url": "https://www.theguardian.com/technology/2018/nov/05/energy-cost-of-mining-bitcoin-more-than-twice-that-of-copper-or-gold"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "walterbell"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "energy",
+            "costs"
+          ],
+          "value": "More than 70% of pubs do not expect to survive winter as <em>energy</em> <em>costs</em> soar"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "energy",
+            "costs"
+          ],
+          "value": "https://www.theguardian.com/business/2022/aug/23/pubs-winter-<em>energy</em>-<em>costs</em>-soar"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_walterbell",
+        "story_32577099"
+      ],
+      "author": "walterbell",
+      "children": [
+        32578549,
+        32578599,
+        32578723,
+        32579352
+      ],
+      "created_at": "2022-08-24T09:44:56Z",
+      "created_at_i": 1661334296,
+      "num_comments": 16,
+      "objectID": "32577099",
+      "points": 24,
+      "story_id": 32577099,
+      "title": "More than 70% of pubs do not expect to survive winter as energy costs soar",
+      "updated_at": "2024-09-20T11:54:29Z",
+      "url": "https://www.theguardian.com/business/2022/aug/23/pubs-winter-energy-costs-soar"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "voxadam"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "energy",
+            "costs"
+          ],
+          "value": "Senators count the shady ways data centers pass <em>energy</em> <em>costs</em> on to Americans"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "energy"
+          ],
+          "value": "https://arstechnica.com/tech-policy/2025/12/shady-data-center-deals-doom-americans-to-higher-<em>energy</em>-bills-senators-say/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_voxadam",
+        "story_46297651"
+      ],
+      "author": "voxadam",
+      "created_at": "2025-12-17T02:45:58Z",
+      "created_at_i": 1765939558,
+      "num_comments": 0,
+      "objectID": "46297651",
+      "points": 14,
+      "story_id": 46297651,
+      "title": "Senators count the shady ways data centers pass energy costs on to Americans",
+      "updated_at": "2026-03-05T23:14:00Z",
+      "url": "https://arstechnica.com/tech-policy/2025/12/shady-data-center-deals-doom-americans-to-higher-energy-bills-senators-say/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "rany_"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "energy",
+            "costs"
+          ],
+          "value": "I have a feeling this might not end well for European hosting companies.<p>I received this email from Scaleway:<p>Like many companies, rising <em>energy</em> <em>costs</em> are having an impact on our business. The main reason for this increase is due to soaring gas prices (directly linked to the Ukraine conflict) and, in France specifically, to maintenance delays concerning national nuclear reactors. In the spirit of full transparency, we would like to inform you that, over the Q3 2021-Q3 2022 period, we already experienced an 85% increase in our electricity <em>costs</em>, without affecting your invoice. Unfortunately, the current geopolitical situation suggests that <em>energy</em> prices will continue to rise in 2023.<p>In addition to <em>energy</em> prices, growing inflation is significantly increasing all <em>costs</em> which are essential to the running of our business.\nDespite our commitment to offering the best price/performance ratio for our services, we are now forced to increase our prices.<p>Thus, as of December 1, 2022, we will increase the prices of our offers by an average of 10% for most existing Scaleway solutions (Dedibox and Public Cloud).\nWe have decided to apply this increase by targeting specific product categories and service ranges. We will communicate the detailed list of pricing changes per product line in the next few days."
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "energy",
+            "costs"
+          ],
+          "value": "Scaleway will increase prices in Dec 2022 due to rising <em>energy</em> <em>costs</em> in Europe"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_rany_",
+        "story_33285936",
+        "ask_hn"
+      ],
+      "author": "rany_",
+      "children": [
+        33286787
+      ],
+      "created_at": "2022-10-21T08:42:52Z",
+      "created_at_i": 1666341772,
+      "num_comments": 4,
+      "objectID": "33285936",
+      "points": 13,
+      "story_id": 33285936,
+      "story_text": "I have a feeling this might not end well for European hosting companies.<p>I received this email from Scaleway:<p>Like many companies, rising energy costs are having an impact on our business. The main reason for this increase is due to soaring gas prices (directly linked to the Ukraine conflict) and, in France specifically, to maintenance delays concerning national nuclear reactors. In the spirit of full transparency, we would like to inform you that, over the Q3 2021-Q3 2022 period, we already experienced an 85% increase in our electricity costs, without affecting your invoice. Unfortunately, the current geopolitical situation suggests that energy prices will continue to rise in 2023.<p>In addition to energy prices, growing inflation is significantly increasing all costs which are essential to the running of our business.\nDespite our commitment to offering the best price&#x2F;performance ratio for our services, we are now forced to increase our prices.<p>Thus, as of December 1, 2022, we will increase the prices of our offers by an average of 10% for most existing Scaleway solutions (Dedibox and Public Cloud).\nWe have decided to apply this increase by targeting specific product categories and service ranges. We will communicate the detailed list of pricing changes per product line in the next few days.",
+      "title": "Scaleway will increase prices in Dec 2022 due to rising energy costs in Europe",
+      "updated_at": "2024-09-20T12:20:05Z"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "mpweiher"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "energy",
+            "costs"
+          ],
+          "value": "Italy Explores Nuclear Return After 40 Years as <em>Energy</em> <em>Costs</em> Hit"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "energy",
+            "costs"
+          ],
+          "value": "https://www.bloomberg.com/news/articles/2026-03-15/italy-explores-nuclear-return-after-40-years-as-<em>energy</em>-<em>costs</em>-hit"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_mpweiher",
+        "story_47386706"
+      ],
+      "author": "mpweiher",
+      "children": [
+        47386812,
+        47389630,
+        47390375
+      ],
+      "created_at": "2026-03-15T12:21:06Z",
+      "created_at_i": 1773577266,
+      "num_comments": 4,
+      "objectID": "47386706",
+      "points": 11,
+      "story_id": 47386706,
+      "title": "Italy Explores Nuclear Return After 40 Years as Energy Costs Hit",
+      "updated_at": "2026-03-18T16:52:01Z",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-15/italy-explores-nuclear-return-after-40-years-as-energy-costs-hit"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "addaon"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "energy",
+            "costs"
+          ],
+          "value": "An \"ice battery\" system is being used to cool buildings and lower <em>energy</em> <em>costs</em>"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "energy",
+            "costs"
+          ],
+          "value": "https://www.cbsnews.com/news/innovative-ice-battery-system-cool-buildings-lower-<em>energy</em>-<em>costs</em>/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_addaon",
+        "story_44188053"
+      ],
+      "author": "addaon",
+      "children": [
+        44189411,
+        44191881
+      ],
+      "created_at": "2025-06-05T03:23:01Z",
+      "created_at_i": 1749093781,
+      "num_comments": 2,
+      "objectID": "44188053",
+      "points": 11,
+      "story_id": 44188053,
+      "title": "An \"ice battery\" system is being used to cool buildings and lower energy costs",
+      "updated_at": "2025-06-13T09:11:22Z",
+      "url": "https://www.cbsnews.com/news/innovative-ice-battery-system-cool-buildings-lower-energy-costs/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "CoryOndrejka"
+        },
+        "story_text": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": ""
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "energy",
+            "costs"
+          ],
+          "value": "White roofs catch on to save <em>energy</em> <em>costs</em>"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "http://www.nytimes.com/2009/07/30/science/earth/30degrees.html?_r=1&hpw"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_CoryOndrejka",
+        "story_732739"
+      ],
+      "author": "CoryOndrejka",
+      "children": [
+        732763,
+        732927,
+        732970,
+        733293,
+        733367
+      ],
+      "created_at": "2009-07-30T18:22:11Z",
+      "created_at_i": 1248978131,
+      "num_comments": 16,
+      "objectID": "732739",
+      "points": 10,
+      "story_id": 732739,
+      "story_text": "",
+      "title": "White roofs catch on to save energy costs",
+      "updated_at": "2024-09-19T16:39:34Z",
+      "url": "http://www.nytimes.com/2009/07/30/science/earth/30degrees.html?_r=1&hpw"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "1vuio0pswjnm7"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "energy",
+            "costs"
+          ],
+          "value": "https://www.washingtonpost.com/technology/2025/07/10/ohio-data-centers-<em>energy</em>-<em>costs</em>/"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "energy",
+            "costs"
+          ],
+          "value": "<em>Energy</em> <em>costs</em> are rising. This state says tech companies must pay more"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_1vuio0pswjnm7",
+        "story_44528471",
+        "ask_hn"
+      ],
+      "author": "1vuio0pswjnm7",
+      "children": [
+        44528535,
+        44531268,
+        44531734
+      ],
+      "created_at": "2025-07-11T04:43:19Z",
+      "created_at_i": 1752208999,
+      "num_comments": 2,
+      "objectID": "44528471",
+      "points": 10,
+      "story_id": 44528471,
+      "story_text": "https:&#x2F;&#x2F;www.washingtonpost.com&#x2F;technology&#x2F;2025&#x2F;07&#x2F;10&#x2F;ohio-data-centers-energy-costs&#x2F;",
+      "title": "Energy costs are rising. This state says tech companies must pay more",
+      "updated_at": "2025-07-13T16:57:19Z"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "dtran24"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "energy",
+            "costs"
+          ],
+          "value": "Inflation Heated Up to 4.2% in May, as <em>Energy</em> <em>Costs</em> Continued to Bite"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://www.wsj.com/economy/cpi-inflation-report-may-2026-60db25fe"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_dtran24",
+        "story_48475646"
+      ],
+      "author": "dtran24",
+      "created_at": "2026-06-10T12:59:08Z",
+      "created_at_i": 1781096348,
+      "num_comments": 0,
+      "objectID": "48475646",
+      "points": 8,
+      "story_id": 48475646,
+      "title": "Inflation Heated Up to 4.2% in May, as Energy Costs Continued to Bite",
+      "updated_at": "2026-06-10T21:29:11Z",
+      "url": "https://www.wsj.com/economy/cpi-inflation-report-may-2026-60db25fe"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "ronron4693"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "energy",
+            "costs"
+          ],
+          "value": "Resurrected battery from 1970s to slash <em>energy</em> storage <em>costs</em>"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "energy",
+            "costs"
+          ],
+          "value": "https://cleanenergyrevolution.co/2023/11/07/resurrected-battery-from-1970s-to-slash-<em>energy</em>-storage-<em>costs</em>/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_ronron4693",
+        "story_38185501"
+      ],
+      "author": "ronron4693",
+      "created_at": "2023-11-08T01:15:56Z",
+      "created_at_i": 1699406156,
+      "num_comments": 0,
+      "objectID": "38185501",
+      "points": 8,
+      "story_id": 38185501,
+      "title": "Resurrected battery from 1970s to slash energy storage costs",
+      "updated_at": "2024-09-20T15:40:59Z",
+      "url": "https://cleanenergyrevolution.co/2023/11/07/resurrected-battery-from-1970s-to-slash-energy-storage-costs/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "rsj_hn"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "energy",
+            "costs"
+          ],
+          "value": "Volkswagen: High <em>Energy</em> <em>Cost</em> Make New EV Plants “Unfeasible”"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "energy",
+            "costs"
+          ],
+          "value": "https://oilprice.com/<em>Energy</em>/<em>Energy</em>-General/Volkswagen-Group-CEO-High-<em>Energy</em>-<em>Cost</em>-Make-New-EV-Plants-Unfeasible.html"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_rsj_hn",
+        "story_33848670"
+      ],
+      "author": "rsj_hn",
+      "created_at": "2022-12-03T23:33:44Z",
+      "created_at_i": 1670110424,
+      "num_comments": 0,
+      "objectID": "33848670",
+      "points": 8,
+      "story_id": 33848670,
+      "title": "Volkswagen: High Energy Cost Make New EV Plants “Unfeasible”",
+      "updated_at": "2024-09-20T12:39:48Z",
+      "url": "https://oilprice.com/Energy/Energy-General/Volkswagen-Group-CEO-High-Energy-Cost-Make-New-EV-Plants-Unfeasible.html"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "rbanffy"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "energy",
+            "costs"
+          ],
+          "value": "Time-shifted computing could slash data center <em>energy</em> <em>costs</em> by up to 30%"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "energy",
+            "costs"
+          ],
+          "value": "https://arstechnica.com/science/2022/02/time-shifted-computing-could-slash-data-center-<em>energy</em>-<em>costs</em>-by-up-to-30/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_rbanffy",
+        "story_30306321"
+      ],
+      "author": "rbanffy",
+      "created_at": "2022-02-11T20:02:27Z",
+      "created_at_i": 1644609747,
+      "num_comments": 0,
+      "objectID": "30306321",
+      "points": 7,
+      "story_id": 30306321,
+      "title": "Time-shifted computing could slash data center energy costs by up to 30%",
+      "updated_at": "2024-09-20T10:26:31Z",
+      "url": "https://arstechnica.com/science/2022/02/time-shifted-computing-could-slash-data-center-energy-costs-by-up-to-30/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Andrea_B"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "energy",
+            "costs"
+          ],
+          "value": "<em>Energy</em> density is not the driver of <em>energy</em> transitions, <em>cost</em> is"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "energy",
+            "costs"
+          ],
+          "value": "https://chadvesting.substack.com/p/<em>energy</em>-density-vs-<em>cost</em>-the-real-drivers"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_Andrea_B",
+        "story_33438040"
+      ],
+      "author": "Andrea_B",
+      "children": [
+        33443082,
+        33448113
+      ],
+      "created_at": "2022-11-02T16:04:17Z",
+      "created_at_i": 1667405057,
+      "num_comments": 19,
+      "objectID": "33438040",
+      "points": 6,
+      "story_id": 33438040,
+      "title": "Energy density is not the driver of energy transitions, cost is",
+      "updated_at": "2024-09-20T12:24:15Z",
+      "url": "https://chadvesting.substack.com/p/energy-density-vs-cost-the-real-drivers"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "kieranmaine"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "energy",
+            "costs"
+          ],
+          "value": "Tide has turned on UK tidal stream <em>energy</em> as <em>costs</em> ebb and reliability flows"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "energy",
+            "costs"
+          ],
+          "value": "https://www.theguardian.com/environment/2022/nov/23/tidal-stream-<em>energy</em>-<em>costs</em>-ebb-reliability-flows"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_kieranmaine",
+        "story_33736456"
+      ],
+      "author": "kieranmaine",
+      "children": [
+        33736556
+      ],
+      "created_at": "2022-11-24T21:30:49Z",
+      "created_at_i": 1669325449,
+      "num_comments": 1,
+      "objectID": "33736456",
+      "points": 6,
+      "story_id": 33736456,
+      "title": "Tide has turned on UK tidal stream energy as costs ebb and reliability flows",
+      "updated_at": "2024-09-20T12:36:10Z",
+      "url": "https://www.theguardian.com/environment/2022/nov/23/tidal-stream-energy-costs-ebb-reliability-flows"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "rustoo"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "energy",
+            "costs"
+          ],
+          "value": "German industry turns to solar in race to cut <em>energy</em> <em>costs</em>"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "energy",
+            "costs"
+          ],
+          "value": "https://www.reuters.com/business/<em>energy</em>/german-industry-turns-solar-race-cut-<em>energy</em>-<em>costs</em>-2024-07-02/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_rustoo",
+        "story_40855631"
+      ],
+      "author": "rustoo",
+      "created_at": "2024-07-02T11:39:48Z",
+      "created_at_i": 1719920388,
+      "num_comments": 0,
+      "objectID": "40855631",
+      "points": 6,
+      "story_id": 40855631,
+      "title": "German industry turns to solar in race to cut energy costs",
+      "updated_at": "2024-09-20T17:23:55Z",
+      "url": "https://www.reuters.com/business/energy/german-industry-turns-solar-race-cut-energy-costs-2024-07-02/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Ankaios"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "energy",
+            "costs"
+          ],
+          "value": "U.S. Solar Photovoltaic System and <em>Energy</em> Storage <em>Cost</em> Benchmarks: Q1 2021 [pdf]"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://www.nrel.gov/docs/fy22osti/80694.pdf"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_Ankaios",
+        "story_29156787"
+      ],
+      "author": "Ankaios",
+      "children": [
+        29158090,
+        29158899
+      ],
+      "created_at": "2021-11-09T01:55:56Z",
+      "created_at_i": 1636422956,
+      "num_comments": 6,
+      "objectID": "29156787",
+      "points": 5,
+      "story_id": 29156787,
+      "title": "U.S. Solar Photovoltaic System and Energy Storage Cost Benchmarks: Q1 2021 [pdf]",
+      "updated_at": "2024-09-20T09:48:44Z",
+      "url": "https://www.nrel.gov/docs/fy22osti/80694.pdf"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "kieranmaine"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "energy",
+            "costs"
+          ],
+          "value": "Experts Predict Wind <em>Energy</em> <em>Costs</em> to Drop Significantly in the Future"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "energy",
+            "costs"
+          ],
+          "value": "https://scitechdaily.com/experts-predict-wind-<em>energy</em>-<em>costs</em>-to-drop-significantly-in-the-future/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_kieranmaine",
+        "story_27559865"
+      ],
+      "author": "kieranmaine",
+      "children": [
+        27559954,
+        27560495,
+        27560798
+      ],
+      "created_at": "2021-06-19T12:23:27Z",
+      "created_at_i": 1624105407,
+      "num_comments": 5,
+      "objectID": "27559865",
+      "points": 5,
+      "story_id": 27559865,
+      "title": "Experts Predict Wind Energy Costs to Drop Significantly in the Future",
+      "updated_at": "2024-09-20T08:48:55Z",
+      "url": "https://scitechdaily.com/experts-predict-wind-energy-costs-to-drop-significantly-in-the-future/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "thehoff"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "energy",
+            "costs"
+          ],
+          "value": "Iran War <em>Energy</em> <em>Cost</em> Tracker"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://iranwarcost.watson.brown.edu/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_thehoff",
+        "story_49026870"
+      ],
+      "author": "thehoff",
+      "created_at": "2026-07-23T19:31:24Z",
+      "created_at_i": 1784835084,
+      "num_comments": 0,
+      "objectID": "49026870",
+      "points": 5,
+      "story_id": 49026870,
+      "title": "Iran War Energy Cost Tracker",
+      "updated_at": "2026-07-23T19:40:36Z",
+      "url": "https://iranwarcost.watson.brown.edu/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "isaacfrond"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "energy",
+            "costs"
+          ],
+          "value": "Caffeine makes fuel cells more efficient, cuts <em>energy</em> <em>cost</em>"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://www.theregister.com/2024/03/14/caffeine_fuel_cells_paper/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_isaacfrond",
+        "story_39713421"
+      ],
+      "author": "isaacfrond",
+      "created_at": "2024-03-15T08:46:19Z",
+      "created_at_i": 1710492379,
+      "num_comments": 0,
+      "objectID": "39713421",
+      "points": 5,
+      "story_id": 39713421,
+      "title": "Caffeine makes fuel cells more efficient, cuts energy cost",
+      "updated_at": "2024-09-20T16:34:34Z",
+      "url": "https://www.theregister.com/2024/03/14/caffeine_fuel_cells_paper/"
+    }
+  ],
+  "hitsPerPage": 30,
+  "nbHits": 648,
+  "nbPages": 22,
+  "page": 0,
+  "params": "query=energy+costs&tags=story&hitsPerPage=30&advancedSyntax=true&analyticsTags=backend",
+  "processingTimeMS": 10,
+  "processingTimingsMS": {
+    "_request": {
+      "roundTrip": 17
+    },
+    "afterFetch": {
+      "merge": {
+        "mergeLoop": {
+          "prepareNextHit": 1,
+          "total": 1
+        },
+        "total": 1
+      },
+      "total": 2
+    },
+    "fetch": {
+      "query": 3,
+      "scanning": 3,
+      "total": 7
+    },
+    "total": 10
+  },
+  "query": "energy costs",
+  "serverTimeMS": 11
+}

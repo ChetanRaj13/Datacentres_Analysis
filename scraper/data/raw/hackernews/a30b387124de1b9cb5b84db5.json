@@ -1,0 +1,35 @@
+{
+  "exhaustive": {
+    "nbHits": false,
+    "typo": false
+  },
+  "exhaustiveNbHits": false,
+  "exhaustiveTypo": false,
+  "hits": [],
+  "hitsPerPage": 30,
+  "nbHits": 0,
+  "nbPages": 0,
+  "page": 0,
+  "params": "query=small-business%2FMSME+struggles+problem&tags=story&hitsPerPage=30&advancedSyntax=true&analyticsTags=backend",
+  "processingTimeMS": 30,
+  "processingTimingsMS": {
+    "_request": {
+      "queue": 7,
+      "roundTrip": 22
+    },
+    "fetch": {
+      "query": 25,
+      "total": 26
+    },
+    "getIdx": {
+      "load": {
+        "gens": 2,
+        "total": 2
+      },
+      "total": 3
+    },
+    "total": 30
+  },
+  "query": "small-business/MSME struggles problem",
+  "serverTimeMS": 38
+}

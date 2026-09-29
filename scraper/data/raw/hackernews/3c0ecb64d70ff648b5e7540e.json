@@ -1,0 +1,27 @@
+{
+  "exhaustive": {
+    "nbHits": false,
+    "typo": false
+  },
+  "exhaustiveNbHits": false,
+  "exhaustiveTypo": false,
+  "hits": [],
+  "hitsPerPage": 30,
+  "nbHits": 0,
+  "nbPages": 0,
+  "page": 0,
+  "params": "query=student+mental+health+and+burnout+India&tags=story&hitsPerPage=30&advancedSyntax=true&analyticsTags=backend",
+  "processingTimeMS": 36,
+  "processingTimingsMS": {
+    "_request": {
+      "roundTrip": 20
+    },
+    "fetch": {
+      "query": 35,
+      "total": 35
+    },
+    "total": 36
+  },
+  "query": "student mental health and burnout India",
+  "serverTimeMS": 36
+}

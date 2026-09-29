@@ -1,0 +1,990 @@
+{
+  "exhaustive": {
+    "nbHits": false,
+    "typo": false
+  },
+  "exhaustiveNbHits": false,
+  "exhaustiveTypo": false,
+  "hits": [
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "bogle"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "urban",
+            "air",
+            "pollution"
+          ],
+          "value": "Wood burners cause nearly half of <em>urban</em> <em>air</em> <em>pollution</em> cancer risk – study"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "urban",
+            "air",
+            "pollution"
+          ],
+          "value": "https://www.theguardian.com/environment/2021/dec/17/wood-burners-<em>urban</em>-<em>air</em>-<em>pollution</em>-cancer-risk-study"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_bogle",
+        "story_29592450"
+      ],
+      "author": "bogle",
+      "children": [
+        29592644,
+        29592663,
+        29592860,
+        29596974
+      ],
+      "created_at": "2021-12-17T14:17:43Z",
+      "created_at_i": 1639750663,
+      "num_comments": 2,
+      "objectID": "29592450",
+      "points": 8,
+      "story_id": 29592450,
+      "title": "Wood burners cause nearly half of urban air pollution cancer risk – study",
+      "updated_at": "2024-09-20T10:09:06Z",
+      "url": "https://www.theguardian.com/environment/2021/dec/17/wood-burners-urban-air-pollution-cancer-risk-study"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "elorant"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "urban",
+            "air",
+            "pollution"
+          ],
+          "value": "Wood burners cause nearly half of <em>urban</em> <em>air</em> <em>pollution</em> cancer risk"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "urban",
+            "air",
+            "pollution"
+          ],
+          "value": "https://www.theguardian.com/environment/2021/dec/17/wood-burners-<em>urban</em>-<em>air</em>-<em>pollution</em>-cancer-risk-study"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_elorant",
+        "story_29606559"
+      ],
+      "author": "elorant",
+      "created_at": "2021-12-18T17:43:28Z",
+      "created_at_i": 1639849408,
+      "num_comments": 0,
+      "objectID": "29606559",
+      "points": 5,
+      "story_id": 29606559,
+      "title": "Wood burners cause nearly half of urban air pollution cancer risk",
+      "updated_at": "2024-09-20T09:58:20Z",
+      "url": "https://www.theguardian.com/environment/2021/dec/17/wood-burners-urban-air-pollution-cancer-risk-study"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Errorcod3"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "urban",
+            "air",
+            "pollution"
+          ],
+          "value": "Plume <em>Air</em> Report Is a Weather Forecasting App for <em>Urban</em> <em>Air</em> <em>Pollution</em>"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "urban",
+            "air",
+            "pollution"
+          ],
+          "value": "http://techcrunch.com/2015/09/17/plume-<em>air</em>-report-is-a-weather-forecasting-app-for-<em>urban</em>-<em>air</em>-<em>pollution</em>/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_Errorcod3",
+        "story_10234190"
+      ],
+      "author": "Errorcod3",
+      "created_at": "2015-09-17T16:12:14Z",
+      "created_at_i": 1442506334,
+      "num_comments": 0,
+      "objectID": "10234190",
+      "points": 3,
+      "story_id": 10234190,
+      "title": "Plume Air Report Is a Weather Forecasting App for Urban Air Pollution",
+      "updated_at": "2024-09-19T22:19:01Z",
+      "url": "http://techcrunch.com/2015/09/17/plume-air-report-is-a-weather-forecasting-app-for-urban-air-pollution/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "denzil_correa"
+        },
+        "story_text": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": ""
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "urban",
+            "air",
+            "pollution"
+          ],
+          "value": "Revolutionary concrete can cut <em>urban</em> <em>air</em> <em>pollution</em> by 45 percent"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "http://www.takepart.com/article/2013/07/10/smart-cement-tells-smog-hit-road"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_denzil_correa",
+        "story_6038610"
+      ],
+      "author": "denzil_correa",
+      "created_at": "2013-07-13T20:26:31Z",
+      "created_at_i": 1373747191,
+      "num_comments": 0,
+      "objectID": "6038610",
+      "points": 2,
+      "story_id": 6038610,
+      "story_text": "",
+      "title": "Revolutionary concrete can cut urban air pollution by 45 percent",
+      "updated_at": "2024-09-19T19:48:44Z",
+      "url": "http://www.takepart.com/article/2013/07/10/smart-cement-tells-smog-hit-road"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "rbanffy"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "urban",
+            "air",
+            "pollution"
+          ],
+          "value": "Remote sensing technology reduces <em>urban</em> <em>air</em> <em>pollution</em>"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "urban",
+            "air",
+            "pollution"
+          ],
+          "value": "https://www.uts.edu.au/news/tech-design/remote-sensing-technology-reduces-<em>urban</em>-<em>air</em>-<em>pollution</em>"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_rbanffy",
+        "story_30339607"
+      ],
+      "author": "rbanffy",
+      "created_at": "2022-02-14T22:59:07Z",
+      "created_at_i": 1644879547,
+      "num_comments": 0,
+      "objectID": "30339607",
+      "points": 2,
+      "story_id": 30339607,
+      "title": "Remote sensing technology reduces urban air pollution",
+      "updated_at": "2024-09-20T10:30:17Z",
+      "url": "https://www.uts.edu.au/news/tech-design/remote-sensing-technology-reduces-urban-air-pollution"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "antouank"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "urban",
+            "air",
+            "pollution"
+          ],
+          "value": "Suffocating planet: <em>urban</em> <em>air</em> <em>pollution</em> around the world today"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "urban",
+            "air",
+            "pollution"
+          ],
+          "value": "https://www.theguardian.com/cities/live/2017/feb/13/<em>urban</em>-<em>air</em>-<em>pollution</em>-around-the-world-today-live"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_antouank",
+        "story_13634778"
+      ],
+      "author": "antouank",
+      "created_at": "2017-02-13T12:32:19Z",
+      "created_at_i": 1486989139,
+      "num_comments": 0,
+      "objectID": "13634778",
+      "points": 2,
+      "story_id": 13634778,
+      "title": "Suffocating planet: urban air pollution around the world today",
+      "updated_at": "2024-09-20T00:23:33Z",
+      "url": "https://www.theguardian.com/cities/live/2017/feb/13/urban-air-pollution-around-the-world-today-live"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "pulisse"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "urban",
+            "air",
+            "pollution"
+          ],
+          "value": "Subways and <em>Urban</em> <em>Air</em> <em>Pollution</em> [pdf]"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://www.nicolasgendroncarrier.com/_pdf/Gendron-Carrier_etal_WP_2018.pdf"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_pulisse",
+        "story_18042617"
+      ],
+      "author": "pulisse",
+      "children": [
+        18042621
+      ],
+      "created_at": "2018-09-21T21:00:07Z",
+      "created_at_i": 1537563607,
+      "num_comments": 1,
+      "objectID": "18042617",
+      "points": 1,
+      "story_id": 18042617,
+      "title": "Subways and Urban Air Pollution [pdf]",
+      "updated_at": "2024-09-20T03:04:44Z",
+      "url": "https://www.nicolasgendroncarrier.com/_pdf/Gendron-Carrier_etal_WP_2018.pdf"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "design-of-homes"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "urban",
+            "air",
+            "pollution"
+          ],
+          "value": "How walls of moss could help reduce <em>urban</em> <em>air</em> <em>pollution</em> [video]"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://www.youtube.com/watch?v=7tYG3MepUu0"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_design-of-homes",
+        "story_33801349"
+      ],
+      "author": "design-of-homes",
+      "created_at": "2022-11-30T14:40:54Z",
+      "created_at_i": 1669819254,
+      "num_comments": 0,
+      "objectID": "33801349",
+      "points": 1,
+      "story_id": 33801349,
+      "title": "How walls of moss could help reduce urban air pollution [video]",
+      "updated_at": "2024-09-20T12:34:18Z",
+      "url": "https://www.youtube.com/watch?v=7tYG3MepUu0"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "rustoo"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "urban",
+            "air",
+            "pollution"
+          ],
+          "value": "1.8 million excess deaths attributable to <em>urban</em> <em>air</em> <em>pollution</em> in 2019: study"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://www.eurekalert.org/news-releases/939192"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_rustoo",
+        "story_29819958"
+      ],
+      "author": "rustoo",
+      "created_at": "2022-01-06T05:52:17Z",
+      "created_at_i": 1641448337,
+      "num_comments": 0,
+      "objectID": "29819958",
+      "points": 1,
+      "story_id": 29819958,
+      "title": "1.8 million excess deaths attributable to urban air pollution in 2019: study",
+      "updated_at": "2024-09-20T10:10:32Z",
+      "url": "https://www.eurekalert.org/news-releases/939192"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "CapitalistCartr"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "air"
+          ],
+          "value": "Did Covid Lockdowns Clear the <em>Air</em>?"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "urban",
+            "air",
+            "pollution"
+          ],
+          "value": "https://www.bloomberg.com/news/articles/2020-12-21/what-covid-lockdowns-did-for-<em>urban</em>-<em>air</em>-<em>pollution</em>"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_CapitalistCartr",
+        "story_25506125"
+      ],
+      "author": "CapitalistCartr",
+      "created_at": "2020-12-22T13:41:24Z",
+      "created_at_i": 1608644484,
+      "num_comments": 0,
+      "objectID": "25506125",
+      "points": 1,
+      "story_id": 25506125,
+      "title": "Did Covid Lockdowns Clear the Air?",
+      "updated_at": "2024-09-20T07:33:27Z",
+      "url": "https://www.bloomberg.com/news/articles/2020-12-21/what-covid-lockdowns-did-for-urban-air-pollution"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "PaulHoule"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "urban",
+            "air",
+            "pollution"
+          ],
+          "value": "<em>Urban</em> configuration, heat islands, <em>air</em> <em>pollution</em>, CO2 emissions, and mortality"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(24)00120-7/fulltext"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_PaulHoule",
+        "story_40950125"
+      ],
+      "author": "PaulHoule",
+      "created_at": "2024-07-12T22:42:51Z",
+      "created_at_i": 1720824171,
+      "num_comments": 0,
+      "objectID": "40950125",
+      "points": 2,
+      "story_id": 40950125,
+      "title": "Urban configuration, heat islands, air pollution, CO2 emissions, and mortality",
+      "updated_at": "2024-09-20T17:27:02Z",
+      "url": "https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(24)00120-7/fulltext"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "asnyder"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Why this one area of cities is usually the poorest"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "urban",
+            "air",
+            "pollution"
+          ],
+          "value": "https://www.washingtonpost.com/business/2025/10/08/<em>air</em>-<em>pollution</em>-wind-<em>urban</em>-poverty-east/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_asnyder",
+        "story_45516911"
+      ],
+      "author": "asnyder",
+      "children": [
+        45516917,
+        45518491
+      ],
+      "created_at": "2025-10-08T14:56:39Z",
+      "created_at_i": 1759935399,
+      "num_comments": 2,
+      "objectID": "45516911",
+      "points": 3,
+      "story_id": 45516911,
+      "title": "Why this one area of cities is usually the poorest",
+      "updated_at": "2026-03-05T22:47:51Z",
+      "url": "https://www.washingtonpost.com/business/2025/10/08/air-pollution-wind-urban-poverty-east/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "tokai"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "urban",
+            "air",
+            "pollution"
+          ],
+          "value": "Hyperlocal <em>air</em> <em>pollution</em> in an <em>urban</em> environment – measured with lowcost sensors"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://www.sciencedirect.com/science/article/pii/S221209552300278X"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_tokai",
+        "story_38111783"
+      ],
+      "author": "tokai",
+      "children": [
+        38113619
+      ],
+      "created_at": "2023-11-02T11:13:43Z",
+      "created_at_i": 1698923623,
+      "num_comments": 1,
+      "objectID": "38111783",
+      "points": 15,
+      "story_id": 38111783,
+      "title": "Hyperlocal air pollution in an urban environment – measured with lowcost sensors",
+      "updated_at": "2024-09-20T15:32:42Z",
+      "url": "https://www.sciencedirect.com/science/article/pii/S221209552300278X"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "altern8"
+        },
+        "story_text": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": ""
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "urban",
+            "air",
+            "pollution"
+          ],
+          "value": "<em>Urban</em> Algae Farm Gobbles Up Highway <em>Air</em> <em>Pollution</em>"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "urban",
+            "air",
+            "pollution"
+          ],
+          "value": "http://www.iflscience.com/environment/<em>urban</em>-algae-farm-gobbles-highway-<em>air</em>-<em>pollution</em>"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_altern8",
+        "story_8566605"
+      ],
+      "author": "altern8",
+      "created_at": "2014-11-06T11:43:31Z",
+      "created_at_i": 1415274211,
+      "num_comments": 0,
+      "objectID": "8566605",
+      "points": 2,
+      "story_id": 8566605,
+      "story_text": "",
+      "title": "Urban Algae Farm Gobbles Up Highway Air Pollution",
+      "updated_at": "2024-09-19T21:19:19Z",
+      "url": "http://www.iflscience.com/environment/urban-algae-farm-gobbles-highway-air-pollution"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "fidla"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "urban",
+            "air",
+            "pollution"
+          ],
+          "value": "at any given time over a major metropolitan city (and NYC is the largest in the US), there will be any or all of the following types of airborne products:<p>Human-Operated Airborne Products:<p>Commercial Airliners\nGeneral Aviation Aircraft\nPrivate Planes\nCharter Flights\nCargo Planes\nBusiness Jets\nHelicopters\nNews Helicopters\nMedical Evacuation (Medevac) Helicopters\nPolice, Fire, and Rescue Helicopters\nTour and Sightseeing Helicopters\nTraining Aircraft\nAerial Advertising Planes\nAgricultural Aircraft\nMilitary Aircraft\nAerial Survey Planes\nVIP Transport\nGliders\nUltralights<p>Delivery Drones and VTOL/eVTOL:\nAmazon Prime <em>Air</em>\nWalmart Delivery Drones\nUPS Flight Forward\nZipline\nFlytrex\nWisk Aero\nArcher Aviation\nBeta Technologies\nVolocopter\nElroy <em>Air</em><p>Scientific and Testing Balloons:\nCollege/University Scientific Balloons: Used for atmospheric research, <em>air</em> quality testing, etc.\n<em>Urban</em> <em>Air</em> Quality Testing Balloons: For monitoring <em>pollution</em> levels in metropolitan areas.\nAdvertising and Non-Winged Craft:<p>Advertising Balloons: Large, floating banners or shapes for promotional activities.\nTethered Aerostats: Used by agencies like U.S. Customs and Border Protection for surveillance.<p>High-Altitude Surveillance Balloons: Including those used for military or security purposes.\nHot <em>Air</em> Balloons: For tourism, advertising, or personal enjoyment.<p>Weather Balloons: Released by weather services and research institutions for meteorological data."
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Drones / Aliens over NJ"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_fidla",
+        "story_42417223",
+        "ask_hn"
+      ],
+      "author": "fidla",
+      "children": [
+        42417229,
+        42417787
+      ],
+      "created_at": "2024-12-14T14:07:31Z",
+      "created_at_i": 1734185251,
+      "num_comments": 1,
+      "objectID": "42417223",
+      "points": 4,
+      "story_id": 42417223,
+      "story_text": "at any given time over a major metropolitan city (and NYC is the largest in the US), there will be any or all of the following types of airborne products:<p>Human-Operated Airborne Products:<p>Commercial Airliners\nGeneral Aviation Aircraft\nPrivate Planes\nCharter Flights\nCargo Planes\nBusiness Jets\nHelicopters\nNews Helicopters\nMedical Evacuation (Medevac) Helicopters\nPolice, Fire, and Rescue Helicopters\nTour and Sightseeing Helicopters\nTraining Aircraft\nAerial Advertising Planes\nAgricultural Aircraft\nMilitary Aircraft\nAerial Survey Planes\nVIP Transport\nGliders\nUltralights<p>Delivery Drones and VTOL&#x2F;eVTOL:\nAmazon Prime Air\nWalmart Delivery Drones\nUPS Flight Forward\nZipline\nFlytrex\nWisk Aero\nArcher Aviation\nBeta Technologies\nVolocopter\nElroy Air<p>Scientific and Testing Balloons:\nCollege&#x2F;University Scientific Balloons: Used for atmospheric research, air quality testing, etc.\nUrban Air Quality Testing Balloons: For monitoring pollution levels in metropolitan areas.\nAdvertising and Non-Winged Craft:<p>Advertising Balloons: Large, floating banners or shapes for promotional activities.\nTethered Aerostats: Used by agencies like U.S. Customs and Border Protection for surveillance.<p>High-Altitude Surveillance Balloons: Including those used for military or security purposes.\nHot Air Balloons: For tourism, advertising, or personal enjoyment.<p>Weather Balloons: Released by weather services and research institutions for meteorological data.",
+      "title": "Drones / Aliens over NJ",
+      "updated_at": "2024-12-15T23:25:29Z"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "tzs"
+        },
+        "story_text": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Report: <a href=\"https://www.eiturbanmobility.eu/knowledge-hub/mastering-mobility-with-non-exhaust-emissions/\" rel=\"nofollow\">https://www.eiturbanmobility.eu/knowledge-hub/mastering-mobi...</a>"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "pollution"
+          ],
+          "value": "Electric cars produce less brake dust <em>pollution</em> than combustion-engine cars"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "urban",
+            "air"
+          ],
+          "value": "https://modernengineeringmarvels.com/2025/07/22/surprising-science-how-electric-cars-quietly-transform-<em>urban</em>-<em>air</em>/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_tzs",
+        "story_44666157"
+      ],
+      "author": "tzs",
+      "children": [
+        44666591,
+        44666603,
+        44666609,
+        44666663,
+        44666715,
+        44666755,
+        44666769,
+        44666802,
+        44666893,
+        44667111,
+        44667137,
+        44667144,
+        44667225,
+        44667342,
+        44667525,
+        44667563,
+        44667579,
+        44667926,
+        44667939,
+        44668132,
+        44668312,
+        44668728,
+        44668766,
+        44669084,
+        44669346,
+        44669450,
+        44669467,
+        44669597,
+        44670043,
+        44670230,
+        44670796,
+        44670848,
+        44671160,
+        44671420,
+        44671762,
+        44671777,
+        44672027,
+        44673226,
+        44673657,
+        44673730,
+        44673945,
+        44674648,
+        44674993,
+        44681361,
+        44690201
+      ],
+      "created_at": "2025-07-24T02:13:20Z",
+      "created_at_i": 1753323200,
+      "num_comments": 764,
+      "objectID": "44666157",
+      "points": 523,
+      "story_id": 44666157,
+      "story_text": "Report: <a href=\"https:&#x2F;&#x2F;www.eiturbanmobility.eu&#x2F;knowledge-hub&#x2F;mastering-mobility-with-non-exhaust-emissions&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.eiturbanmobility.eu&#x2F;knowledge-hub&#x2F;mastering-mobi...</a>",
+      "title": "Electric cars produce less brake dust pollution than combustion-engine cars",
+      "updated_at": "2025-11-10T10:19:34Z",
+      "url": "https://modernengineeringmarvels.com/2025/07/22/surprising-science-how-electric-cars-quietly-transform-urban-air/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Vigier"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "urban"
+          ],
+          "value": "A piece of Victorian science fiction considered first tale of <em>urban</em> apocalypse"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "air",
+            "pollution"
+          ],
+          "value": "https://publicdomainreview.org/2015/09/30/bad-<em>air</em>-<em>pollution</em>-sin-and-science-fiction"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_Vigier",
+        "story_17174633"
+      ],
+      "author": "Vigier",
+      "children": [
+        17182077,
+        17182131,
+        17182954,
+        17183425,
+        17184923
+      ],
+      "created_at": "2018-05-28T20:27:38Z",
+      "created_at_i": 1527539258,
+      "num_comments": 10,
+      "objectID": "17174633",
+      "points": 29,
+      "story_id": 17174633,
+      "title": "A piece of Victorian science fiction considered first tale of urban apocalypse",
+      "updated_at": "2024-09-20T02:34:14Z",
+      "url": "https://publicdomainreview.org/2015/09/30/bad-air-pollution-sin-and-science-fiction"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "rustoo"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "urban",
+            "air",
+            "pollution"
+          ],
+          "value": "Rural <em>air</em> <em>pollution</em> may be as hazardous as <em>urban</em>, study finds"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://news.illinois.edu/view/6367/13739985"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_rustoo",
+        "story_30127256"
+      ],
+      "author": "rustoo",
+      "children": [
+        30127408
+      ],
+      "created_at": "2022-01-29T15:52:09Z",
+      "created_at_i": 1643471529,
+      "num_comments": 1,
+      "objectID": "30127256",
+      "points": 4,
+      "story_id": 30127256,
+      "title": "Rural air pollution may be as hazardous as urban, study finds",
+      "updated_at": "2024-09-20T10:22:42Z",
+      "url": "https://news.illinois.edu/view/6367/13739985"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "bookofjoe"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "urban",
+            "air",
+            "pollution"
+          ],
+          "value": "Association of <em>Air</em> <em>Pollution</em> with Bone Mass in Adults in Peri-<em>Urban</em> South India"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2758211"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_bookofjoe",
+        "story_21961061"
+      ],
+      "author": "bookofjoe",
+      "created_at": "2020-01-05T12:54:44Z",
+      "created_at_i": 1578228884,
+      "num_comments": 0,
+      "objectID": "21961061",
+      "points": 1,
+      "story_id": 21961061,
+      "title": "Association of Air Pollution with Bone Mass in Adults in Peri-Urban South India",
+      "updated_at": "2024-09-20T05:32:27Z",
+      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2758211"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "mido22"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "air",
+            "pollution"
+          ],
+          "value": "× Earth Entrepreneurs Fight <em>Air</em> <em>Pollution</em> with CO2-Reducing 'CityTrees'"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "urban",
+            "pollution"
+          ],
+          "value": "http://edition.cnn.com/2017/06/07/world/citytree-<em>urban</em>-<em>pollution</em>/index.html"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_mido22",
+        "story_14536270"
+      ],
+      "author": "mido22",
+      "created_at": "2017-06-12T10:54:28Z",
+      "created_at_i": 1497264868,
+      "num_comments": 0,
+      "objectID": "14536270",
+      "points": 1,
+      "story_id": 14536270,
+      "title": "× Earth Entrepreneurs Fight Air Pollution with CO2-Reducing 'CityTrees'",
+      "updated_at": "2024-09-20T00:56:10Z",
+      "url": "http://edition.cnn.com/2017/06/07/world/citytree-urban-pollution/index.html"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "PaulHoule"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "urban",
+            "air",
+            "pollution"
+          ],
+          "value": "Modern buildings act as a dynamic source and sink for <em>urban</em> <em>air</em> <em>pollutan</em>ts"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://www.sciencedirect.com/science/article/pii/S2949790624001630"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_PaulHoule",
+        "story_40572903"
+      ],
+      "author": "PaulHoule",
+      "created_at": "2024-06-04T10:49:12Z",
+      "created_at_i": 1717498152,
+      "num_comments": 0,
+      "objectID": "40572903",
+      "points": 4,
+      "story_id": 40572903,
+      "title": "Modern buildings act as a dynamic source and sink for urban air pollutants",
+      "updated_at": "2024-09-20T17:14:36Z",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2949790624001630"
+    }
+  ],
+  "hitsPerPage": 30,
+  "nbHits": 21,
+  "nbPages": 1,
+  "page": 0,
+  "params": "query=urban+air+pollution&tags=story&hitsPerPage=30&advancedSyntax=true&analyticsTags=backend",
+  "processingTimeMS": 17,
+  "processingTimingsMS": {
+    "_request": {
+      "roundTrip": 18
+    },
+    "afterFetch": {
+      "merge": {
+        "total": 1
+      },
+      "total": 1
+    },
+    "fetch": {
+      "query": 9,
+      "scanning": 5,
+      "total": 15
+    },
+    "total": 17
+  },
+  "query": "urban air pollution",
+  "serverTimeMS": 18
+}

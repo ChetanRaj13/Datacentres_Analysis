@@ -1,0 +1,15 @@
+{
+  "title": "CEA CO2 Baseline Database for the Indian Power Sector (User Guide & Database)",
+  "agency": "Central Electricity Authority (CEA), Ministry of Power",
+  "url": "https://cea.nic.in/cdm-co2-baseline-database/?lang=en",
+  "description": "Annual database publishing operating, build, and combined margin emission factors (tCO2/MWh) for the unified national grid.",
+  "key_metrics": {
+    "national_weighted_average_tco2_per_mwh": 0.716,
+    "national_combined_margin_tco2_per_mwh": 0.718,
+    "western_region_operating_margin_proxy": 0.82,
+    "northern_region_operating_margin_proxy": 0.785,
+    "southern_region_operating_margin_proxy": 0.73,
+    "eastern_region_operating_margin_proxy": 0.89
+  },
+  "publication_year": 2024
+}

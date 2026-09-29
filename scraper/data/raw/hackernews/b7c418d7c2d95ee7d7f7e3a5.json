@@ -1,0 +1,115 @@
+{
+  "exhaustive": {
+    "nbHits": false,
+    "typo": false
+  },
+  "exhaustiveNbHits": false,
+  "exhaustiveTypo": false,
+  "hits": [
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "happy-go-lucky"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "water",
+            "india"
+          ],
+          "value": "<em>India</em>’s <em>Water</em> Doctor (2015)"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "water",
+            "scarcity",
+            "india"
+          ],
+          "value": "https://www.theguardian.com/global-development-professionals-network/2015/jul/15/<em>water</em>-<em>scarcity</em>-<em>india</em>-gandhi-doctor"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_happy-go-lucky",
+        "story_22001919"
+      ],
+      "author": "happy-go-lucky",
+      "created_at": "2020-01-09T15:26:16Z",
+      "created_at_i": 1578583576,
+      "num_comments": 0,
+      "objectID": "22001919",
+      "points": 1,
+      "story_id": 22001919,
+      "title": "India’s Water Doctor (2015)",
+      "updated_at": "2024-09-20T05:25:46Z",
+      "url": "https://www.theguardian.com/global-development-professionals-network/2015/jul/15/water-scarcity-india-gandhi-doctor"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "acossta"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "water",
+            "scarcity"
+          ],
+          "value": "<em>Water</em> <em>scarcity</em> to severely impact large Asian economies"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "water",
+            "scarcity",
+            "india"
+          ],
+          "value": "https://www.cnbc.com/2023/06/13/<em>water</em>-<em>scarcity</em>-china-and-<em>india</em>-look-the-most-threatened-from-shortages.html"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_acossta",
+        "story_36311026"
+      ],
+      "author": "acossta",
+      "created_at": "2023-06-13T14:49:26Z",
+      "created_at_i": 1686667766,
+      "num_comments": 0,
+      "objectID": "36311026",
+      "points": 3,
+      "story_id": 36311026,
+      "title": "Water scarcity to severely impact large Asian economies",
+      "updated_at": "2024-09-20T14:20:06Z",
+      "url": "https://www.cnbc.com/2023/06/13/water-scarcity-china-and-india-look-the-most-threatened-from-shortages.html"
+    }
+  ],
+  "hitsPerPage": 7,
+  "nbHits": 2,
+  "nbPages": 1,
+  "page": 0,
+  "params": "query=water+scarcity+India&tags=story&hitsPerPage=7&advancedSyntax=true&analyticsTags=backend",
+  "processingTimeMS": 11,
+  "processingTimingsMS": {
+    "_request": {
+      "queue": 1,
+      "roundTrip": 24
+    },
+    "fetch": {
+      "query": 9,
+      "total": 10
+    },
+    "total": 11
+  },
+  "query": "water scarcity India",
+  "serverTimeMS": 12
+}

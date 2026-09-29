@@ -1,0 +1,1316 @@
+{
+  "exhaustive": {
+    "nbHits": false,
+    "typo": false
+  },
+  "exhaustiveNbHits": false,
+  "exhaustiveTypo": false,
+  "hits": [
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "boiler_up800"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "water",
+            "scarcity"
+          ],
+          "value": "A vision for the alleviation of <em>water</em> <em>scarcity</em> in the US Southwest"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "water",
+            "scarcity"
+          ],
+          "value": "https://caseyhandmer.wordpress.com/2024/01/09/a-vision-for-the-alleviation-of-<em>water</em>-<em>scarcity</em>-in-the-us-southwest-and-the-revitalization-of-the-salton-sea/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_boiler_up800",
+        "story_38969461"
+      ],
+      "author": "boiler_up800",
+      "children": [
+        38969646,
+        38969697,
+        38969830,
+        38969880,
+        38969906,
+        38969941,
+        38969978,
+        38970040,
+        38970094,
+        38970104,
+        38970182,
+        38970236,
+        38970238,
+        38970277,
+        38970323,
+        38970359,
+        38970468,
+        38970498,
+        38970681,
+        38970712,
+        38970824,
+        38970916,
+        38971362,
+        38971440,
+        38971643,
+        38972217,
+        38972339,
+        38972386
+      ],
+      "created_at": "2024-01-12T15:48:47Z",
+      "created_at_i": 1705074527,
+      "num_comments": 151,
+      "objectID": "38969461",
+      "points": 125,
+      "story_id": 38969461,
+      "title": "A vision for the alleviation of water scarcity in the US Southwest",
+      "updated_at": "2026-07-28T02:21:51Z",
+      "url": "https://caseyhandmer.wordpress.com/2024/01/09/a-vision-for-the-alleviation-of-water-scarcity-in-the-us-southwest-and-the-revitalization-of-the-salton-sea/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "gbenga4real"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "water",
+            "scarcity"
+          ],
+          "value": "Climate change: six billion people may suffer from <em>water</em> <em>scarcity</em>"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://adetokunbo.substack.com/p/the-worlds-rivers-run-dry-still-the"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_gbenga4real",
+        "story_32585756"
+      ],
+      "author": "gbenga4real",
+      "children": [
+        32586226,
+        32586796,
+        32588115
+      ],
+      "created_at": "2022-08-24T21:06:28Z",
+      "created_at_i": 1661375188,
+      "num_comments": 3,
+      "objectID": "32585756",
+      "points": 17,
+      "story_id": 32585756,
+      "title": "Climate change: six billion people may suffer from water scarcity",
+      "updated_at": "2024-09-20T11:55:13Z",
+      "url": "https://adetokunbo.substack.com/p/the-worlds-rivers-run-dry-still-the"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Anon84"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "water",
+            "scarcity"
+          ],
+          "value": "Could nuclear desalination plants beat <em>water</em> <em>scarcity</em>?"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://www.bbc.com/news/business-61483491"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_Anon84",
+        "story_36609257"
+      ],
+      "author": "Anon84",
+      "children": [
+        36609590,
+        36616193
+      ],
+      "created_at": "2023-07-06T00:29:18Z",
+      "created_at_i": 1688603358,
+      "num_comments": 2,
+      "objectID": "36609257",
+      "points": 6,
+      "story_id": 36609257,
+      "title": "Could nuclear desalination plants beat water scarcity?",
+      "updated_at": "2024-09-20T14:31:32Z",
+      "url": "https://www.bbc.com/news/business-61483491"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "adrian_mrd"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "water",
+            "scarcity"
+          ],
+          "value": "Singapore craft beer uses recycled sewage to highlight <em>water</em> <em>scarcity</em>"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "water",
+            "scarcity"
+          ],
+          "value": "https://www.theguardian.com/world/2022/jul/01/singapore-craft-beer-newbrew-uses-recycled-sewage-highlight-<em>water</em>-<em>scarcity</em>"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_adrian_mrd",
+        "story_31957842"
+      ],
+      "author": "adrian_mrd",
+      "children": [
+        31957959,
+        31967029
+      ],
+      "created_at": "2022-07-02T10:42:14Z",
+      "created_at_i": 1656758534,
+      "num_comments": 2,
+      "objectID": "31957842",
+      "points": 6,
+      "story_id": 31957842,
+      "title": "Singapore craft beer uses recycled sewage to highlight water scarcity",
+      "updated_at": "2024-09-20T11:30:25Z",
+      "url": "https://www.theguardian.com/world/2022/jul/01/singapore-craft-beer-newbrew-uses-recycled-sewage-highlight-water-scarcity"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "LinuxBender"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "water",
+            "scarcity"
+          ],
+          "value": "Could nuclear desalination plants beat <em>water</em> <em>scarcity</em>?"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://www.bbc.co.uk/news/business-61483491"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_LinuxBender",
+        "story_31825130"
+      ],
+      "author": "LinuxBender",
+      "created_at": "2022-06-21T15:35:46Z",
+      "created_at_i": 1655825746,
+      "num_comments": 0,
+      "objectID": "31825130",
+      "points": 5,
+      "story_id": 31825130,
+      "title": "Could nuclear desalination plants beat water scarcity?",
+      "updated_at": "2024-09-20T11:24:03Z",
+      "url": "https://www.bbc.co.uk/news/business-61483491"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "PaulHoule"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "water",
+            "scarcity"
+          ],
+          "value": "The first emergence of unprecedented global <em>water</em> <em>scarcity</em> in the Anthropocene"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://www.nature.com/articles/s41467-025-63784-6"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_PaulHoule",
+        "story_45481048"
+      ],
+      "author": "PaulHoule",
+      "created_at": "2025-10-05T12:35:37Z",
+      "created_at_i": 1759667737,
+      "num_comments": 0,
+      "objectID": "45481048",
+      "points": 4,
+      "story_id": 45481048,
+      "title": "The first emergence of unprecedented global water scarcity in the Anthropocene",
+      "updated_at": "2026-03-05T22:50:42Z",
+      "url": "https://www.nature.com/articles/s41467-025-63784-6"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "bilsbie"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "water",
+            "scarcity"
+          ],
+          "value": "A vision for the alleviation of <em>water</em> <em>scarcity</em> in the US Southwest"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "water",
+            "scarcity"
+          ],
+          "value": "https://caseyhandmer.wordpress.com/2024/01/09/a-vision-for-the-alleviation-of-<em>water</em>-<em>scarcity</em>-in-the-us-southwest-and-the-revitalization-of-the-salton-sea/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_bilsbie",
+        "story_38925566"
+      ],
+      "author": "bilsbie",
+      "created_at": "2024-01-09T12:51:01Z",
+      "created_at_i": 1704804661,
+      "num_comments": 0,
+      "objectID": "38925566",
+      "points": 4,
+      "story_id": 38925566,
+      "title": "A vision for the alleviation of water scarcity in the US Southwest",
+      "updated_at": "2024-09-20T16:02:25Z",
+      "url": "https://caseyhandmer.wordpress.com/2024/01/09/a-vision-for-the-alleviation-of-water-scarcity-in-the-us-southwest-and-the-revitalization-of-the-salton-sea/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "andsoitis"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "water",
+            "scarcity"
+          ],
+          "value": "Data centers face <em>water</em> <em>scarcity</em> and climate risk"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "water",
+            "scarcity"
+          ],
+          "value": "https://www.npr.org/2022/08/30/1119938708/data-centers-backbone-of-the-digital-economy-face-<em>water</em>-<em>scarcity</em>-and-climate-ris"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_andsoitis",
+        "story_32650736"
+      ],
+      "author": "andsoitis",
+      "created_at": "2022-08-30T14:13:32Z",
+      "created_at_i": 1661868812,
+      "num_comments": 0,
+      "objectID": "32650736",
+      "points": 4,
+      "story_id": 32650736,
+      "title": "Data centers face water scarcity and climate risk",
+      "updated_at": "2024-09-20T11:54:30Z",
+      "url": "https://www.npr.org/2022/08/30/1119938708/data-centers-backbone-of-the-digital-economy-face-water-scarcity-and-climate-ris"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "leron"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "water",
+            "scarcity"
+          ],
+          "value": "Global <em>Water Scarcity</em> Atlas"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "water",
+            "scarcity"
+          ],
+          "value": "https://<em>waterscarcity</em>atlas.org/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_leron",
+        "story_18394200"
+      ],
+      "author": "leron",
+      "created_at": "2018-11-06T19:33:58Z",
+      "created_at_i": 1541532838,
+      "num_comments": 0,
+      "objectID": "18394200",
+      "points": 4,
+      "story_id": 18394200,
+      "title": "Global Water Scarcity Atlas",
+      "updated_at": "2024-09-20T03:24:04Z",
+      "url": "https://waterscarcityatlas.org/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "amichail"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "water",
+            "scarcity"
+          ],
+          "value": "Elon Musk's plan to address the \"very solvable\" <em>water</em> <em>scarcity</em> crisis"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "water"
+          ],
+          "value": "https://newatlas.com/environment/elon-<em>water</em>-plan/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_amichail",
+        "story_40440036"
+      ],
+      "author": "amichail",
+      "children": [
+        40440126,
+        40440166,
+        40441359
+      ],
+      "created_at": "2024-05-22T12:16:52Z",
+      "created_at_i": 1716380212,
+      "num_comments": 4,
+      "objectID": "40440036",
+      "points": 3,
+      "story_id": 40440036,
+      "title": "Elon Musk's plan to address the \"very solvable\" water scarcity crisis",
+      "updated_at": "2024-09-20T17:03:37Z",
+      "url": "https://newatlas.com/environment/elon-water-plan/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "rntn"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "water",
+            "scarcity"
+          ],
+          "value": "The LA fires cast CA's <em>water</em> <em>scarcity</em> into stark view. It's going to get worse"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "water"
+          ],
+          "value": "https://www.vox.com/climate/394817/california-fires-<em>water</em>-crisis-groundwater-climate-change"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_rntn",
+        "story_42703254"
+      ],
+      "author": "rntn",
+      "children": [
+        42703841
+      ],
+      "created_at": "2025-01-14T20:19:42Z",
+      "created_at_i": 1736885982,
+      "num_comments": 1,
+      "objectID": "42703254",
+      "points": 3,
+      "story_id": 42703254,
+      "title": "The LA fires cast CA's water scarcity into stark view. It's going to get worse",
+      "updated_at": "2025-01-15T21:24:14Z",
+      "url": "https://www.vox.com/climate/394817/california-fires-water-crisis-groundwater-climate-change"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "ccvannorman"
+        },
+        "story_text": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": ""
+        },
+        "title": {
+          "fullyHighlighted": true,
+          "matchLevel": "full",
+          "matchedWords": [
+            "water",
+            "scarcity"
+          ],
+          "value": "<em>Water</em> <em>Scarcity</em>"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "water",
+            "scarcity"
+          ],
+          "value": "http://en.wikipedia.org/wiki/<em>Water</em>_<em>scarcity</em>"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_ccvannorman",
+        "story_8982514"
+      ],
+      "author": "ccvannorman",
+      "created_at": "2015-02-02T02:39:00Z",
+      "created_at_i": 1422844740,
+      "num_comments": 0,
+      "objectID": "8982514",
+      "points": 3,
+      "story_id": 8982514,
+      "story_text": "",
+      "title": "Water Scarcity",
+      "updated_at": "2023-09-06T23:25:06Z",
+      "url": "http://en.wikipedia.org/wiki/Water_scarcity"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "acossta"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "water",
+            "scarcity"
+          ],
+          "value": "<em>Water</em> <em>scarcity</em> to severely impact large Asian economies"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "water",
+            "scarcity"
+          ],
+          "value": "https://www.cnbc.com/2023/06/13/<em>water</em>-<em>scarcity</em>-china-and-india-look-the-most-threatened-from-shortages.html"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_acossta",
+        "story_36311026"
+      ],
+      "author": "acossta",
+      "created_at": "2023-06-13T14:49:26Z",
+      "created_at_i": 1686667766,
+      "num_comments": 0,
+      "objectID": "36311026",
+      "points": 3,
+      "story_id": 36311026,
+      "title": "Water scarcity to severely impact large Asian economies",
+      "updated_at": "2024-09-20T14:20:06Z",
+      "url": "https://www.cnbc.com/2023/06/13/water-scarcity-china-and-india-look-the-most-threatened-from-shortages.html"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Kaibeezy"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "water",
+            "scarcity"
+          ],
+          "value": "Why is a wet country like Scotland facing <em>water</em> <em>scarcity</em>?"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://www.bbc.co.uk/news/uk-scotland-62424001"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_Kaibeezy",
+        "story_32353414"
+      ],
+      "author": "Kaibeezy",
+      "children": [
+        32353494,
+        32353619
+      ],
+      "created_at": "2022-08-05T08:50:59Z",
+      "created_at_i": 1659689459,
+      "num_comments": 2,
+      "objectID": "32353414",
+      "points": 2,
+      "story_id": 32353414,
+      "title": "Why is a wet country like Scotland facing water scarcity?",
+      "updated_at": "2024-09-20T11:43:42Z",
+      "url": "https://www.bbc.co.uk/news/uk-scotland-62424001"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "geox"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "water",
+            "scarcity"
+          ],
+          "value": "<em>Water</em> <em>scarcity</em> drove steam power adoption during industrial revolution"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://www.gla.ac.uk/news/headline_1091714_en.html"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_geox",
+        "story_40976904"
+      ],
+      "author": "geox",
+      "children": [
+        40977046
+      ],
+      "created_at": "2024-07-16T14:22:43Z",
+      "created_at_i": 1721139763,
+      "num_comments": 0,
+      "objectID": "40976904",
+      "points": 2,
+      "story_id": 40976904,
+      "title": "Water scarcity drove steam power adoption during industrial revolution",
+      "updated_at": "2024-09-20T17:29:58Z",
+      "url": "https://www.gla.ac.uk/news/headline_1091714_en.html"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Brajeshwar"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "water",
+            "scarcity"
+          ],
+          "value": "Elon Musk's plan to address the \"solvable\" <em>water</em> <em>scarcity</em> crisis"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "water"
+          ],
+          "value": "https://newatlas.com/environment/elon-<em>water</em>-plan/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_Brajeshwar",
+        "story_40427862"
+      ],
+      "author": "Brajeshwar",
+      "created_at": "2024-05-21T12:55:34Z",
+      "created_at_i": 1716296134,
+      "num_comments": 0,
+      "objectID": "40427862",
+      "points": 2,
+      "story_id": 40427862,
+      "title": "Elon Musk's plan to address the \"solvable\" water scarcity crisis",
+      "updated_at": "2024-09-20T17:02:10Z",
+      "url": "https://newatlas.com/environment/elon-water-plan/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "meristohm"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "water",
+            "scarcity"
+          ],
+          "value": "Embedded <em>Water</em>-<em>Scarcity</em> Anthropologist"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "water",
+            "scarcity"
+          ],
+          "value": "https://www.npr.org/sections/goatsandsoda/2023/10/04/1203501722/this-expert-on-<em>water</em>-<em>scarcity</em>-would-never-call-herself-a-genius-but-macarthur-wo"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_meristohm",
+        "story_37804034"
+      ],
+      "author": "meristohm",
+      "created_at": "2023-10-07T18:03:48Z",
+      "created_at_i": 1696701828,
+      "num_comments": 0,
+      "objectID": "37804034",
+      "points": 2,
+      "story_id": 37804034,
+      "title": "Embedded Water-Scarcity Anthropologist",
+      "updated_at": "2024-09-20T15:18:42Z",
+      "url": "https://www.npr.org/sections/goatsandsoda/2023/10/04/1203501722/this-expert-on-water-scarcity-would-never-call-herself-a-genius-but-macarthur-wo"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "simonebrunozzi"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "water",
+            "scarcity"
+          ],
+          "value": "Designing for <em>Water</em> <em>Scarcity</em>"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "water",
+            "scarcity"
+          ],
+          "value": "https://www.archdaily.com/1002473/designing-for-<em>water</em>-<em>scarcity</em>-how-architects-are-adapting-to-arid-environments"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_simonebrunozzi",
+        "story_36451819"
+      ],
+      "author": "simonebrunozzi",
+      "created_at": "2023-06-23T20:29:16Z",
+      "created_at_i": 1687552156,
+      "num_comments": 0,
+      "objectID": "36451819",
+      "points": 2,
+      "story_id": 36451819,
+      "title": "Designing for Water Scarcity",
+      "updated_at": "2024-09-20T14:26:48Z",
+      "url": "https://www.archdaily.com/1002473/designing-for-water-scarcity-how-architects-are-adapting-to-arid-environments"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "rntn"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "water",
+            "scarcity"
+          ],
+          "value": "Data centers, core of the digital economy, face <em>water</em> <em>scarcity</em> and climate risk"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://text.npr.org/1119938708"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_rntn",
+        "story_32651522"
+      ],
+      "author": "rntn",
+      "created_at": "2022-08-30T15:22:15Z",
+      "created_at_i": 1661872935,
+      "num_comments": 0,
+      "objectID": "32651522",
+      "points": 2,
+      "story_id": 32651522,
+      "title": "Data centers, core of the digital economy, face water scarcity and climate risk",
+      "updated_at": "2024-09-20T11:54:36Z",
+      "url": "https://text.npr.org/1119938708"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Warrina"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "water",
+            "scarcity"
+          ],
+          "value": "A World First – Using Rice Hulls to Solve <em>Water</em> <em>Scarcity</em>"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://thegreentechpreneur.substack.com/p/faster-greener-cheaper-using-rice"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_Warrina",
+        "story_27354202"
+      ],
+      "author": "Warrina",
+      "created_at": "2021-06-01T13:36:15Z",
+      "created_at_i": 1622554575,
+      "num_comments": 0,
+      "objectID": "27354202",
+      "points": 2,
+      "story_id": 27354202,
+      "title": "A World First – Using Rice Hulls to Solve Water Scarcity",
+      "updated_at": "2024-09-20T08:43:54Z",
+      "url": "https://thegreentechpreneur.substack.com/p/faster-greener-cheaper-using-rice"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "rbanffy"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "water",
+            "scarcity"
+          ],
+          "value": "Study exposes global ripple effects of regional <em>water</em> <em>scarcity</em>"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://phys.org/news/2021-03-exposes-global-ripple-effects-regional.html"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_rbanffy",
+        "story_26596389"
+      ],
+      "author": "rbanffy",
+      "created_at": "2021-03-26T20:13:26Z",
+      "created_at_i": 1616789606,
+      "num_comments": 0,
+      "objectID": "26596389",
+      "points": 2,
+      "story_id": 26596389,
+      "title": "Study exposes global ripple effects of regional water scarcity",
+      "updated_at": "2024-09-20T08:17:22Z",
+      "url": "https://phys.org/news/2021-03-exposes-global-ripple-effects-regional.html"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "samizdis"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "water",
+            "scarcity"
+          ],
+          "value": "Climate change in antiquity: Mass emigration due to <em>water</em> <em>scarcity</em>"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://phys.org/news/2021-01-climate-antiquity-mass-emigration-due.html"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_samizdis",
+        "story_25914678"
+      ],
+      "author": "samizdis",
+      "created_at": "2021-01-26T11:40:53Z",
+      "created_at_i": 1611661253,
+      "num_comments": 0,
+      "objectID": "25914678",
+      "points": 2,
+      "story_id": 25914678,
+      "title": "Climate change in antiquity: Mass emigration due to water scarcity",
+      "updated_at": "2024-09-20T07:47:13Z",
+      "url": "https://phys.org/news/2021-01-climate-antiquity-mass-emigration-due.html"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "exotree"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "water",
+            "scarcity"
+          ],
+          "value": "Two Startups Aim to Fight <em>Water</em> <em>Scarcity</em> with Data"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "water",
+            "scarcity"
+          ],
+          "value": "https://news.crunchbase.com/news/overlooked-and-wasted-two-startups-aim-to-fight-<em>water</em>-<em>scarcity</em>-with-data/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_exotree",
+        "story_18349841"
+      ],
+      "author": "exotree",
+      "created_at": "2018-10-31T22:46:37Z",
+      "created_at_i": 1541025997,
+      "num_comments": 0,
+      "objectID": "18349841",
+      "points": 2,
+      "story_id": 18349841,
+      "title": "Two Startups Aim to Fight Water Scarcity with Data",
+      "updated_at": "2024-09-20T03:18:14Z",
+      "url": "https://news.crunchbase.com/news/overlooked-and-wasted-two-startups-aim-to-fight-water-scarcity-with-data/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "prostoalex"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "water",
+            "scarcity"
+          ],
+          "value": "Four billion people face severe <em>water</em> <em>scarcity</em>"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "water",
+            "scarcity"
+          ],
+          "value": "http://www.theguardian.com/environment/2016/feb/12/four-billion-people-face-severe-<em>water</em>-<em>scarcity</em>-new-research-finds"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_prostoalex",
+        "story_11127524"
+      ],
+      "author": "prostoalex",
+      "created_at": "2016-02-18T17:30:34Z",
+      "created_at_i": 1455816634,
+      "num_comments": 0,
+      "objectID": "11127524",
+      "points": 2,
+      "story_id": 11127524,
+      "title": "Four billion people face severe water scarcity",
+      "updated_at": "2024-09-19T22:50:09Z",
+      "url": "http://www.theguardian.com/environment/2016/feb/12/four-billion-people-face-severe-water-scarcity-new-research-finds"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "classicsnoot"
+        },
+        "story_text": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": ""
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "water",
+            "scarcity"
+          ],
+          "value": "Using software to manage <em>water</em> <em>scarcity</em> (2002)"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "http://archive.wired.com/wired/archive/10.09/thirst.html?pg=1&topic=&topic_set="
+        }
+      },
+      "_tags": [
+        "story",
+        "author_classicsnoot",
+        "story_9904757"
+      ],
+      "author": "classicsnoot",
+      "created_at": "2015-07-17T19:30:33Z",
+      "created_at_i": 1437161433,
+      "num_comments": 0,
+      "objectID": "9904757",
+      "points": 1,
+      "story_id": 9904757,
+      "story_text": "",
+      "title": "Using software to manage water scarcity (2002)",
+      "updated_at": "2023-09-07T03:13:52Z",
+      "url": "http://archive.wired.com/wired/archive/10.09/thirst.html?pg=1&topic=&topic_set="
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "brownmang"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "water",
+            "scarcity"
+          ],
+          "value": "11 innovations to fight food and <em>water</em> <em>scarcity</em>."
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "water"
+          ],
+          "value": "http://browntexfarms.blogspot.com/2014/02/11-innovations-to-fight-food-and-<em>water</em>.html"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_brownmang",
+        "story_7325950"
+      ],
+      "author": "brownmang",
+      "created_at": "2014-03-01T20:27:05Z",
+      "created_at_i": 1393705625,
+      "num_comments": 0,
+      "objectID": "7325950",
+      "points": 1,
+      "story_id": 7325950,
+      "title": "11 innovations to fight food and water scarcity.",
+      "updated_at": "2023-09-06T22:18:31Z",
+      "url": "http://browntexfarms.blogspot.com/2014/02/11-innovations-to-fight-food-and-water.html"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Brajeshwar"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "water",
+            "scarcity"
+          ],
+          "value": "<em>Water</em> <em>Scarcity</em> Likely to Increase in the Coming Decades"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "water",
+            "scarcity"
+          ],
+          "value": "https://eos.org/articles/<em>water</em>-<em>scarcity</em>-likely-to-increase-in-the-coming-decades"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_Brajeshwar",
+        "story_40866335"
+      ],
+      "author": "Brajeshwar",
+      "created_at": "2024-07-03T14:37:45Z",
+      "created_at_i": 1720017465,
+      "num_comments": 0,
+      "objectID": "40866335",
+      "points": 1,
+      "story_id": 40866335,
+      "title": "Water Scarcity Likely to Increase in the Coming Decades",
+      "updated_at": "2024-09-20T17:24:59Z",
+      "url": "https://eos.org/articles/water-scarcity-likely-to-increase-in-the-coming-decades"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "rntn"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "water",
+            "scarcity"
+          ],
+          "value": "Desalination – can it help us survive <em>water</em> <em>scarcity</em>?"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "water"
+          ],
+          "value": "https://www.dw.com/en/desalination-can-it-help-us-survive-a-<em>water</em>-scarce-future/a-68620224"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_rntn",
+        "story_39809383"
+      ],
+      "author": "rntn",
+      "created_at": "2024-03-24T19:02:16Z",
+      "created_at_i": 1711306936,
+      "num_comments": 0,
+      "objectID": "39809383",
+      "points": 1,
+      "story_id": 39809383,
+      "title": "Desalination – can it help us survive water scarcity?",
+      "updated_at": "2024-09-20T16:37:32Z",
+      "url": "https://www.dw.com/en/desalination-can-it-help-us-survive-a-water-scarce-future/a-68620224"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "LinuxBender"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "water",
+            "scarcity"
+          ],
+          "value": "<em>Water</em> <em>scarcity</em>: Crop failure warning as ban comes into force in Fife"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-62525975"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_LinuxBender",
+        "story_32460010"
+      ],
+      "author": "LinuxBender",
+      "created_at": "2022-08-14T15:25:07Z",
+      "created_at_i": 1660490707,
+      "num_comments": 0,
+      "objectID": "32460010",
+      "points": 1,
+      "story_id": 32460010,
+      "title": "Water scarcity: Crop failure warning as ban comes into force in Fife",
+      "updated_at": "2024-09-20T11:51:15Z",
+      "url": "https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-62525975"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "vitabenes"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "water",
+            "scarcity"
+          ],
+          "value": "Egypt steps up action as threat of <em>water</em> <em>scarcity</em> looms"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "water",
+            "scarcity"
+          ],
+          "value": "https://www.al-monitor.com/originals/2021/06/egypt-steps-action-threat-<em>water</em>-<em>scarcity</em>-looms#ixzz6xUm8eU7u"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_vitabenes",
+        "story_27474865"
+      ],
+      "author": "vitabenes",
+      "created_at": "2021-06-11T15:47:38Z",
+      "created_at_i": 1623426458,
+      "num_comments": 0,
+      "objectID": "27474865",
+      "points": 1,
+      "story_id": 27474865,
+      "title": "Egypt steps up action as threat of water scarcity looms",
+      "updated_at": "2024-09-20T08:47:00Z",
+      "url": "https://www.al-monitor.com/originals/2021/06/egypt-steps-action-threat-water-scarcity-looms#ixzz6xUm8eU7u"
+    }
+  ],
+  "hitsPerPage": 30,
+  "nbHits": 58,
+  "nbPages": 2,
+  "page": 0,
+  "params": "query=water+scarcity&tags=story&hitsPerPage=30&advancedSyntax=true&analyticsTags=backend",
+  "processingTimeMS": 32,
+  "processingTimingsMS": {
+    "_request": {
+      "roundTrip": 32
+    },
+    "afterFetch": {
+      "merge": {
+        "mergeLoop": {
+          "prepareNextHit": 1,
+          "total": 1
+        },
+        "total": 1
+      },
+      "total": 1
+    },
+    "fetch": {
+      "query": 25,
+      "scanning": 3,
+      "total": 29
+    },
+    "total": 32
+  },
+  "query": "water scarcity",
+  "serverTimeMS": 32
+}

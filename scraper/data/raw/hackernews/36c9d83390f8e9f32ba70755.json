@@ -1,0 +1,28 @@
+{
+  "exhaustive": {
+    "nbHits": false,
+    "typo": false
+  },
+  "exhaustiveNbHits": false,
+  "exhaustiveTypo": false,
+  "hits": [],
+  "hitsPerPage": 2,
+  "nbHits": 0,
+  "nbPages": 0,
+  "page": 0,
+  "params": "query=water+scarcity+issue&tags=story&hitsPerPage=2&advancedSyntax=true&analyticsTags=backend",
+  "processingTimeMS": 39,
+  "processingTimingsMS": {
+    "_request": {
+      "queue": 74,
+      "roundTrip": 18
+    },
+    "fetch": {
+      "query": 38,
+      "total": 39
+    },
+    "total": 39
+  },
+  "query": "water scarcity issue",
+  "serverTimeMS": 114
+}

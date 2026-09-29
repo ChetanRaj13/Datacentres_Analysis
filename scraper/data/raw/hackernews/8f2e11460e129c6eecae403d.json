@@ -1,0 +1,358 @@
+{
+  "exhaustive": {
+    "nbHits": false,
+    "typo": false
+  },
+  "exhaustiveNbHits": false,
+  "exhaustiveTypo": false,
+  "hits": [
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "PaulHoule"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "e",
+            "waste",
+            "india"
+          ],
+          "value": "Startup is cashing in on the <em>e-waste</em> from <em>India</em>'s EV revolution"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://restofworld.org/2023/3-minutes-with-rajesh-gupta-recyclekaro/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_PaulHoule",
+        "story_38386552"
+      ],
+      "author": "PaulHoule",
+      "created_at": "2023-11-22T23:12:06Z",
+      "created_at_i": 1700694726,
+      "num_comments": 0,
+      "objectID": "38386552",
+      "points": 1,
+      "story_id": 38386552,
+      "title": "Startup is cashing in on the e-waste from India's EV revolution",
+      "updated_at": "2024-09-20T15:44:42Z",
+      "url": "https://restofworld.org/2023/3-minutes-with-rajesh-gupta-recyclekaro/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "nreece"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "e",
+            "waste",
+            "india"
+          ],
+          "value": "<em>E-Waste</em> in <em>India</em> To Rise 500% by 2020"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "e",
+            "waste",
+            "india"
+          ],
+          "value": "http://www.treehugger.com/files/2010/02/<em>e-waste</em>-in-<em>india</em>-to-rise-500-by-2020.php"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_nreece",
+        "story_1144143"
+      ],
+      "author": "nreece",
+      "created_at": "2010-02-23T00:08:06Z",
+      "created_at_i": 1266883686,
+      "num_comments": 0,
+      "objectID": "1144143",
+      "points": 1,
+      "story_id": 1144143,
+      "title": "E-Waste in India To Rise 500% by 2020",
+      "updated_at": "2024-09-19T16:52:45Z",
+      "url": "http://www.treehugger.com/files/2010/02/e-waste-in-india-to-rise-500-by-2020.php"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "stareatgoats"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "e",
+            "waste",
+            "india"
+          ],
+          "value": "<em>E-waste</em> recycling drives <em>India</em>'s billion-dollar electronics industry"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "e",
+            "waste",
+            "india"
+          ],
+          "value": "https://restofworld.org/2025/<em>india</em>-<em>e-waste</em>-recycling-electronics/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_stareatgoats",
+        "story_45032214"
+      ],
+      "author": "stareatgoats",
+      "created_at": "2025-08-26T20:55:21Z",
+      "created_at_i": 1756241721,
+      "num_comments": 0,
+      "objectID": "45032214",
+      "points": 2,
+      "story_id": 45032214,
+      "title": "E-waste recycling drives India's billion-dollar electronics industry",
+      "updated_at": "2026-03-05T22:31:34Z",
+      "url": "https://restofworld.org/2025/india-e-waste-recycling-electronics/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "aDevilInMe"
+        },
+        "story_text": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": ""
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "e",
+            "waste",
+            "india"
+          ],
+          "value": "In pictures: <em>India</em>'s <em>e-waste</em> village"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "india"
+          ],
+          "value": "http://www.bbc.com/news/world-asia-<em>india</em>-28437824"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_aDevilInMe",
+        "story_8142525"
+      ],
+      "author": "aDevilInMe",
+      "created_at": "2014-08-06T14:12:28Z",
+      "created_at_i": 1407334348,
+      "num_comments": 0,
+      "objectID": "8142525",
+      "points": 1,
+      "story_id": 8142525,
+      "story_text": "",
+      "title": "In pictures: India's e-waste village",
+      "updated_at": "2024-09-19T21:05:21Z",
+      "url": "http://www.bbc.com/news/world-asia-india-28437824"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Brajeshwar"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "e",
+            "waste",
+            "india"
+          ],
+          "value": "<em>India</em>'s billion-dollar <em>e-waste</em> empire"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "e",
+            "waste",
+            "india"
+          ],
+          "value": "https://restofworld.org/2025/<em>india</em>-<em>e-waste</em>-recycling-electronics/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_Brajeshwar",
+        "story_45061376"
+      ],
+      "author": "Brajeshwar",
+      "children": [
+        45093322,
+        45093463,
+        45093919,
+        45094090,
+        45099152
+      ],
+      "created_at": "2025-08-29T07:52:54Z",
+      "created_at_i": 1756453974,
+      "num_comments": 51,
+      "objectID": "45061376",
+      "points": 120,
+      "story_id": 45061376,
+      "title": "India's billion-dollar e-waste empire",
+      "updated_at": "2026-04-03T14:39:07Z",
+      "url": "https://restofworld.org/2025/india-e-waste-recycling-electronics/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "denzil_correa"
+        },
+        "story_text": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": ""
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "e",
+            "waste",
+            "india"
+          ],
+          "value": "The <em>India</em>n company turning <em>e-waste</em> into mounds of profit"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "e",
+            "waste",
+            "india"
+          ],
+          "value": "http://qz.com/149632/the-<em>india</em>n-company-turning-<em>e-waste</em>-into-mounds-of-profit/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_denzil_correa",
+        "story_6822779"
+      ],
+      "author": "denzil_correa",
+      "created_at": "2013-11-30T10:11:41Z",
+      "created_at_i": 1385806301,
+      "num_comments": 0,
+      "objectID": "6822779",
+      "points": 2,
+      "story_id": 6822779,
+      "story_text": "",
+      "title": "The Indian company turning e-waste into mounds of profit",
+      "updated_at": "2023-09-06T22:47:21Z",
+      "url": "http://qz.com/149632/the-indian-company-turning-e-waste-into-mounds-of-profit/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "LogicRiver"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "e",
+            "waste",
+            "india"
+          ],
+          "value": "The dark side of <em>India</em>'s digital underbelly and <em>e-waste</em> problem"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "e",
+            "waste"
+          ],
+          "value": "https://factordaily.com/<em>ewaste</em>/the-dark-side-of-indias-digital-underbelly/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_LogicRiver",
+        "story_26025325"
+      ],
+      "author": "LogicRiver",
+      "created_at": "2021-02-04T13:56:57Z",
+      "created_at_i": 1612447017,
+      "num_comments": 0,
+      "objectID": "26025325",
+      "points": 2,
+      "story_id": 26025325,
+      "title": "The dark side of India's digital underbelly and e-waste problem",
+      "updated_at": "2024-09-20T07:50:00Z",
+      "url": "https://factordaily.com/ewaste/the-dark-side-of-indias-digital-underbelly/"
+    }
+  ],
+  "hitsPerPage": 7,
+  "nbHits": 9,
+  "nbPages": 2,
+  "page": 0,
+  "params": "query=e-waste+India&tags=story&hitsPerPage=7&advancedSyntax=true&analyticsTags=backend",
+  "processingTimeMS": 8,
+  "processingTimingsMS": {
+    "_request": {
+      "roundTrip": 14
+    },
+    "afterFetch": {
+      "merge": {
+        "mergeLoop": {
+          "prepareNextHit": 1,
+          "total": 1
+        },
+        "total": 1
+      },
+      "total": 1
+    },
+    "fetch": {
+      "query": 3,
+      "scanning": 2,
+      "total": 6
+    },
+    "total": 8
+  },
+  "query": "e-waste India",
+  "serverTimeMS": 8
+}

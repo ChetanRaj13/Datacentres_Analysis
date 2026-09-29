@@ -1,0 +1,48 @@
+{
+  "title": "Wind Resource Assessment at 120m/150m Hub Heights & State Potential Atlas",
+  "agency": "National Institute of Wind Energy (NIWE), Ministry of New and Renewable Energy",
+  "url": "https://niwe.res.in/resource_assessment.php",
+  "description": "Comprehensive wind power density and capacity utilization factor benchmarks across Indian states.",
+  "wind_cuf_benchmarks": {
+    "Tamil Nadu": {
+      "cuf_pct": 31.5,
+      "basis": "Muppandal / Kayathar Pass Zone I high-yield coastal wind corridor",
+      "status": "viable"
+    },
+    "Karnataka": {
+      "cuf_pct": 28.0,
+      "basis": "Chitradurga / Gadag central Karnataka high-wind plateau",
+      "status": "viable"
+    },
+    "Andhra Pradesh": {
+      "cuf_pct": 27.0,
+      "basis": "Rayalaseema wind corridor (Ananthapur / Kadapa Class II resource)",
+      "status": "viable"
+    },
+    "Maharashtra": {
+      "cuf_pct": 24.0,
+      "basis": "Western Ghats ridge sites (Satara / Sangli hills adjacent to Pune)",
+      "status": "viable"
+    },
+    "Telangana": {
+      "cuf_pct": 19.0,
+      "basis": "Inland low-wind resource (marginal commercial feasibility for utility scale)",
+      "status": "marginal"
+    },
+    "Uttar Pradesh": {
+      "cuf_pct": null,
+      "basis": "Not viable (wind power density <100 W/m2 in Gangetic plains; zero commercial potential)",
+      "status": "not viable"
+    },
+    "West Bengal": {
+      "cuf_pct": null,
+      "basis": "Not viable (wind power density <100 W/m2 in Gangetic delta; non-commercial onshore wind)",
+      "status": "not viable"
+    },
+    "Gujarat": {
+      "cuf_pct": 32.0,
+      "basis": "Coastal Saurashtra / Gulf of Kutch / Jamnagar Class I wind corridor (120m/150m hub height)",
+      "status": "viable"
+    }
+  }
+}

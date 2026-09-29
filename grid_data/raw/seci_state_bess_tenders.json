@@ -1,0 +1,40 @@
+{
+  "title": "Battery Energy Storage Systems (BESS) Tariff Discovery and Procurement Orders",
+  "agency": "Solar Energy Corporation of India (SECI) & State DISCOMs (MSEDCL, KPTCL, TNGECL, GUVNL)",
+  "url": "https://www.seci.co.in/tenders",
+  "description": "Tariff discovery in monthly capacity charges (₹ Lakh/MW/month) from concluded standalone and VGF-supported BESS tenders.",
+  "tender_signals": {
+    "Maharashtra": {
+      "signal": "₹2.38–2.40 Lakh/MW/month (MSEDCL 2,000 MW / 4,000 MWh Standalone BESS, Sep 2026)",
+      "source": "MSEDCL BESS Auction Filings & Award Orders"
+    },
+    "Karnataka": {
+      "signal": "₹2.49–2.54 Lakh/MW/month (KPTCL 500 MW / 1,000 MWh Standalone BESS, 2026)",
+      "source": "KPTCL BESS Procurement Orders"
+    },
+    "Tamil Nadu": {
+      "signal": "₹3.15–3.16 Lakh/MW/month (TNGECL 375 MW / 1,500 MWh BESS Tender, 2026)",
+      "source": "TNGECL Tender Outcomes & TNERC Filings"
+    },
+    "Andhra Pradesh": {
+      "signal": "₹2.80–3.20 Lakh/MW/month (APGECL Hybrid Pumped/Battery Storage Procurement Notices)",
+      "source": "APTRANSCO / APGECL Storage Tender Notices"
+    },
+    "Telangana": {
+      "signal": "₹3.04–3.75 Lakh/MW/month (SECI ISTS National BESS Benchmark Proxy)",
+      "source": "SECI Pan-India ISTS Standalone BESS Tenders (VGF Route)"
+    },
+    "Uttar Pradesh": {
+      "signal": "₹3.04–3.75 Lakh/MW/month (SECI ISTS National BESS Benchmark Proxy)",
+      "source": "SECI ISTS National BESS Benchmark"
+    },
+    "West Bengal": {
+      "signal": "No state tender data found; ISTS national benchmark (₹3.04–3.75 Lakh/MW/month) applicable",
+      "source": "SECI ISTS National BESS Benchmark (WBSEDCL has no standalone BESS tenders)"
+    },
+    "Gujarat": {
+      "signal": "₹2.10–2.32 Lakh/MW/month (GUVNL 450 MW / 900 MWh & 335 MW Standalone BESS, 2026)",
+      "source": "GUVNL Standalone BESS Auction Filings & GERC Tariff Orders"
+    }
+  }
+}

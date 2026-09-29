@@ -1,0 +1,29 @@
+{
+  "exhaustive": {
+    "nbHits": false,
+    "typo": false
+  },
+  "exhaustiveNbHits": false,
+  "exhaustiveTypo": false,
+  "hits": [],
+  "hitsPerPage": 30,
+  "nbHits": 0,
+  "nbPages": 0,
+  "page": 0,
+  "params": "query=gig-worker+income+issue&tags=story&hitsPerPage=30&advancedSyntax=true&analyticsTags=backend",
+  "processingTimeMS": 11,
+  "processingTimingsMS": {
+    "_request": {
+      "queue": 57,
+      "roundTrip": 21
+    },
+    "fetch": {
+      "query": 8,
+      "scanning": 2,
+      "total": 11
+    },
+    "total": 11
+  },
+  "query": "gig-worker income issue",
+  "serverTimeMS": 69
+}

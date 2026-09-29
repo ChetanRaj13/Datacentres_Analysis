@@ -1,0 +1,1366 @@
+{
+  "exhaustive": {
+    "nbHits": false,
+    "typo": false
+  },
+  "exhaustiveNbHits": false,
+  "exhaustiveTypo": false,
+  "hits": [
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "okket"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "food",
+            "waste"
+          ],
+          "value": "South Korea now recycles 95% of its <em>food</em> <em>waste</em>"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "food",
+            "waste"
+          ],
+          "value": "https://www.weforum.org/agenda/2019/04/south-korea-recycling-<em>food</em>-<em>waste</em>/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_okket",
+        "story_19653138"
+      ],
+      "author": "okket",
+      "children": [
+        19653792,
+        19653898,
+        19653912,
+        19653975,
+        19654185,
+        19654201,
+        19654329,
+        19654623,
+        19654731,
+        19654817,
+        19655705,
+        19655782,
+        19656114,
+        19656229,
+        19656323,
+        19656831,
+        19659541
+      ],
+      "created_at": "2019-04-13T14:20:12Z",
+      "created_at_i": 1555165212,
+      "num_comments": 163,
+      "objectID": "19653138",
+      "points": 538,
+      "story_id": 19653138,
+      "title": "South Korea now recycles 95% of its food waste",
+      "updated_at": "2026-08-12T23:40:45Z",
+      "url": "https://www.weforum.org/agenda/2019/04/south-korea-recycling-food-waste/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "laurex"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "food",
+            "waste"
+          ],
+          "value": "The war on <em>food</em> <em>waste</em> is a <em>waste</em> of time"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "food",
+            "waste"
+          ],
+          "value": "https://theoutline.com/post/8739/<em>food</em>-<em>waste</em>-fight-<em>waste</em>-of-time"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_laurex",
+        "story_22434259"
+      ],
+      "author": "laurex",
+      "children": [
+        22434515,
+        22434779,
+        22434917,
+        22434918,
+        22435039,
+        22435100,
+        22435218,
+        22435305,
+        22435320,
+        22435360,
+        22435367,
+        22436877,
+        22437543,
+        22437624,
+        22438073,
+        22438517,
+        22438619,
+        22438900,
+        22439228,
+        22439455,
+        22439923,
+        22439956,
+        22439965,
+        22440635,
+        22441016,
+        22441380,
+        22444160
+      ],
+      "created_at": "2020-02-27T15:47:47Z",
+      "created_at_i": 1582818467,
+      "num_comments": 341,
+      "objectID": "22434259",
+      "points": 261,
+      "story_id": 22434259,
+      "title": "The war on food waste is a waste of time",
+      "updated_at": "2026-02-01T13:07:35Z",
+      "url": "https://theoutline.com/post/8739/food-waste-fight-waste-of-time"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "adrian_mrd"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "food",
+            "waste"
+          ],
+          "value": "Reducing <em>Waste</em>d <em>Food</em> at Home"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "food",
+            "waste"
+          ],
+          "value": "https://www.epa.gov/recycle/reducing-<em>waste</em>d-<em>food</em>-home"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_adrian_mrd",
+        "story_20317002"
+      ],
+      "author": "adrian_mrd",
+      "children": [
+        20317242,
+        20317281,
+        20317302,
+        20317424,
+        20317443,
+        20317465,
+        20317565,
+        20317617,
+        20317663,
+        20317717,
+        20317738,
+        20317802,
+        20317805,
+        20317834,
+        20317842,
+        20317868,
+        20317881,
+        20317991,
+        20318092,
+        20318513,
+        20318612,
+        20318651,
+        20318656,
+        20318811,
+        20319683
+      ],
+      "created_at": "2019-06-30T08:05:33Z",
+      "created_at_i": 1561881933,
+      "num_comments": 169,
+      "objectID": "20317002",
+      "points": 160,
+      "story_id": 20317002,
+      "title": "Reducing Wasted Food at Home",
+      "updated_at": "2024-09-20T04:25:03Z",
+      "url": "https://www.epa.gov/recycle/reducing-wasted-food-home"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "WallyFunk"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "food",
+            "waste"
+          ],
+          "value": "Melatonin as a treatment for <em>food</em> <em>waste</em>"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "food",
+            "waste"
+          ],
+          "value": "https://www.anthropocenemagazine.org/2023/08/melatonin-a-sleep-aid-is-a-surprising-treatment-for-<em>food</em>-<em>waste</em>/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_WallyFunk",
+        "story_37003988"
+      ],
+      "author": "WallyFunk",
+      "children": [
+        37004367,
+        37004416,
+        37004480,
+        37004700,
+        37004840,
+        37004914,
+        37005476,
+        37005619,
+        37005712,
+        37005868,
+        37005906,
+        37005936,
+        37006080,
+        37006116,
+        37006335,
+        37006504,
+        37007757,
+        37008475,
+        37009864,
+        37010023
+      ],
+      "created_at": "2023-08-04T18:37:02Z",
+      "created_at_i": 1691174222,
+      "num_comments": 207,
+      "objectID": "37003988",
+      "points": 152,
+      "story_id": 37003988,
+      "title": "Melatonin as a treatment for food waste",
+      "updated_at": "2025-08-15T22:14:42Z",
+      "url": "https://www.anthropocenemagazine.org/2023/08/melatonin-a-sleep-aid-is-a-surprising-treatment-for-food-waste/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "cwwc"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "food",
+            "waste"
+          ],
+          "value": "<em>Food</em> <em>waste</em> responsible for 10% of global emissions?"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "food"
+          ],
+          "value": "https://www.bloomberg.com/news/articles/2021-03-04/in-one-year-a-billion-tons-of-<em>food</em>-got-wasted-mostly-at-home"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_cwwc",
+        "story_26748763"
+      ],
+      "author": "cwwc",
+      "children": [
+        26748814,
+        26748852,
+        26749033,
+        26749042,
+        26749058,
+        26749175,
+        26749230,
+        26749261,
+        26749298,
+        26749303,
+        26749330,
+        26749391,
+        26749670,
+        26749751,
+        26750160,
+        26750460,
+        26751329,
+        26751452,
+        26753761,
+        26754700,
+        26755044,
+        26755903,
+        26760748
+      ],
+      "created_at": "2021-04-09T10:31:40Z",
+      "created_at_i": 1617964300,
+      "num_comments": 210,
+      "objectID": "26748763",
+      "points": 123,
+      "story_id": 26748763,
+      "title": "Food waste responsible for 10% of global emissions?",
+      "updated_at": "2024-09-20T08:20:39Z",
+      "url": "https://www.bloomberg.com/news/articles/2021-03-04/in-one-year-a-billion-tons-of-food-got-wasted-mostly-at-home"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Bhilai"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "food",
+            "waste"
+          ],
+          "value": "Farmers Are Using <em>Food</em> <em>Waste</em> to Make Electricity"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "food",
+            "waste"
+          ],
+          "value": "https://www.npr.org/sections/thesalt/2019/11/30/783001327/chew-on-this-farmers-are-using-<em>food</em>-<em>waste</em>-to-make-electricity"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_Bhilai",
+        "story_21673241"
+      ],
+      "author": "Bhilai",
+      "children": [
+        21674418,
+        21681042,
+        21681325,
+        21681443,
+        21681507,
+        21682081,
+        21683935,
+        21684362,
+        21684498
+      ],
+      "created_at": "2019-12-01T01:38:50Z",
+      "created_at_i": 1575164330,
+      "num_comments": 38,
+      "objectID": "21673241",
+      "points": 100,
+      "story_id": 21673241,
+      "title": "Farmers Are Using Food Waste to Make Electricity",
+      "updated_at": "2024-09-20T05:22:29Z",
+      "url": "https://www.npr.org/sections/thesalt/2019/11/30/783001327/chew-on-this-farmers-are-using-food-waste-to-make-electricity"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "anchpop"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "food",
+            "waste"
+          ],
+          "value": "Producing graphene in bulk using <em>waste</em> <em>food</em>, plastic and other materials"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://news.rice.edu/news/2020/rice-lab-turns-trash-valuable-graphene-flash"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_anchpop",
+        "story_30533343"
+      ],
+      "author": "anchpop",
+      "children": [
+        30533406,
+        30533560,
+        30533606,
+        30533878,
+        30533998,
+        30535187,
+        30535924,
+        30536342,
+        30536674,
+        30537158,
+        30537431,
+        30538803,
+        30539144
+      ],
+      "created_at": "2022-03-02T21:21:10Z",
+      "created_at_i": 1646256070,
+      "num_comments": 56,
+      "objectID": "30533343",
+      "points": 98,
+      "story_id": 30533343,
+      "title": "Producing graphene in bulk using waste food, plastic and other materials",
+      "updated_at": "2024-09-20T10:35:47Z",
+      "url": "https://news.rice.edu/news/2020/rice-lab-turns-trash-valuable-graphene-flash"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "apo"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "food",
+            "waste"
+          ],
+          "value": "Entrepreneur raises millions of bugs to tackle <em>food</em> <em>waste</em> problem (2017)"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "http://www.globaltimes.cn/content/1066448.shtml"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_apo",
+        "story_17948228"
+      ],
+      "author": "apo",
+      "children": [
+        17948421,
+        17948429,
+        17948619,
+        17948784,
+        17948874,
+        17948906,
+        17949020,
+        17949226,
+        17949318,
+        17949472,
+        17949610,
+        17949947
+      ],
+      "created_at": "2018-09-09T22:50:48Z",
+      "created_at_i": 1536533448,
+      "num_comments": 55,
+      "objectID": "17948228",
+      "points": 79,
+      "story_id": 17948228,
+      "title": "Entrepreneur raises millions of bugs to tackle food waste problem (2017)",
+      "updated_at": "2024-09-20T02:59:52Z",
+      "url": "http://www.globaltimes.cn/content/1066448.shtml"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "rntn"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "food",
+            "waste"
+          ],
+          "value": "An $18M grant would have drastically reduced <em>food</em> <em>waste</em>. Then the EPA cut it"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "food",
+            "waste"
+          ],
+          "value": "https://grist.org/<em>food</em>-and-agriculture/trump-epa-community-change-grants-program-<em>food</em>-<em>waste</em>/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_rntn",
+        "story_43954810"
+      ],
+      "author": "rntn",
+      "children": [
+        43955695,
+        43955811,
+        43956278,
+        43956397,
+        43956610,
+        43957167,
+        43958807
+      ],
+      "created_at": "2025-05-11T16:22:05Z",
+      "created_at_i": 1746980525,
+      "num_comments": 43,
+      "objectID": "43954810",
+      "points": 76,
+      "story_id": 43954810,
+      "title": "An $18M grant would have drastically reduced food waste. Then the EPA cut it",
+      "updated_at": "2025-10-01T16:54:14Z",
+      "url": "https://grist.org/food-and-agriculture/trump-epa-community-change-grants-program-food-waste/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Brajeshwar"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "food",
+            "waste"
+          ],
+          "value": "Gold recovery from e-<em>waste</em> by <em>food</em>-<em>waste</em> amyloid aerogels"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://onlinelibrary.wiley.com/doi/10.1002/adma.202310642"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_Brajeshwar",
+        "story_39590071"
+      ],
+      "author": "Brajeshwar",
+      "children": [
+        39624844,
+        39624956,
+        39625093
+      ],
+      "created_at": "2024-03-04T13:15:38Z",
+      "created_at_i": 1709558138,
+      "num_comments": 20,
+      "objectID": "39590071",
+      "points": 69,
+      "story_id": 39590071,
+      "title": "Gold recovery from e-waste by food-waste amyloid aerogels",
+      "updated_at": "2025-08-14T22:43:26Z",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1002/adma.202310642"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "geox"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "food",
+            "waste"
+          ],
+          "value": "Gene-edited non-browning banana could cut <em>food</em> <em>waste</em>"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "food",
+            "waste"
+          ],
+          "value": "https://www.theguardian.com/science/2025/mar/07/gene-edited-non-browning-banana-cut-<em>food</em>-<em>waste</em>-tropic-norwich"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_geox",
+        "story_43299772"
+      ],
+      "author": "geox",
+      "children": [
+        43300162,
+        43300297,
+        43300391,
+        43300484,
+        43300593,
+        43300804,
+        43300906,
+        43301093,
+        43301130,
+        43301774,
+        43301845,
+        43301853,
+        43302242,
+        43302274,
+        43303975,
+        43304198,
+        43304362,
+        43304553,
+        43305565,
+        43306917,
+        43309181,
+        43310357
+      ],
+      "created_at": "2025-03-08T12:41:56Z",
+      "created_at_i": 1741437716,
+      "num_comments": 76,
+      "objectID": "43299772",
+      "points": 68,
+      "story_id": 43299772,
+      "title": "Gene-edited non-browning banana could cut food waste",
+      "updated_at": "2025-08-14T22:21:15Z",
+      "url": "https://www.theguardian.com/science/2025/mar/07/gene-edited-non-browning-banana-cut-food-waste-tropic-norwich"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "PaulHoule"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "food",
+            "waste"
+          ],
+          "value": "12,000 tons of <em>food</em> <em>waste</em> transformed a barren landscape in Costa Rica"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "food",
+            "waste"
+          ],
+          "value": "https://www.metafilter.com/205526/12000-tons-of-<em>food</em>-<em>waste</em>-transformed-a-barren-landscape-in-Costa-Rica"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_PaulHoule",
+        "story_41631512"
+      ],
+      "author": "PaulHoule",
+      "children": [
+        41631639,
+        41631711,
+        41634317,
+        41645352,
+        41645852
+      ],
+      "created_at": "2024-09-23T23:04:16Z",
+      "created_at_i": 1727132656,
+      "num_comments": 5,
+      "objectID": "41631512",
+      "points": 55,
+      "story_id": 41631512,
+      "title": "12,000 tons of food waste transformed a barren landscape in Costa Rica",
+      "updated_at": "2024-09-28T13:43:46Z",
+      "url": "https://www.metafilter.com/205526/12000-tons-of-food-waste-transformed-a-barren-landscape-in-Costa-Rica"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "DocFeind"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "food",
+            "waste"
+          ],
+          "value": "The lie of expired <em>food</em> and the disastrous truth of Americas <em>food</em> <em>waste</em> problem"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "food",
+            "waste"
+          ],
+          "value": "https://www.vox.com/22559293/<em>food</em>-<em>waste</em>-expiration-label-best-before"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_DocFeind",
+        "story_27794464"
+      ],
+      "author": "DocFeind",
+      "children": [
+        27794613,
+        27795390,
+        27796426,
+        27796609
+      ],
+      "created_at": "2021-07-10T16:21:43Z",
+      "created_at_i": 1625934103,
+      "num_comments": 13,
+      "objectID": "27794464",
+      "points": 45,
+      "story_id": 27794464,
+      "title": "The lie of expired food and the disastrous truth of Americas food waste problem",
+      "updated_at": "2024-09-20T08:59:14Z",
+      "url": "https://www.vox.com/22559293/food-waste-expiration-label-best-before"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "th0ma5"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "food",
+            "waste"
+          ],
+          "value": "40% of U.S. <em>food</em> <em>waste</em>d"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "food",
+            "waste"
+          ],
+          "value": "http://news.blogs.cnn.com/2012/08/22/40-of-u-s-<em>food</em>-<em>waste</em>d-report-says"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_th0ma5",
+        "story_4418990"
+      ],
+      "author": "th0ma5",
+      "children": [
+        4419385,
+        4419429,
+        4419455,
+        4419463,
+        4419493,
+        4419495,
+        4419515,
+        4419555,
+        4419588,
+        4419591,
+        4419621,
+        4419626,
+        4419646,
+        4419665,
+        4419688,
+        4419829,
+        4422190
+      ],
+      "created_at": "2012-08-22T19:04:37Z",
+      "created_at_i": 1345662277,
+      "num_comments": 75,
+      "objectID": "4418990",
+      "points": 42,
+      "story_id": 4418990,
+      "title": "40% of U.S. food wasted",
+      "updated_at": "2026-08-04T08:02:41Z",
+      "url": "http://news.blogs.cnn.com/2012/08/22/40-of-u-s-food-wasted-report-says"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "paulpauper"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "food",
+            "waste"
+          ],
+          "value": "California first state to ban 'sell by' 'best before' label to reduce <em>food</em> <em>waste</em>"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "food",
+            "waste"
+          ],
+          "value": "https://fortune.com/2024/10/02/california-first-state-ban-sell-by-best-before-labels-reduce-<em>food</em>-<em>waste</em>/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_paulpauper",
+        "story_41775298"
+      ],
+      "author": "paulpauper",
+      "children": [
+        41775347,
+        41776805,
+        41776996,
+        41777368,
+        41777396,
+        41777413,
+        41777420,
+        41777591,
+        41777828,
+        41778289,
+        41779181,
+        41779319,
+        41780575
+      ],
+      "created_at": "2024-10-08T09:19:56Z",
+      "created_at_i": 1728379196,
+      "num_comments": 62,
+      "objectID": "41775298",
+      "points": 42,
+      "story_id": 41775298,
+      "title": "California first state to ban 'sell by' 'best before' label to reduce food waste",
+      "updated_at": "2025-08-14T22:30:58Z",
+      "url": "https://fortune.com/2024/10/02/california-first-state-ban-sell-by-best-before-labels-reduce-food-waste/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "randycupertino"
+        },
+        "story_text": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "<a href=\"https://archive.md/hh4j4\" rel=\"nofollow\">https://archive.md/hh4j4</a>"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "food",
+            "waste"
+          ],
+          "value": "California bans 'sell by' labels, hoping to cut <em>food</em> <em>waste</em>"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "food"
+          ],
+          "value": "https://www.nytimes.com/2026/07/02/us/california-<em>food</em>-labels-sell-by.html"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_randycupertino",
+        "story_48785720"
+      ],
+      "author": "randycupertino",
+      "children": [
+        48786287,
+        48786529,
+        48786582,
+        48786598,
+        48786668,
+        48786703,
+        48786833,
+        48786859,
+        48786939,
+        48787312
+      ],
+      "created_at": "2026-07-04T14:34:00Z",
+      "created_at_i": 1783175640,
+      "num_comments": 75,
+      "objectID": "48785720",
+      "points": 38,
+      "story_id": 48785720,
+      "story_text": "<a href=\"https:&#x2F;&#x2F;archive.md&#x2F;hh4j4\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.md&#x2F;hh4j4</a>",
+      "title": "California bans 'sell by' labels, hoping to cut food waste",
+      "updated_at": "2026-07-21T03:20:09Z",
+      "url": "https://www.nytimes.com/2026/07/02/us/california-food-labels-sell-by.html"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "edward"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "food",
+            "waste"
+          ],
+          "value": "<em>Food</em> <em>waste</em> app Too Good To Go saves leftovers from San Francisco restaurants"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "food",
+            "waste"
+          ],
+          "value": "https://www.sfgate.com/<em>food</em>/article/<em>Food</em>-<em>waste</em>-app-TooGoodToGo-saves-leftovers-sf-16302119.php"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_edward",
+        "story_27804481"
+      ],
+      "author": "edward",
+      "children": [
+        27804520,
+        27804717,
+        27808383
+      ],
+      "created_at": "2021-07-11T20:57:30Z",
+      "created_at_i": 1626037050,
+      "num_comments": 3,
+      "objectID": "27804481",
+      "points": 24,
+      "story_id": 27804481,
+      "title": "Food waste app Too Good To Go saves leftovers from San Francisco restaurants",
+      "updated_at": "2024-09-20T08:53:49Z",
+      "url": "https://www.sfgate.com/food/article/Food-waste-app-TooGoodToGo-saves-leftovers-sf-16302119.php"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "gmays"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "food",
+            "waste"
+          ],
+          "value": "Avoiding <em>food</em> <em>waste</em> confusion"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "food",
+            "waste"
+          ],
+          "value": "https://seths.blog/2023/04/profiting-from-<em>food</em>-<em>waste</em>-confusion/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_gmays",
+        "story_35639066"
+      ],
+      "author": "gmays",
+      "children": [
+        35639534,
+        35639645,
+        35639680,
+        35639790,
+        35639848,
+        35640191,
+        35640255,
+        35640507
+      ],
+      "created_at": "2023-04-20T12:44:12Z",
+      "created_at_i": 1681994652,
+      "num_comments": 29,
+      "objectID": "35639066",
+      "points": 17,
+      "story_id": 35639066,
+      "title": "Avoiding food waste confusion",
+      "updated_at": "2024-09-20T13:49:30Z",
+      "url": "https://seths.blog/2023/04/profiting-from-food-waste-confusion/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "kumaranvpl"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "food",
+            "waste"
+          ],
+          "value": "<em>Food</em> <em>waste</em> is the world's dumbest problem [video]"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://www.youtube.com/watch?v=6RlxySFrkIM&feature=youtu.be"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_kumaranvpl",
+        "story_19523501"
+      ],
+      "author": "kumaranvpl",
+      "children": [
+        19524032,
+        19526018
+      ],
+      "created_at": "2019-03-29T17:06:50Z",
+      "created_at_i": 1553879210,
+      "num_comments": 7,
+      "objectID": "19523501",
+      "points": 17,
+      "story_id": 19523501,
+      "title": "Food waste is the world's dumbest problem [video]",
+      "updated_at": "2024-09-20T03:59:50Z",
+      "url": "https://www.youtube.com/watch?v=6RlxySFrkIM&feature=youtu.be"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "bigtunacan"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "food",
+            "waste"
+          ],
+          "value": "France forbids <em>food</em> <em>waste</em>"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "food",
+            "waste"
+          ],
+          "value": "http://www.theguardian.com/world/2016/feb/04/french-law-forbids-<em>food</em>-<em>waste</em>-by-supermarkets"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_bigtunacan",
+        "story_11041122"
+      ],
+      "author": "bigtunacan",
+      "created_at": "2016-02-05T13:10:57Z",
+      "created_at_i": 1454677857,
+      "num_comments": 0,
+      "objectID": "11041122",
+      "points": 15,
+      "story_id": 11041122,
+      "title": "France forbids food waste",
+      "updated_at": "2024-09-19T22:47:49Z",
+      "url": "http://www.theguardian.com/world/2016/feb/04/french-law-forbids-food-waste-by-supermarkets"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "lingben"
+        },
+        "story_text": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": ""
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "food",
+            "waste"
+          ],
+          "value": "The Untapped Potential of <em>Waste</em>d <em>Food</em>"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "food",
+            "waste"
+          ],
+          "value": "http://www.newyorker.com/business/currency/the-untapped-potential-of-<em>waste</em>d-<em>food</em>?intcid=mod-latest"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_lingben",
+        "story_9494131"
+      ],
+      "author": "lingben",
+      "children": [
+        9494160,
+        9495399,
+        9495760
+      ],
+      "created_at": "2015-05-05T18:38:48Z",
+      "created_at_i": 1430851128,
+      "num_comments": 6,
+      "objectID": "9494131",
+      "points": 12,
+      "story_id": 9494131,
+      "story_text": "",
+      "title": "The Untapped Potential of Wasted Food",
+      "updated_at": "2023-09-07T02:40:43Z",
+      "url": "http://www.newyorker.com/business/currency/the-untapped-potential-of-wasted-food?intcid=mod-latest"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Kaibeezy"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "food",
+            "waste"
+          ],
+          "value": "The female entrepreneur stopping <em>food</em> <em>waste</em>"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://www.bbc.co.uk/news/business-50974009"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_Kaibeezy",
+        "story_21967395"
+      ],
+      "author": "Kaibeezy",
+      "children": [
+        21967411,
+        21969977
+      ],
+      "created_at": "2020-01-06T07:57:00Z",
+      "created_at_i": 1578297420,
+      "num_comments": 6,
+      "objectID": "21967395",
+      "points": 12,
+      "story_id": 21967395,
+      "title": "The female entrepreneur stopping food waste",
+      "updated_at": "2024-09-20T05:33:01Z",
+      "url": "https://www.bbc.co.uk/news/business-50974009"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "dinduks"
+        },
+        "story_text": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": ""
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "food",
+            "waste"
+          ],
+          "value": "Show HN: nomzsavior, a browser app to track groceries and prevent <em>food</em> <em>waste</em>"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "http://nomzsavior.us/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_dinduks",
+        "story_6412225",
+        "show_hn"
+      ],
+      "author": "dinduks",
+      "children": [
+        6412322,
+        6412478
+      ],
+      "created_at": "2013-09-19T15:33:14Z",
+      "created_at_i": 1379604794,
+      "num_comments": 4,
+      "objectID": "6412225",
+      "points": 12,
+      "story_id": 6412225,
+      "story_text": "",
+      "title": "Show HN: nomzsavior, a browser app to track groceries and prevent food waste",
+      "updated_at": "2024-09-19T19:57:35Z",
+      "url": "http://nomzsavior.us/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "prawn"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "food",
+            "waste"
+          ],
+          "value": "To Cut <em>Food</em> <em>Waste</em>, Spain's Solidarity Fridge Supplies Endless Leftovers"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "food",
+            "waste"
+          ],
+          "value": "http://www.npr.org/sections/thesalt/2015/08/13/431960054/to-cut-<em>food</em>-<em>waste</em>-spains-solidarity-fridge-supplies-endless-leftovers"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_prawn",
+        "story_10293851"
+      ],
+      "author": "prawn",
+      "created_at": "2015-09-28T23:31:06Z",
+      "created_at_i": 1443483066,
+      "num_comments": 0,
+      "objectID": "10293851",
+      "points": 12,
+      "story_id": 10293851,
+      "title": "To Cut Food Waste, Spain's Solidarity Fridge Supplies Endless Leftovers",
+      "updated_at": "2024-09-19T22:25:01Z",
+      "url": "http://www.npr.org/sections/thesalt/2015/08/13/431960054/to-cut-food-waste-spains-solidarity-fridge-supplies-endless-leftovers"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "reirob"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "food",
+            "waste"
+          ],
+          "value": "French law forbids <em>food</em> <em>waste</em> by supermarkets"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "food",
+            "waste"
+          ],
+          "value": "http://www.theguardian.com/world/2016/feb/04/french-law-forbids-<em>food</em>-<em>waste</em>-by-supermarkets"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_reirob",
+        "story_11045498"
+      ],
+      "author": "reirob",
+      "children": [
+        11045917
+      ],
+      "created_at": "2016-02-05T23:30:43Z",
+      "created_at_i": 1454715043,
+      "num_comments": 1,
+      "objectID": "11045498",
+      "points": 11,
+      "story_id": 11045498,
+      "title": "French law forbids food waste by supermarkets",
+      "updated_at": "2024-09-19T22:48:16Z",
+      "url": "http://www.theguardian.com/world/2016/feb/04/french-law-forbids-food-waste-by-supermarkets"
+    }
+  ],
+  "hitsPerPage": 25,
+  "nbHits": 570,
+  "nbPages": 23,
+  "page": 0,
+  "params": "query=food+waste&tags=story&hitsPerPage=25&advancedSyntax=true&analyticsTags=backend",
+  "processingTimeMS": 9,
+  "processingTimingsMS": {
+    "_request": {
+      "roundTrip": 23
+    },
+    "fetch": {
+      "query": 3,
+      "scanning": 4,
+      "total": 8
+    },
+    "total": 9
+  },
+  "query": "food waste",
+  "serverTimeMS": 10
+}

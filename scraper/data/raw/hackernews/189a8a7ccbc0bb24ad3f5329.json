@@ -1,0 +1,74 @@
+{
+  "exhaustive": {
+    "nbHits": false,
+    "typo": false
+  },
+  "exhaustiveNbHits": false,
+  "exhaustiveTypo": false,
+  "hits": [
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "jelliclesfarm"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "plastic",
+            "and",
+            "packaging",
+            "issue"
+          ],
+          "value": "Elsewhere on LinkedIn, someone asked for leads to find child resistant paper <em>packaging</em> instead of <em>plastic</em>.<p>They didn’t mention the product that was being packaged.<p>It was suggested that choosing paper over <em>plastic</em> was an uneducated choice <em>and</em> other ‘experts’ were beckoned.<p>It is my opinion that <em>plastic</em> <em>packaging</em> should be considered only if we resolve the landfill <em>and</em> waste management <em>issues</em>.<p>An ‘expert’ (aka someone with a Ph.D) started like this: [..]first, you have no science background.  How on earth can you tell those with a combined few hundred years in the industry, who’ve developed some of the most powerful sustainability, clean <em>and</em> green technologies on earth what is uneducated?  How?[..]<p><em>And</em> further devolved into: [..] ‘my name’ was rude from the outset...<em>and</em> folks like her really need to stop bashing the 10MM plus who work in this industry.  Me?  I have had enough PC bs.  Folks spreading the lies border on criminal if not criminal.<p>Know what you're talking about.  [..]<p>I cannot have a discussion with this person. It is very aggravating. I did not even know this person before he was tagged in a reply to me.<p>But I DO want to know if a case can be made for the use of <em>plastic</em> <em>packaging</em>. Can someone explain to me or direct me to material that show the pros <em>and</em> cons of <em>plastic</em> <em>packaging</em> without any agenda(political/profit based), but from an environmental/sustainable POV?<p>I want to know more but I can’t hold a civil discourse with someone who is so aggravating."
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "plastic",
+            "packaging"
+          ],
+          "value": "Ask HN: Making a Case for <em>Plastic</em> <em>Packaging</em>"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_jelliclesfarm",
+        "story_20616627",
+        "ask_hn"
+      ],
+      "author": "jelliclesfarm",
+      "created_at": "2019-08-05T18:11:45Z",
+      "created_at_i": 1565028705,
+      "num_comments": 0,
+      "objectID": "20616627",
+      "points": 2,
+      "story_id": 20616627,
+      "story_text": "Elsewhere on LinkedIn, someone asked for leads to find child resistant paper packaging instead of plastic.<p>They didn’t mention the product that was being packaged.<p>It was suggested that choosing paper over plastic was an uneducated choice and other ‘experts’ were beckoned.<p>It is my opinion that plastic packaging should be considered only if we resolve the landfill and waste management issues.<p>An ‘expert’ (aka someone with a Ph.D) started like this: [..]first, you have no science background.  How on earth can you tell those with a combined few hundred years in the industry, who’ve developed some of the most powerful sustainability, clean and green technologies on earth what is uneducated?  How?[..]<p>And further devolved into: [..] ‘my name’ was rude from the outset...and folks like her really need to stop bashing the 10MM plus who work in this industry.  Me?  I have had enough PC bs.  Folks spreading the lies border on criminal if not criminal.<p>Know what you&#x27;re talking about.  [..]<p>I cannot have a discussion with this person. It is very aggravating. I did not even know this person before he was tagged in a reply to me.<p>But I DO want to know if a case can be made for the use of plastic packaging. Can someone explain to me or direct me to material that show the pros and cons of plastic packaging without any agenda(political&#x2F;profit based), but from an environmental&#x2F;sustainable POV?<p>I want to know more but I can’t hold a civil discourse with someone who is so aggravating.",
+      "title": "Ask HN: Making a Case for Plastic Packaging",
+      "updated_at": "2024-09-20T04:34:59Z"
+    }
+  ],
+  "hitsPerPage": 16,
+  "nbHits": 1,
+  "nbPages": 1,
+  "page": 0,
+  "params": "query=plastic+and+packaging+issue&tags=story&hitsPerPage=16&advancedSyntax=true&analyticsTags=backend",
+  "processingTimeMS": 31,
+  "processingTimingsMS": {
+    "_request": {
+      "roundTrip": 15
+    },
+    "fetch": {
+      "query": 26,
+      "scanning": 3,
+      "total": 30
+    },
+    "total": 31
+  },
+  "query": "plastic and packaging issue",
+  "serverTimeMS": 31
+}
