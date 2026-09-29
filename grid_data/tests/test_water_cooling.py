@@ -96,7 +96,7 @@ def test_water_demand_formula_consistency(water_rows):
             assert ml_high == pytest.approx(21352.5, abs=1.0)
 
 def test_priority_clusters_and_desalination_handling(water_rows):
-    """Verify top 3 priority clusters (Bengaluru, Delhi-NCR, Chennai) and Jamnagar desal mitigation."""
+    """Verify top 3 priority clusters (Bengaluru, Delhi-NCR, Chennai) and coastal/desal handlings."""
     priority_map = {r["cluster"]: r["priority_flag"] for r in water_rows}
     
     # Top 3 High Priority
@@ -104,6 +104,30 @@ def test_priority_clusters_and_desalination_handling(water_rows):
     assert priority_map["Delhi-NCR/Noida"] == "High Priority"
     assert priority_map["Chennai"] == "High Priority"
 
-    # Jamnagar & Vizag Mitigations
-    assert "desalination" in priority_map["Jamnagar"].lower() or "mitigated" in priority_map["Jamnagar"].lower()
+    # Jamnagar partial desal & Vizag coastal desal option
+    assert "partial desal" in priority_map["Jamnagar"].lower() or "unconfirmed" in priority_map["Jamnagar"].lower()
     assert "coastal" in priority_map["Vizag"].lower() or "desal" in priority_map["Vizag"].lower()
+
+def test_jamnagar_desal_scope_honesty(water_rows):
+    """
+    Verify Jamnagar row's notes field does NOT claim full-campus 100% desalination,
+    and explicitly limits the verified claim to the 168 MW Meta anchor facility.
+    """
+    jamnagar_row = next((r for r in water_rows if r["cluster"] == "Jamnagar"), None)
+    assert jamnagar_row is not None, "Jamnagar row missing"
+
+    notes = jamnagar_row["notes"]
+    src = jamnagar_row["water_stress_source"]
+
+    # Must explicitly state 168 MW Meta anchor
+    assert "168 MW" in notes or "168MW" in notes, f"Expected 168 MW Meta scope in notes: {notes}"
+    assert "Meta" in notes, f"Expected Meta anchor reference in notes: {notes}"
+    
+    # Must flag the remaining 832 MW / 2,832 MW as unconfirmed
+    assert "832" in notes, f"Expected unconfirmed 832 MW reference in notes: {notes}"
+    assert "2,832" in notes or "2832" in notes, f"Expected unconfirmed 2,832 MW reference in notes: {notes}"
+    assert "unconfirmed" in notes.lower() or "not independently confirmed" in notes.lower()
+
+    # Must NOT claim 100% campus-wide desalination
+    assert "100% captive seawater desalination" not in notes.lower(), "Notes must not claim full-campus 100% desal"
+    assert "zero municipal" not in notes.lower(), "Notes must not assert zero municipal draw for entire campus"

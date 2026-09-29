@@ -223,7 +223,6 @@
       - **Bengaluru** (**High Priority**): CGWB Over-Exploited; acute municipal drinking water tanker crisis; 1,830 ML/yr future cooling draw creates direct citizen conflict.
       - **Delhi-NCR / Noida** (**High Priority**): CGWB Over-Exploited Yamuna basin; 2,512 ML/yr future draw in Greater Noida severely exacerbates critically depleted aquifers.
       - **Chennai** (**High Priority**): CGWB Over-Exploited / 2019 Day Zero legacy; 5,025 ML/yr pipeline demand requires strict municipal effluent substitution.
-      - *Mitigation Caveat for Jamnagar & Vizag*: Jamnagar accounts for 21,353 ML/yr equivalent but is flagged as **Low Priority (Seawater Mitigated)** because Reliance's Dhirubhai Ambani giga-complex operates 100% captive seawater reverse osmosis desalination (zero municipal freshwater draw). Vizag is flagged as coastal with direct industrial/desal intake potential.
     - **5. Water-Positive Cooling Recommendation**:
       - **Precedent Grounding**: Sourced Chennai CMWSSB's operational 45 MLD Tertiary Treatment Reverse Osmosis (TTRO) industrial water pipeline and STT GDC / NTT municipal STP recycled water tie-ups.
       - **Proposed Policy Target**: 100% substitution of freshwater cooling with tertiary-treated municipal/industrial effluent for all new data center approvals in High water-stress districts.
@@ -232,6 +231,18 @@
     - `data/water_cooling_subsidiary.csv` & `water_cooling_subsidiary.csv` (8 columns, 9 clusters, fully traceable)
     - `grid_data/build_water_subsidiary.py` (Deterministic generation script)
     - `grid_data/tests/test_water_cooling.py` (6 unit tests, full test suite 32/32 passing)
+
+- **30 Sep 2026 — Jamnagar Water Desalination Scope Audit & Correction**:
+  - **Scope Audit & Findings**:
+    - *Overgeneralization Root Cause*: An earlier summary had extrapolated the confirmed **168 MW Meta anchor facility's** desalinated seawater cooling claim to the entire 1,000–3,000 MW Jamnagar campus, erroneously labeling the full multi-GW cluster as "100% Captive Desalination" and "Low Priority".
+    - *What Was Verified vs. Corrected*:
+      - **Confirmed Desalinated Scope**: 168 MW Meta anchor facility (`FAC-003c`, 956.6 GWh/yr $\rightarrow$ **1,195.8 ML/yr**) is explicitly confirmed via bilateral corporate releases to use desalinated seawater cooling.
+      - **Unconfirmed Exposure Scope**: The remaining **832 MW in Phase 1** (4,737.4 GWh/yr $\rightarrow$ **5,921.8 ML/yr**) and up to **2,832 MW in the Master Plan** (16,125.4 GWh/yr $\rightarrow$ **20,156.8 ML/yr**) have not been independently confirmed with statutory seawater intake/EIA approvals.
+    - *Priority Reclassification*: Jamnagar updated to **Medium-High Priority (Partial Desal / 832–2,832 MW Unconfirmed)**, situated in CGWB Semi-Critical arid Saurashtra.
+    - *Integrity Check Across Dataset*: Audited all other 8 clusters; confirmed no other cluster makes an unverified campus-wide technology assumption.
+  - **Outputs Updated & Tested**:
+    - `data/water_cooling_subsidiary.csv` and `water_cooling_subsidiary.csv` (Jamnagar row updated)
+    - `grid_data/tests/test_water_cooling.py` (Added `test_jamnagar_desal_scope_honesty`, 34/34 tests passing)
 
 ## 12. Team / Roles
 - _(fill in: names, roles, who owns research / deck / prototype / Q&A)_

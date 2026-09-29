@@ -94,12 +94,12 @@ def generate_water_subsidiary():
         },
         {
             "cluster": "Jamnagar",
-            "water_stress_level": "High (Physical) / Mitigated (Desalination)",
-            "water_stress_source": "CGWB Gujarat Ground Water Assessment (Saurashtra Semi-Critical/Arid) / Sourced Reliance AGM Disclosures (100% Captive Seawater Desalination)",
+            "water_stress_level": "High (Physical / Arid Saurashtra)",
+            "water_stress_source": "CGWB Gujarat Ground Water Assessment 2023 (Saurashtra Semi-Critical/Arid) / Sourced Reliance-Meta Release (168 MW Anchor Desalination Only)",
             "demand_gwh_low": 5694.00,
             "demand_gwh_high": 17082.00,
-            "priority_flag": "Low Priority (Seawater Mitigated)",
-            "notes": "Largest power draw nationally (21,353 ML/yr equivalent), but zero municipal freshwater draw due to Reliance's 100% captive seawater desalination infrastructure."
+            "priority_flag": "Medium-High Priority (Partial Desal / 832–2,832 MW Unconfirmed)",
+            "notes": "Desalinated seawater cooling confirmed only for 168 MW Meta anchor (1,196 ML/yr mitigated); remaining 832 MW Phase 1 (5,922 ML/yr) and 2,832 MW Master Plan (20,157 ML/yr) not independently confirmed for desalinated cooling and sit in arid Saurashtra (CGWB Semi-Critical)."
         },
     ]
 
