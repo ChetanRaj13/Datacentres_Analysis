@@ -1210,6 +1210,45 @@
       margin-top: 1px;
     }
 
+    
+    /* Map SVG State Paths & Elements: Dark Theme Default */
+    .state-path {
+      fill: #141E33;
+      stroke: #2A3B5C;
+      stroke-width: 0.8px;
+      transition: fill 0.15s ease, stroke 0.15s ease;
+      cursor: default;
+    }
+    .state-path:hover {
+      fill: #1E293B;
+      stroke: #0EA5E9;
+    }
+    .map-gridline {
+      stroke: #1E293B;
+    }
+    .map-coord-label {
+      fill: #475569;
+    }
+    .cluster-node-item {
+      cursor: pointer;
+    }
+    .cluster-node-item circle {
+      pointer-events: all;
+    }
+    .cluster-node-item text {
+      pointer-events: all;
+    }
+    #relocationVectors path {
+      cursor: pointer;
+      pointer-events: stroke;
+    }
+    #targetNodes g {
+      cursor: pointer;
+    }
+    #targetNodes circle, #targetNodes text {
+      pointer-events: all;
+    }
+
     /* Map SVG Labels: Support Crisp Dark & Light Contrast */
     .map-cluster-label {
       fill: #FFFFFF;
@@ -2405,7 +2444,7 @@
 
       <!-- The Honest Truth Box -->
       <div class="honest-box">
-        <div style="display:flex; justify-content:space-between; align-items:flex-start;">
+        <div style="display:flex; justify-content:space-between; align-items:center;">
           <div class="honest-title">
             <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
               <path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"></path>
@@ -2414,12 +2453,6 @@
             The Honest Truth: What Doesn't Change
           </div>
           <button class="card-info-btn" onclick="openCardInfo(event, 'compare-honest-truth')" title="Honest Truth Context">ℹ</button>
-        </div>
-          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-            <path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"></path>
-            <line x1="12" y1="9" x2="12" y2="13"></line><line x1="12" y1="17" x2="12.01" y2="17"></line>
-          </svg>
-          The Honest Truth: What Doesn't Change
         </div>
         <p class="honest-desc">
           Even under the best-case siting relocation (e.g. Hyderabad → Kurnool), an un-stored renewable deficit of <strong>75.7% persists</strong>.
@@ -2563,22 +2596,34 @@
             </g>
 
             <!-- Relocation Target Nodes -->
-            <g id="targetNodes" pointer-events="none">
+            <g id="targetNodes">
               <!-- Kurnool -->
-              <circle cx="221.2" cy="471.0" r="4.5" fill="#10B981" stroke="#FFFFFF" stroke-width="1.5" />
-              <text class="target-label-kurnool" x="228" y="475">Kurnool</text>
+              <g cursor="pointer" pointer-events="all" onclick="selectPair('hyd_kurnool')">
+                <circle cx="221.2" cy="471.0" r="14" fill="transparent" />
+                <circle cx="221.2" cy="471.0" r="4.5" fill="#10B981" stroke="#FFFFFF" stroke-width="1.5" />
+                <text class="target-label-kurnool" x="228" y="475">Kurnool</text>
+              </g>
 
               <!-- Sri City -->
-              <circle cx="253.7" cy="513.9" r="4" fill="#0EA5E9" stroke="#FFFFFF" stroke-width="1.5" />
-              <text class="target-label-sricity" x="260" y="513">Sri City</text>
+              <g cursor="pointer" pointer-events="all" onclick="selectPair('chn_sricity')">
+                <circle cx="253.7" cy="513.9" r="14" fill="transparent" />
+                <circle cx="253.7" cy="513.9" r="4" fill="#0EA5E9" stroke="#FFFFFF" stroke-width="1.5" />
+                <text class="target-label-sricity" x="260" y="513">Sri City</text>
+              </g>
 
               <!-- Tumakuru -->
-              <circle cx="204.2" cy="517.6" r="4" fill="#38BDF8" stroke="#FFFFFF" stroke-width="1.5" />
-              <text class="target-label-tumakuru" x="160" y="518">Tumakuru</text>
+              <g cursor="pointer" pointer-events="all" onclick="selectPair('blr_tumakuru')">
+                <circle cx="204.2" cy="517.6" r="14" fill="transparent" />
+                <circle cx="204.2" cy="517.6" r="4" fill="#38BDF8" stroke="#FFFFFF" stroke-width="1.5" />
+                <text class="target-label-tumakuru" x="160" y="518">Tumakuru</text>
+              </g>
 
               <!-- Neemrana -->
-              <circle cx="192.2" cy="234.1" r="3.5" fill="#F59E0B" stroke="#FFFFFF" stroke-width="1.5" />
-              <text class="target-label-neemrana" x="145" y="235">Neemrana</text>
+              <g cursor="pointer" pointer-events="all" onclick="selectPair('delhi_neemrana')">
+                <circle cx="192.2" cy="234.1" r="14" fill="transparent" />
+                <circle cx="192.2" cy="234.1" r="3.5" fill="#F59E0B" stroke="#FFFFFF" stroke-width="1.5" />
+                <text class="target-label-neemrana" x="145" y="235">Neemrana</text>
+              </g>
             </g>
 
             <!-- 9 Baseline Cluster Circles (Sized proportionally to MW) -->
@@ -3085,16 +3130,24 @@ Net Score = Uplift - W_land × 5.0 × (Distance_km / Radius_Limit_km)</div>
 
         const m = calculateClusterMetrics(c);
         // Radius scale based on MW
-        const r = Math.max(6, Math.min(22, 5 + Math.sqrt(m.mw) * 0.32));
+        const r = Math.max(5.5, Math.min(20, 4.5 + Math.sqrt(m.mw) * 0.28));
 
         const isSelected = (c.id === state.selectedClusterId);
 
+        // Label offset adjustments for close nodes
+        let labelX = x + r + 4;
+        let labelY = y + 4;
+        if (c.id === 'mumbai') {
+          labelX = x - r - 6;
+          // text-anchor end
+        }
+
         svgHtml += `
-          <g cursor="pointer" pointer-events="all" onclick="selectClusterNode('${c.id}')">
-            ${isSelected ? `<circle cx="${x}" cy="${y}" r="${r + 7}" fill="none" stroke="#0EA5E9" stroke-width="1.5" stroke-dasharray="3,2" />` : ''}
-            <circle cx="${x}" cy="${y}" r="${r}" fill="#0EA5E9" fill-opacity="0.8" stroke="#FFFFFF" stroke-width="1.5" filter="url(#glowFilter)" />
-            <text class="map-cluster-label" x="${x + r + 4}" y="${y + 4}">${c.name.split('/')[0]}</text>
-            <text class="map-cluster-mw" x="${x + r + 4}" y="${y + 14}">${Math.round(m.mw)} MW</text>
+          <g id="node_${c.id}" class="cluster-node-item" cursor="pointer" onclick="selectClusterNode('${c.id}')">
+            ${isSelected ? `<circle cx="${x}" cy="${y}" r="${r + 5}" fill="none" stroke="#0EA5E9" stroke-width="1.8" stroke-dasharray="3,2" pointer-events="none" />` : ''}
+            <circle cx="${x}" cy="${y}" r="${r}" fill="#0EA5E9" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1.5" filter="url(#glowFilter)" pointer-events="all" />
+            <text class="map-cluster-label" ${c.id === 'mumbai' ? 'text-anchor="end"' : ''} x="${labelX}" y="${labelY}" pointer-events="all">${c.name.split('/')[0]}</text>
+            <text class="map-cluster-mw" ${c.id === 'mumbai' ? 'text-anchor="end"' : ''} x="${labelX}" y="${labelY + 10}" pointer-events="all">${Math.round(m.mw)} MW</text>
           </g>
         `;
       });
