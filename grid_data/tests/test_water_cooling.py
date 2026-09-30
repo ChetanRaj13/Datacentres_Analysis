@@ -12,7 +12,6 @@ for p in [WORKSPACE_DIR, GRID_DATA_DIR]:
         sys.path.insert(0, p)
 
 CSV_PATH_DATA = os.path.join(WORKSPACE_DIR, "data", "water_cooling_subsidiary.csv")
-CSV_PATH_ROOT = os.path.join(WORKSPACE_DIR, "water_cooling_subsidiary.csv")
 
 EXPECTED_COLUMNS = [
     "cluster",
@@ -37,12 +36,12 @@ EXPECTED_CLUSTERS = [
     "Jamnagar"
 ]
 
-@pytest.fixture(params=[CSV_PATH_DATA, CSV_PATH_ROOT])
-def water_rows(request):
+@pytest.fixture
+def water_rows():
     import subprocess
     subprocess.run(["python", os.path.join(GRID_DATA_DIR, "build_water_subsidiary.py")], check=True)
-    assert os.path.exists(request.param), f"File missing at {request.param}"
-    with open(request.param, mode="r", encoding="utf-8") as f:
+    assert os.path.exists(CSV_PATH_DATA), f"File missing at {CSV_PATH_DATA}"
+    with open(CSV_PATH_DATA, mode="r", encoding="utf-8") as f:
         reader = csv.DictReader(f)
         return list(reader)
 

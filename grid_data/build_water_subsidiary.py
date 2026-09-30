@@ -10,7 +10,6 @@ import csv
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 ROOT_DIR = os.path.dirname(BASE_DIR)
 OUTPUT_CSV_DATA = os.path.join(ROOT_DIR, "data", "water_cooling_subsidiary.csv")
-OUTPUT_CSV_ROOT = os.path.join(ROOT_DIR, "water_cooling_subsidiary.csv")
 
 def generate_water_subsidiary():
     # Sourced Demand GWh (from datacentre_RE_matching_model.xlsx / Demand_Supply_Model)
@@ -132,12 +131,11 @@ def generate_water_subsidiary():
     # Ensure data directory exists
     os.makedirs(os.path.dirname(OUTPUT_CSV_DATA), exist_ok=True)
 
-    for target_path in [OUTPUT_CSV_DATA, OUTPUT_CSV_ROOT]:
-        with open(target_path, mode="w", newline="", encoding="utf-8") as f:
-            writer = csv.DictWriter(f, fieldnames=fieldnames)
-            writer.writeheader()
-            writer.writerows(rows)
-        print(f"[>] Successfully generated: {target_path}")
+    with open(OUTPUT_CSV_DATA, mode="w", newline="", encoding="utf-8") as f:
+        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer.writeheader()
+        writer.writerows(rows)
+    print(f"[>] Successfully generated: {OUTPUT_CSV_DATA}")
 
 if __name__ == "__main__":
     generate_water_subsidiary()

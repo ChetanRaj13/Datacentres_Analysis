@@ -14,10 +14,9 @@ for p in [WORKSPACE_DIR, GRID_DATA_DIR]:
 from siting_analysis import evaluate_all_candidates, calculate_sustainability_score, CURRENT_CLUSTERS
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-CSV_V2_PATH_1 = os.path.join(BASE_DIR, "output", "siting_relocation_candidates_v2.csv")
-CSV_V2_PATH_ROOT = os.path.join(os.path.dirname(BASE_DIR), "siting_relocation_candidates_v2.csv")
-CSV_V1_PATH_1 = os.path.join(BASE_DIR, "output", "siting_relocation_candidates.csv")
-CSV_V1_PATH_ROOT = os.path.join(os.path.dirname(BASE_DIR), "siting_relocation_candidates.csv")
+CSV_V2_PATH = os.path.join(BASE_DIR, "output", "siting_relocation_candidates_v2.csv")
+CSV_V1_PATH = os.path.join(BASE_DIR, "output", "siting_relocation_candidates.csv")
+CSV_V3_PATH = os.path.join(BASE_DIR, "output", "siting_relocation_candidates_v3.csv")
 
 EXPECTED_COLUMNS_V2 = [
     "current_cluster",
@@ -53,14 +52,13 @@ EXPECTED_CLUSTERS = [
 def candidates_v2_csv():
     import subprocess
     subprocess.run(["python", os.path.join(BASE_DIR, "siting_analysis.py")], check=True)
-    assert os.path.exists(CSV_V2_PATH_1), f"Missing CSV at {CSV_V2_PATH_1}"
-    assert os.path.exists(CSV_V2_PATH_ROOT), f"Missing CSV at {CSV_V2_PATH_ROOT}"
-    with open(CSV_V2_PATH_1, "r", encoding="utf-8") as f:
+    assert os.path.exists(CSV_V2_PATH), f"Missing CSV at {CSV_V2_PATH}"
+    with open(CSV_V2_PATH, "r", encoding="utf-8") as f:
         reader = csv.DictReader(f)
         return list(reader)
 
 def test_schema_completeness_v2(candidates_v2_csv):
-    with open(CSV_V2_PATH_1, "r", encoding="utf-8") as f:
+    with open(CSV_V2_PATH, "r", encoding="utf-8") as f:
         reader = csv.reader(f)
         header = next(reader)
     assert header == EXPECTED_COLUMNS_V2, f"Header mismatch. Expected {EXPECTED_COLUMNS_V2}, got {header}"

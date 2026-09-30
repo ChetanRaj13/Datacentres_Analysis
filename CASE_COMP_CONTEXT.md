@@ -244,8 +244,56 @@
     - `data/water_cooling_subsidiary.csv` and `water_cooling_subsidiary.csv` (Jamnagar row updated)
     - `grid_data/tests/test_water_cooling.py` (Added `test_jamnagar_desal_scope_honesty`, 34/34 tests passing)
 
+- **30 Sep 2026 — Interactive Impact & Siting Explorer Dashboard Built & Verified (`impact_explorer.html`)**:
+  - **What was built**:
+    - Created single, self-contained, offline-capable interactive HTML file (`impact_explorer.html`) allowing non-technical viewers and competition judges to explore the problem, model, and siting solution without opening slides.
+    - Built comprehensive Playwright automated test suite in `test_impact_explorer.py` (5/5 unit tests passed in 8.5s).
+  - **Build Status across the 6 Project Requirements (Clean vs. Rework)**:
+    - **Item 1: Baseline View Without Intervention**: *Built Clean* — Interactive dashboard featuring all 9 clusters with live sliders for utilization (40%–95%), solar:wind blend (0:100 to 100:0), and WUE (0.5–2.5 L/kWh). Real-time mathematical recomputation perfectly matches the corrected core model (Kolkata gap = 81.8% at default, avoided CO₂ = 7,606–12,090 t/yr; other 8 clusters = 0 t/yr avoided CO₂ due to un-stored RE sitting below legacy state grid non-fossil shares).
+    - **Item 2: Siting Relocation & Site Suitability Index (SSI) Calculator**: *Built Clean* — 4 adjustable weight multipliers (Grid Decarbonisation, Water Stress, RE Resource Quality, Land & Proximity Penalty) dynamically re-ranking all 20 candidate corridors from `siting_relocation_candidates_v3.csv`. Default weights exactly replicate the locked deck scores (Kurnool +15.31, Sri City +9.61, Tumakuru +12.83, Dobbaspet +13.75). Dedicated feature card explains why Kurnool wins (1,000 MW Ultra Mega Solar Park co-location, 44.1% RE, 27.0% wind CF) and separate card details the Bengaluru $\rightarrow$ Tumakuru water-only paradox ($\Delta\text{RE} = 0.0\%$, uplift driven 100% by municipal water conflict relief).
+    - **Item 3: Before / After Comparison View**: *Built Clean* — Side-by-side cards for the 3 primary relocation cases (Hyderabad $\rightarrow$ Kurnool, Chennai $\rightarrow$ Sri City, Bengaluru $\rightarrow$ Tumakuru). Features prominent "The Honest Truth: What Doesn't Change" callout confirming the ~75%–80% deficit persists everywhere under un-stored RE and that siting cannot eliminate solar nighttime intermittency.
+    - **Item 4: Interactive India Map View**: *Required Minor Rework* — SVG map of India with dynamically sized cluster nodes and animated curved relocation vectors. During automated testing, SVG background silhouette path intercepted pointer events on cluster nodes; resolved by assigning `pointer-events="none"` to background geometry and `pointer-events="all"` to interactive cluster nodes and arrows. Click drawer displays complete cluster dossier with statutory citations.
+    - **Item 5: Methodology & Glossary Drawer**: *Built Clean* — Slide-out modal with 1-sentence plain-English definitions of all 7 core terms, exact mathematical derivation formulas, and full statutory source audit matrix (CEA, CERC, NIWE, CGWB, WRI, state DISCOM auctions).
+    - **Item 6: Visual & Interaction Design System**: *Built Clean* — State-of-the-art dark slate palette (`#070B14`, `#0B1120`, `#111A2E`) with emerald/teal clean energy accents and amber gap indicators. Glassmorphic cards, custom slider controls, dual progress bars, and zero external CDN/font network dependencies (100% offline-functional).
+- **30 Sep 2026 — Master Context Audit & Reconciliation (`CASE_COMP_MASTER_CONTEXT.md` vs `impact_explorer.html`)**:
+  - **What was done**:
+    - Conducted comprehensive audit of `impact_explorer.html` against newly available canonical `CASE_COMP_MASTER_CONTEXT.md`.
+    - Applied surgical direct edits to `impact_explorer.html` without rebuilding from scratch.
+    - Updated Playwright test suite `test_impact_explorer.py` with 6 rigorous assertions covering default-state math, Jhansi 600 MW correction, Jamnagar water split & dual wind scenarios, map distances, and methodology audit trail.
+  - **Audit Status across the 5 Review Items (Real Drift vs. Already Correct)**:
+    - **Item 1: Default/Baseline Numbers & Capacities**: *Already Correct* — All 9 clusters and national aggregates matched the master context table byte-for-byte at default settings (19,684 GWh Low / 48,952 GWh High demand, 77.8% national gap, Kolkata 81.8% gap and 7,606–12,090 t avoided CO₂, 0 avoided CO₂ in other 8 clusters). Enhanced UI by surfacing locked total capacity figures (3,457 MW Today $\rightarrow$ 8,597 MW 2030 Pipeline, 2.5× growth) in the hero and national summary strips.
+    - **Item 2: Siting/SSI Section & Caveats**: *Real Drift Corrected* — Candidate BIDA Jhansi previously cited the regional aggregate "4,000 MW upcoming Bundelkhand Solar Park"; corrected to the site-specific **600 MW Jhansi Solar Park** (TUSCO/THDC-UPNEDA JV). Siting scores at default weights were verified already exact (Kurnool +15.31, Sri City +9.61, Tumakuru +12.83, Dobbaspet +13.75, Neemrana +23.79, Jhansi +15.17). Added interactive Jamnagar dual-scenario wind CF toggle (Conservative 24.0% GERC vs. Claimed 32.0% NIWE).
+    - **Item 3: Jamnagar Water Desalination Scope**: *Real Drift Corrected* — The UI previously displayed aggregate water demand without breaking out the confirmed scope. Sourced the exact split: **Confirmed Desalinated** (168 MW Meta anchor = 1,196 ML/yr mitigated) vs. **Unconfirmed Exposure** (832 MW Phase 1 = 5,922 ML/yr to 2,832 MW Master Plan = 20,157 ML/yr in CGWB Semi-Critical arid Saurashtra). Explicitly labeled as **Medium-High Priority** across cards and map drawer (confirming "Low Priority" is never shown).
+    - **Item 4: Map View Capacities & Relocation Distances**: *Already Correct* — All 9 cluster SVG dots scale proportionally to verified facility MW ($r \propto \sqrt{\text{MW}}$). Relocation vectors match locked distances exactly: Hyderabad $\rightarrow$ Kurnool (205 km), Chennai $\rightarrow$ Sri City (72 km), Bengaluru $\rightarrow$ Tumakuru (76 km), Delhi-NCR $\rightarrow$ Neemrana (128 km).
+    - **Item 5: Methodology Panel & Superseded Claims Audit**: *Real Drift Corrected / Enhanced* — Added a dedicated red-alert card to the Methodology Panel: `⚠️ Audit Trail: Corrected & Superseded Claims`, explicitly warning against the discarded 8.4–20.5 Mt CO₂ model, unflagged 4,000 MW Jhansi claims, unflagged 22% Neemrana wind, unflagged 32% Jamnagar wind, and campus-wide desalination claims. Confirmed no superseded number remains anywhere in active code or calculations.
+  - **Regression Test Verification**: Full test suite passed with 40/40 tests passing (6 browser tests in `test_impact_explorer.py` + 34 unit tests in `grid_data/tests/`).
+
+- **30 Sep 2026 — UI & GIS Enhancements: Light/Dark Mode, Card Info Buttons, and Survey of India Boundary Fix**:
+  - **What was done (UI-Only, Zero Data/Model Changes)**:
+    - **1. Survey of India-Aligned Official Map Boundary Fix**:
+      - Replaced the low-fidelity hand-approximated polygon with the verified official Survey of India boundary dataset across all **36 States and Union Territories** (including complete depictions of Ladakh, Jammu & Kashmir, Arunachal Pradesh, Andaman & Nicobar Islands, and Lakshadweep).
+      - Added high-precision mainland outline (`#indiaOutline`, 1,006 points) and interactive state boundary paths (`.state-path`, 4,336 points across 36 entities).
+      - Mathematically verified via Python point-in-polygon tests (`verify_clusters.py`) that all 9 data center cluster coordinates (Mumbai, Chennai, Hyderabad, Pune, Delhi-NCR, Bengaluru, Kolkata, Vizag, Jamnagar) and candidate relocation corridors (Kurnool, Sri City, Tumakuru, Neemrana, Dobbaspet, Jhansi) land precisely inside their correct state polygons.
+      - Added dynamic state hover feedback (`#hoverStateName`) displaying the active state name and Survey of India alignment badge.
+    - **2. Light / Dark Mode Theme Toggle**:
+      - Built a header toggle button (`#themeToggleBtn`) with sun/moon icons seamlessly switching between Dark Slate (`#070B14`, `#111A2E`) and Clean Light (`#F8FAFC`, `#FFFFFF`) palettes.
+      - Maintained identical clean-energy emerald/teal and amber accent colorways for continuity.
+      - Ensured state persistence across tabs and page reloads via `localStorage` (`dc_impact_theme`).
+    - **3. Contextual Card Info ("i") Buttons Across All Sections**:
+      - Added non-intrusive, low-opacity info buttons (`.card-info-btn`) to every card across the application (Hero KPIs, Sensitivity Sliders, National Comparison Chart, 9 Cluster Cards, SSI Weights, Candidate Matrix Table, Deep Dives, Before/After Comparison Cards, Honest Truth box, Map Canvas, and Map Drawer).
+      - Clicking any info icon opens a modal dialog (`#cardInfoModal`) with card-specific title, plain-English explanation, exact governing mathematical formula, and a direct link to the fuller methodology drawer.
+      - Strict event decoupling (`event.stopPropagation()`) guarantees that opening info buttons never disrupts slider states, triggers recalculation, or mutates any displayed data.
+  - **Test Suite Verification**:
+    - Expanded Playwright test suite in `test_impact_explorer.py` to 9 comprehensive tests:
+      - `test_accurate_india_map_and_survey_of_india_boundaries`: Asserts high-fidelity boundary paths (>5k chars), 36 state paths, presence of sensitive border territories, and interactive hover.
+      - `test_light_dark_theme_toggle_and_persistence`: Asserts theme switching, contrast, and persistence across reloads.
+      - `test_card_info_buttons_across_sections_no_data_alteration`: Asserts info button coverage, modal content fidelity, and zero data alteration.
+    - Verified full workspace test suite: **43/43 tests passing** (9 in `test_impact_explorer.py` + 34 in `grid_data/tests/`).
+    - Browser subagent visual inspection confirmed responsive, defect-free rendering in both light and dark modes.
+
 ## 12. Team / Roles
 - _(fill in: names, roles, who owns research / deck / prototype / Q&A)_
+
 
 
 

@@ -622,20 +622,13 @@ def generate_report_markdown(rows: List[Dict[str, Any]], output_path: str):
 def main():
     rows = evaluate_all_candidates(penalty_weight=5.0)
     
-    # Write siting_relocation_candidates_v2.csv to grid_data/output and root
-    csv_v2_out1 = os.path.join(OUTPUT_DIR, "siting_relocation_candidates_v2.csv")
-    csv_v2_out2 = os.path.join(os.path.dirname(BASE_DIR), "siting_relocation_candidates_v2.csv")
-    
-    # Also update legacy/v1 CSV path for backward compatibility
-    csv_v1_out1 = os.path.join(OUTPUT_DIR, "siting_relocation_candidates.csv")
-    csv_v1_out2 = os.path.join(os.path.dirname(BASE_DIR), "siting_relocation_candidates.csv")
-    
+    # Write siting_relocation_candidates_v2.csv and legacy v1 to grid_data/output
+    csv_v2_out = os.path.join(OUTPUT_DIR, "siting_relocation_candidates_v2.csv")
+    csv_v1_out = os.path.join(OUTPUT_DIR, "siting_relocation_candidates.csv")
     md_out = os.path.join(OUTPUT_DIR, "siting_relocation_report.md")
 
-    write_csv_output(rows, csv_v2_out1, is_v2=True)
-    write_csv_output(rows, csv_v2_out2, is_v2=True)
-    write_csv_output(rows, csv_v1_out1, is_v2=False)
-    write_csv_output(rows, csv_v1_out2, is_v2=False)
+    write_csv_output(rows, csv_v2_out, is_v2=True)
+    write_csv_output(rows, csv_v1_out, is_v2=False)
     
     generate_report_markdown(rows, md_out)
 
@@ -647,7 +640,7 @@ def main():
     for r in rows:
         print(f"{r['current_cluster']:<18} | {r['candidate_name'][:32]:<34} | {r['distance_km_approx']:<4}km | {r['re_share_pct']:<6} | +{r['sustainability_uplift_score']:<6} | {r['net_score_after_distance_penalty']:<9} | {r['proxy_flag']:<6}")
     print("=" * 115)
-    print(f"[>] Output files written to:\n   - {csv_v2_out2}\n   - {csv_v2_out1}\n   - {md_out}\n")
+    print(f"[>] Output files written to:\n   - {csv_v2_out}\n   - {csv_v1_out}\n   - {md_out}\n")
 
 if __name__ == "__main__":
     main()
