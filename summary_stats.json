@@ -1,0 +1,583 @@
+{
+  "kpi_cards": [
+    {
+      "label": "Data centre campuses tracked",
+      "value": 114,
+      "note": "Plus 4 nested construction-phase rows"
+    },
+    {
+      "label": "States covered",
+      "value": 14
+    },
+    {
+      "label": "Districts covered",
+      "value": 31
+    },
+    {
+      "label": "Live IT load capacity",
+      "value": 1380.5,
+      "unit": "MW"
+    },
+    {
+      "label": "Planned IT load capacity",
+      "value": 9362.9,
+      "unit": "MW",
+      "note": "~6.8x the live capacity -- most of the pipeline is still unbuilt"
+    },
+    {
+      "label": "Live facility/grid load",
+      "value": 37,
+      "unit": "MW"
+    },
+    {
+      "label": "Planned facility/grid load",
+      "value": 9141,
+      "unit": "MW"
+    },
+    {
+      "label": "Sites with a verified real-world location",
+      "value": 90,
+      "total": 118,
+      "pct": 76.3
+    },
+    {
+      "label": "Districts already over-exploited for groundwater",
+      "value": 8,
+      "total": 30,
+      "note": "Before any new data centre demand is added"
+    },
+    {
+      "label": "Most severe groundwater stress",
+      "value": "Gurugram",
+      "detail": "194.6% of sustainable extraction"
+    }
+  ],
+  "charts": {
+    "data_centres_by_state": [
+      {
+        "state": "Maharashtra",
+        "count": 31
+      },
+      {
+        "state": "Tamil Nadu",
+        "count": 16
+      },
+      {
+        "state": "Telangana",
+        "count": 14
+      },
+      {
+        "state": "Andhra Pradesh",
+        "count": 11
+      },
+      {
+        "state": "Karnataka",
+        "count": 11
+      },
+      {
+        "state": "Uttar Pradesh",
+        "count": 9
+      },
+      {
+        "state": "West Bengal",
+        "count": 8
+      },
+      {
+        "state": "Haryana",
+        "count": 4
+      },
+      {
+        "state": "Odisha",
+        "count": 3
+      },
+      {
+        "state": "Gujarat",
+        "count": 3
+      },
+      {
+        "state": "Delhi",
+        "count": 1
+      },
+      {
+        "state": "Chhattisgarh",
+        "count": 1
+      },
+      {
+        "state": "Madhya Pradesh",
+        "count": 1
+      },
+      {
+        "state": "Bihar",
+        "count": 1
+      }
+    ],
+    "mw_by_state": [
+      {
+        "state": "Maharashtra",
+        "live_it_mw": 746.7,
+        "planned_it_mw": 5392.9
+      },
+      {
+        "state": "Andhra Pradesh",
+        "live_it_mw": 0,
+        "planned_it_mw": 1150
+      },
+      {
+        "state": "Telangana",
+        "live_it_mw": 64.7,
+        "planned_it_mw": 1022.7
+      },
+      {
+        "state": "Tamil Nadu",
+        "live_it_mw": 235,
+        "planned_it_mw": 715.5
+      },
+      {
+        "state": "Uttar Pradesh",
+        "live_it_mw": 150.3,
+        "planned_it_mw": 374.8
+      },
+      {
+        "state": "Haryana",
+        "live_it_mw": 40.5,
+        "planned_it_mw": 269.5
+      },
+      {
+        "state": "Karnataka",
+        "live_it_mw": 94.8,
+        "planned_it_mw": 258.6
+      },
+      {
+        "state": "West Bengal",
+        "live_it_mw": 38.4,
+        "planned_it_mw": 148
+      },
+      {
+        "state": "Bihar",
+        "live_it_mw": 0,
+        "planned_it_mw": 11.6
+      },
+      {
+        "state": "Delhi",
+        "live_it_mw": 10.1,
+        "planned_it_mw": 10.1
+      },
+      {
+        "state": "Gujarat",
+        "live_it_mw": 0,
+        "planned_it_mw": 9.2
+      }
+    ],
+    "verification_confidence": [
+      {
+        "status": "Verified (2+ independent sources)",
+        "count": 25
+      },
+      {
+        "status": "Partially verified",
+        "count": 48
+      },
+      {
+        "status": "Verified (primary)",
+        "count": 40
+      },
+      {
+        "status": "Unverified",
+        "count": 1
+      }
+    ],
+    "coordinate_precision_breakdown": [
+      {
+        "tier": "Plot or village",
+        "count": 51
+      },
+      {
+        "tier": "No coordinate (district centroid used)",
+        "count": 28
+      },
+      {
+        "tier": "Locality or industrial area",
+        "count": 25
+      },
+      {
+        "tier": "Exact site",
+        "count": 13
+      },
+      {
+        "tier": "District only",
+        "count": 1
+      }
+    ],
+    "groundwater_category_distribution": [
+      {
+        "category": "safe",
+        "count": 18
+      },
+      {
+        "category": "semi_critical",
+        "count": 3
+      },
+      {
+        "category": "over_exploited",
+        "count": 8
+      },
+      {
+        "category": "critical",
+        "count": 1
+      }
+    ],
+    "groundwater_stress_ranked_all_districts": [
+      {
+        "district": "Gurugram",
+        "state": "Haryana",
+        "stage_pct": 194.6,
+        "category": "over_exploited"
+      },
+      {
+        "district": "Bengaluru Urban",
+        "state": "Karnataka",
+        "stage_pct": 177.28,
+        "category": "over_exploited"
+      },
+      {
+        "district": "Bengaluru Rural",
+        "state": "Karnataka",
+        "stage_pct": 146.78,
+        "category": "over_exploited"
+      },
+      {
+        "district": "Chennai",
+        "state": "Tamil Nadu",
+        "stage_pct": 121.72,
+        "category": "over_exploited"
+      },
+      {
+        "district": "Indore",
+        "state": "Madhya Pradesh",
+        "stage_pct": 117.96,
+        "category": "over_exploited"
+      },
+      {
+        "district": "Gandhinagar",
+        "state": "Gujarat",
+        "stage_pct": 111.28,
+        "category": "over_exploited"
+      },
+      {
+        "district": "Sonipat",
+        "state": "Haryana",
+        "stage_pct": 108.73,
+        "category": "over_exploited"
+      },
+      {
+        "district": "Gautam Buddha Nagar",
+        "state": "Uttar Pradesh",
+        "stage_pct": 105.21,
+        "category": "over_exploited"
+      },
+      {
+        "district": "Bengaluru South (NOT in your 29; extra)",
+        "state": "Karnataka",
+        "stage_pct": 91.18,
+        "category": "critical"
+      },
+      {
+        "district": "South East Delhi",
+        "state": "Delhi",
+        "stage_pct": 88.25,
+        "category": "semi_critical"
+      },
+      {
+        "district": "Ahmedabad",
+        "state": "Gujarat",
+        "stage_pct": 72.74,
+        "category": "semi_critical"
+      },
+      {
+        "district": "North 24 Parganas",
+        "state": "West Bengal",
+        "stage_pct": 70.3,
+        "category": "semi_critical"
+      },
+      {
+        "district": "Ranga Reddy",
+        "state": "Telangana",
+        "stage_pct": 66.59,
+        "category": "safe"
+      },
+      {
+        "district": "Chengalpattu",
+        "state": "Tamil Nadu",
+        "stage_pct": 64.23,
+        "category": "safe"
+      },
+      {
+        "district": "Khordha",
+        "state": "Odisha",
+        "stage_pct": 64.13,
+        "category": "safe"
+      },
+      {
+        "district": "Pune",
+        "state": "Maharashtra",
+        "stage_pct": 63.23,
+        "category": "safe"
+      },
+      {
+        "district": "Panchkula",
+        "state": "Haryana",
+        "stage_pct": 62.06,
+        "category": "safe"
+      },
+      {
+        "district": "Patna",
+        "state": "Bihar",
+        "stage_pct": 60.95,
+        "category": "safe"
+      },
+      {
+        "district": "Raipur",
+        "state": "Chhattisgarh",
+        "stage_pct": 60.03,
+        "category": "safe"
+      },
+      {
+        "district": "Puri",
+        "state": "Odisha",
+        "stage_pct": 54.85,
+        "category": "safe"
+      },
+      {
+        "district": "Hooghly",
+        "state": "West Bengal",
+        "stage_pct": 53.87,
+        "category": "safe"
+      },
+      {
+        "district": "Kanchipuram",
+        "state": "Tamil Nadu",
+        "stage_pct": 48.91,
+        "category": "safe"
+      },
+      {
+        "district": "Visakhapatnam",
+        "state": "Andhra Pradesh",
+        "stage_pct": 43.85,
+        "category": "safe"
+      },
+      {
+        "district": "Jamnagar",
+        "state": "Gujarat",
+        "stage_pct": 43.62,
+        "category": "safe"
+      },
+      {
+        "district": "Anakapalli",
+        "state": "Andhra Pradesh",
+        "stage_pct": 31.37,
+        "category": "safe"
+      },
+      {
+        "district": "Vizianagaram",
+        "state": "Andhra Pradesh",
+        "stage_pct": 27.27,
+        "category": "safe"
+      },
+      {
+        "district": "Mumbai Suburban",
+        "state": "Maharashtra",
+        "stage_pct": 25.74,
+        "category": "safe"
+      },
+      {
+        "district": "Guntur",
+        "state": "Andhra Pradesh",
+        "stage_pct": 21.08,
+        "category": "safe"
+      },
+      {
+        "district": "Thane",
+        "state": "Maharashtra",
+        "stage_pct": 19.13,
+        "category": "safe"
+      },
+      {
+        "district": "Raigad",
+        "state": "Maharashtra",
+        "stage_pct": 18.44,
+        "category": "safe"
+      }
+    ],
+    "jjm_tap_coverage_ranked": [
+      {
+        "district": "North 24 Parganas",
+        "state": "West Bengal",
+        "tap_coverage_pct": 66.85
+      },
+      {
+        "district": "Guntur",
+        "state": "Andhra Pradesh",
+        "tap_coverage_pct": 68.05
+      },
+      {
+        "district": "Hooghly",
+        "state": "West Bengal",
+        "tap_coverage_pct": 68.12
+      },
+      {
+        "district": "Visakhapatnam",
+        "state": "Andhra Pradesh",
+        "tap_coverage_pct": 70.69
+      },
+      {
+        "district": "Vizianagaram",
+        "state": "Andhra Pradesh",
+        "tap_coverage_pct": 71.2
+      },
+      {
+        "district": "Bengaluru Urban",
+        "state": "Karnataka",
+        "tap_coverage_pct": 72.61
+      },
+      {
+        "district": "Anakapalli",
+        "state": "Andhra Pradesh",
+        "tap_coverage_pct": 74.65
+      },
+      {
+        "district": "Thane",
+        "state": "Maharashtra",
+        "tap_coverage_pct": 75.97
+      },
+      {
+        "district": "Puri",
+        "state": "Odisha",
+        "tap_coverage_pct": 76.37
+      },
+      {
+        "district": "Khordha",
+        "state": "Odisha",
+        "tap_coverage_pct": 76.49
+      },
+      {
+        "district": "Pune",
+        "state": "Maharashtra",
+        "tap_coverage_pct": 87.17
+      },
+      {
+        "district": "Bengaluru Rural",
+        "state": "Karnataka",
+        "tap_coverage_pct": 88.52
+      },
+      {
+        "district": "Raigad",
+        "state": "Maharashtra",
+        "tap_coverage_pct": 91.5
+      },
+      {
+        "district": "Patna",
+        "state": "Bihar",
+        "tap_coverage_pct": 96.61
+      },
+      {
+        "district": "Raipur",
+        "state": "Chhattisgarh",
+        "tap_coverage_pct": 98.24
+      },
+      {
+        "district": "Gautam Buddha Nagar",
+        "state": "Uttar Pradesh",
+        "tap_coverage_pct": 98.3
+      },
+      {
+        "district": "Indore",
+        "state": "Madhya Pradesh",
+        "tap_coverage_pct": 99.94
+      },
+      {
+        "district": "Ahmedabad",
+        "state": "Gujarat",
+        "tap_coverage_pct": 100
+      },
+      {
+        "district": "Gandhinagar",
+        "state": "Gujarat",
+        "tap_coverage_pct": 100
+      },
+      {
+        "district": "Jamnagar",
+        "state": "Gujarat",
+        "tap_coverage_pct": 100
+      },
+      {
+        "district": "Gurugram",
+        "state": "Haryana",
+        "tap_coverage_pct": 100
+      },
+      {
+        "district": "Panchkula",
+        "state": "Haryana",
+        "tap_coverage_pct": 100
+      },
+      {
+        "district": "Sonipat",
+        "state": "Haryana",
+        "tap_coverage_pct": 100
+      },
+      {
+        "district": "Chengalpattu",
+        "state": "Tamil Nadu",
+        "tap_coverage_pct": 100
+      },
+      {
+        "district": "Kanchipuram",
+        "state": "Tamil Nadu",
+        "tap_coverage_pct": 100
+      },
+      {
+        "district": "Ranga Reddy",
+        "state": "Telangana",
+        "tap_coverage_pct": 100
+      }
+    ],
+    "facilities_by_gw_zone": [
+      {
+        "category": "safe",
+        "count": 76,
+        "label": "Safe (<70%)"
+      },
+      {
+        "category": "over_exploited",
+        "count": 33,
+        "label": "Over-exploited (>100%)"
+      },
+      {
+        "category": "semi_critical",
+        "count": 9,
+        "label": "Semi-critical (70–90%)"
+      },
+      {
+        "category": "critical",
+        "count": 0,
+        "label": "Critical (90–100%)"
+      }
+    ],
+    "facilities_by_location_type": [
+      {
+        "type": "Metro / Tier-1 Core",
+        "count": 68,
+        "pct": 57.6
+      },
+      {
+        "type": "Satellite / Industrial Suburb",
+        "count": 26,
+        "pct": 22
+      },
+      {
+        "type": "Emerging / Tier-2+ Locations",
+        "count": 24,
+        "pct": 20.3
+      }
+    ]
+  }
+}

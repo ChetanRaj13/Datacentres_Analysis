@@ -1,17 +1,18 @@
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
-*$py.class
-
-# Pytest
-.pytest_cache/
-
-# Environment files
+# Environment & secrets
 .env
-scraper/.env
+.env.*
 
-# IDE / OS files
+# Temporary browser profile data
+tmp_user/
+
+# Large raw reference PDFs (not required for runtime dashboard)
+*.pdf
+
+# Raw desktop/screenshot folders
+Issues/
+india_district/
+
+# Operating system artifacts
 .DS_Store
 Thumbs.db
-.vscode/
-.idea/
+
