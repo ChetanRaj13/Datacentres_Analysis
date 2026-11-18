@@ -655,14 +655,14 @@ body:has(#map-view.active) footer.site-footer {
 }
 
 .marker-symbol-preview.solid {
-  background: var(--primary);
+  background: #2563eb;
   border: 2px solid #ffffff;
-  box-shadow: 0 0 0 1px var(--primary);
+  box-shadow: 0 0 0 1px #2563eb;
 }
 
 .marker-symbol-preview.hollow {
-  background: transparent;
-  border: 2px dashed var(--primary);
+  background: rgba(37, 99, 235, 0.15);
+  border: 2px dashed #2563eb;
   position: relative;
 }
 
@@ -671,7 +671,7 @@ body:has(#map-view.active) footer.site-footer {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: var(--primary);
+  background: #2563eb;
 }
 
 .marker-size-scale {
@@ -1008,14 +1008,14 @@ body:has(#map-view.active) footer.site-footer {
   display: flex !important;
   align-items: center;
   justify-content: center;
-  filter: drop-shadow(0 1px 2px rgba(0, 0, 0, 0.3));
+  filter: drop-shadow(0 1px 3px rgba(0, 0, 0, 0.45));
   transition: transform 0.15s ease-out, filter 0.15s ease-out;
   cursor: pointer;
 }
 
 .dc-shape-marker:hover {
   transform: scale(1.22);
-  filter: drop-shadow(0 2px 8px rgba(220, 38, 38, 0.65));
+  filter: drop-shadow(0 2px 8px rgba(37, 99, 235, 0.75));
   z-index: 9999 !important;
 }
 

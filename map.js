@@ -183,7 +183,7 @@
             : 'Hilly / Unassessed (<70%)';
 
           const hostBadge = props.is_datacenter_host
-            ? `<div style="font-size:10px; font-weight:700; color:#ea2804; text-transform:uppercase; margin-top:2px;">Data Centre Host (${props.dc_count} campuses)</div>`
+            ? `<div style="font-size:10px; font-weight:700; color:#2563eb; text-transform:uppercase; margin-top:2px;">Data Centre Host (${props.dc_count} campuses)</div>`
             : '';
 
           layer.bindTooltip(`
@@ -254,6 +254,21 @@
       return 'circle';
     },
 
+    // Blue gradient mapper by capacity tier: bigger the datacentre, darker the blue
+    getTierColor: function (tier) {
+      switch (tier) {
+        case 'triangle': // 10 MW (<100 MW)
+          return '#60a5fa'; // Light vibrant blue
+        case 'square':   // 100 MW (100–499 MW)
+          return '#2563eb'; // Medium royal blue
+        case 'hexagon':  // 500 MW (500–999 MW)
+          return '#1e40af'; // Deep blue
+        case 'circle':   // 1000+ MW (Mega campuses)
+        default:
+          return '#0c2340'; // Darkest midnight navy blue
+      }
+    },
+
     // Calculate marker size based on capacity (used for SVG dimensions)
     getMarkerSize: function (mw) {
       const safeMw = (!mw || mw <= 0) ? 5 : mw;
@@ -266,10 +281,12 @@
       const tier = this.getCapacityTier(mw);
       const size = this.getMarkerSize(mw);
       const half = size / 2;
+      const tierColor = this.getTierColor(tier);
 
-      const fillColor = isFallback ? 'rgba(255,255,255,0.25)' : 'rgba(234,40,4,0.85)';
-      const strokeColor = isFallback ? '#dc2626' : '#ffffff';
-      const strokeWidth = isFallback ? 1.5 : 1.5;
+      // Blue gradient for size with crisp white outline so marker stands out on any background
+      const fillColor = isFallback ? 'rgba(255, 255, 255, 0.45)' : tierColor;
+      const strokeColor = isFallback ? tierColor : '#ffffff';
+      const strokeWidth = isFallback ? 1.8 : 1.8;
       const dashArray = isFallback ? '2.5,2.5' : 'none';
 
       let shapeHtml = '';
@@ -308,9 +325,9 @@
         </svg>`;
       }
 
-      // Add center dot for fallback markers
+      // Add center dot for fallback markers in matching tier blue with white rim
       if (isFallback) {
-        shapeHtml = shapeHtml.replace('</svg>', `<circle cx="${half.toFixed(1)}" cy="${half.toFixed(1)}" r="2" fill="#dc2626" stroke="none" /></svg>`);
+        shapeHtml = shapeHtml.replace('</svg>', `<circle cx="${half.toFixed(1)}" cy="${half.toFixed(1)}" r="2.2" fill="${tierColor}" stroke="#ffffff" stroke-width="0.8" /></svg>`);
       }
 
       return L.divIcon({
