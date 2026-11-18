@@ -25,6 +25,7 @@
 
       function switchView(target) {
         if (target === 'summary-view' || target === 'summary') {
+          document.body.classList.remove('map-active');
           tabMap.classList.remove('active');
           tabSummary.classList.add('active');
           viewMap.classList.remove('active');
@@ -32,6 +33,7 @@
           window.location.hash = 'summary';
           window.scrollTo({ top: 0, behavior: 'smooth' });
         } else {
+          document.body.classList.add('map-active');
           tabSummary.classList.remove('active');
           tabMap.classList.add('active');
           viewSummary.classList.remove('active');

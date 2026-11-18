@@ -163,31 +163,9 @@
               });
             },
             mouseout: function (e) {
-              const l = e.target;
-              const p = (l.feature && l.feature.properties) || {};
-              if (self.currentGWFilter !== 'all') {
-                if (p.category === self.currentGWFilter) {
-                  l.setStyle({
-                    fillColor: p.color || self.getCategoryColor(p.category),
-                    fillOpacity: 0.78,
-                    weight: 1.0,
-                    color: '#ffffff',
-                    opacity: 0.9
-                  });
-                } else {
-                  l.setStyle({
-                    fillColor: '#e2e8f0',
-                    fillOpacity: 0.35,
-                    weight: 0.4,
-                    color: '#cbd5e1',
-                    opacity: 0.5
-                  });
-                }
-              } else {
-                self.districtsLayer.resetStyle(l);
-              }
-              if (l && l.closeTooltip) {
-                l.closeTooltip();
+              self.districtsLayer.resetStyle(e.target);
+              if (e.target && e.target.closeTooltip) {
+                e.target.closeTooltip();
               }
             },
             click: function (e) {
@@ -266,13 +244,82 @@
       });
     },
 
-    // Calculate marker radius based on capacity (fixed pixel size — no zoom dependency)
-    // L.circleMarker natively keeps pixel radius constant across zooms, so no recalculation needed.
-    // 10 MW → ~4.7 px | 100 MW → ~7.3 px | 500 MW → ~11.6 px | 1000 MW → ~14.8 px | 2000+ MW → 16 px (capped)
-    getMarkerRadius: function (mw) {
+    // Determine capacity tier for shape selection
+    // 10 MW → Triangle | 100 MW → Square | 500 MW → Hexagon | 1000+ MW → Circle
+    getCapacityTier: function (mw) {
+      if (!mw || mw <= 0) return 'triangle';
+      if (mw < 100) return 'triangle';
+      if (mw < 500) return 'square';
+      if (mw < 1000) return 'hexagon';
+      return 'circle';
+    },
+
+    // Calculate marker size based on capacity (used for SVG dimensions)
+    getMarkerSize: function (mw) {
       const safeMw = (!mw || mw <= 0) ? 5 : mw;
-      const r = Math.sqrt(safeMw) * 0.35 + 3.6;
-      return Math.min(Math.max(r, 4), 16);
+      const s = Math.sqrt(safeMw) * 0.65 + 8;
+      return Math.min(Math.max(s, 11), 30);
+    },
+
+    // Create SVG shape icon for a data centre marker
+    createShapeIcon: function (mw, isFallback) {
+      const tier = this.getCapacityTier(mw);
+      const size = this.getMarkerSize(mw);
+      const half = size / 2;
+
+      const fillColor = isFallback ? 'rgba(255,255,255,0.25)' : 'rgba(234,40,4,0.85)';
+      const strokeColor = isFallback ? '#dc2626' : '#ffffff';
+      const strokeWidth = isFallback ? 1.5 : 1.5;
+      const dashArray = isFallback ? '2.5,2.5' : 'none';
+
+      let shapeHtml = '';
+
+      if (tier === 'triangle') {
+        // Equilateral triangle mathematically centered at (half, half)
+        const r = half * 0.95;
+        const p1 = `${half.toFixed(1)},${(half - r).toFixed(1)}`;
+        const p2 = `${(half - r * 0.866).toFixed(1)},${(half + r * 0.5).toFixed(1)}`;
+        const p3 = `${(half + r * 0.866).toFixed(1)},${(half + r * 0.5).toFixed(1)}`;
+        shapeHtml = `<svg width="${size}" height="${size}" viewBox="0 0 ${size} ${size}" xmlns="http://www.w3.org/2000/svg">
+          <polygon points="${p1} ${p2} ${p3}" fill="${fillColor}" stroke="${strokeColor}" stroke-width="${strokeWidth}" stroke-dasharray="${dashArray}" />
+        </svg>`;
+      } else if (tier === 'square') {
+        const side = size * 0.82;
+        const offset = (size - side) / 2;
+        shapeHtml = `<svg width="${size}" height="${size}" viewBox="0 0 ${size} ${size}" xmlns="http://www.w3.org/2000/svg">
+          <rect x="${offset.toFixed(1)}" y="${offset.toFixed(1)}" width="${side.toFixed(1)}" height="${side.toFixed(1)}" rx="1.5" fill="${fillColor}" stroke="${strokeColor}" stroke-width="${strokeWidth}" stroke-dasharray="${dashArray}" />
+        </svg>`;
+      } else if (tier === 'hexagon') {
+        // Regular hexagon mathematically centered at (half, half)
+        const r = half * 0.92;
+        const pts = [];
+        for (let i = 0; i < 6; i++) {
+          const angle = (Math.PI / 3) * i - Math.PI / 2;
+          pts.push(`${(half + r * Math.cos(angle)).toFixed(1)},${(half + r * Math.sin(angle)).toFixed(1)}`);
+        }
+        shapeHtml = `<svg width="${size}" height="${size}" viewBox="0 0 ${size} ${size}" xmlns="http://www.w3.org/2000/svg">
+          <polygon points="${pts.join(' ')}" fill="${fillColor}" stroke="${strokeColor}" stroke-width="${strokeWidth}" stroke-dasharray="${dashArray}" />
+        </svg>`;
+      } else {
+        // Circle (1000+ MW) centered at (half, half)
+        const r = half * 0.9;
+        shapeHtml = `<svg width="${size}" height="${size}" viewBox="0 0 ${size} ${size}" xmlns="http://www.w3.org/2000/svg">
+          <circle cx="${half.toFixed(1)}" cy="${half.toFixed(1)}" r="${r.toFixed(1)}" fill="${fillColor}" stroke="${strokeColor}" stroke-width="${strokeWidth}" stroke-dasharray="${dashArray}" />
+        </svg>`;
+      }
+
+      // Add center dot for fallback markers
+      if (isFallback) {
+        shapeHtml = shapeHtml.replace('</svg>', `<circle cx="${half.toFixed(1)}" cy="${half.toFixed(1)}" r="2" fill="#dc2626" stroke="none" /></svg>`);
+      }
+
+      return L.divIcon({
+        html: shapeHtml,
+        className: 'dc-shape-marker',
+        iconSize: [size, size],
+        iconAnchor: [half, half],
+        popupAnchor: [0, -half]
+      });
     },
 
     // Render Data Centre Markers
@@ -329,52 +376,21 @@
 
         // Determine capacity metric
         const mw = self.currentMetric === 'live' ? (dc.operational_mw || 0) : (dc.planned_ultimate_mw || dc.operational_mw || 0);
-        const radius = self.getMarkerRadius(mw);
 
-        // Marker Styling depending on verified vs centroid fallback
+        // Marker Styling — SVG shape icon based on MW tier (Triangle/Square/Hexagon/Circle)
         const isFallback = dc.is_centroid_fallback;
+        const shapeIcon = self.createShapeIcon(mw, isFallback);
 
-        let marker;
-        if (isFallback) {
-          // Hollow / Dashed Marker with center dot (Centroid fallback)
-          marker = L.circleMarker([dc.lat, dc.lng], {
-            pane: 'dcMarkersPane',
-            radius: radius,
-            color: '#dc2626',
-            weight: 1.5,
-            dashArray: '2, 3',
-            fillColor: '#ffffff',
-            fillOpacity: 0.25
-          });
-
-          // Center dot to indicate centroid anchor
-          const centerDot = L.circleMarker([dc.lat, dc.lng], {
-            pane: 'dcMarkersPane',
-            radius: 2.5,
-            color: '#dc2626',
-            weight: 1,
-            fillColor: '#dc2626',
-            fillOpacity: 1.0,
-            interactive: false
-          });
-          self.markersLayer.addLayer(centerDot);
-        } else {
-          // Solid Marker (Verified exact/plot coordinate) with crisp white separation border
-          marker = L.circleMarker([dc.lat, dc.lng], {
-            pane: 'dcMarkersPane',
-            radius: radius,
-            color: '#ffffff',
-            weight: 1.5,
-            fillColor: '#ea2804',
-            fillOpacity: 0.82
-          });
-        }
+        const marker = L.marker([dc.lat, dc.lng], {
+          pane: 'dcMarkersPane',
+          icon: shapeIcon
+        });
 
         // Popup Content
         const popupContent = self.createPopupContent(dc);
         marker.bindPopup(popupContent, {
           closeButton: true,
-          offset: [0, -radius]
+          offset: [0, -(self.getMarkerSize(mw) / 2)]
         });
 
         // Click on marker also triggers inspector
@@ -650,43 +666,11 @@
     },
 
     // Sync choropleth styling with active groundwater filter
-    // When a GW filter is active, dim/gray out districts that don't match the selected category
-    // so the user clearly sees which districts belong to the filtered band.
+    // When a GW filter is active, the choropleth (map background) stays FULLY visible.
+    // Only the data centre markers are filtered — the map itself never vanishes.
     updateChoroplethFilter: function () {
-      if (!this.districtsLayer) return;
-      const self = this;
-      const activeFilter = this.currentGWFilter;
-
-      this.districtsLayer.eachLayer(function (layer) {
-        const props = (layer.feature && layer.feature.properties) || {};
-        const cat = props.category || 'unassessed';
-
-        if (activeFilter === 'all') {
-          // Restore original colors
-          self.districtsLayer.resetStyle(layer);
-        } else {
-          if (cat === activeFilter) {
-            // Matching district: full vibrant color
-            const color = props.color || self.getCategoryColor(cat);
-            layer.setStyle({
-              fillColor: color,
-              fillOpacity: 0.78,
-              weight: 1.0,
-              color: '#ffffff',
-              opacity: 0.9
-            });
-          } else {
-            // Non-matching district: dim to very faint gray
-            layer.setStyle({
-              fillColor: '#e2e8f0',
-              fillOpacity: 0.35,
-              weight: 0.4,
-              color: '#cbd5e1',
-              opacity: 0.5
-            });
-          }
-        }
-      });
+      // No-op: the choropleth always displays all districts at full color.
+      // Marker filtering is handled entirely in renderMarkers().
     },
 
     // Setup Event Listeners for Filters

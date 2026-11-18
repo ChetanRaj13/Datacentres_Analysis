@@ -224,11 +224,31 @@ main.app-viewport {
   display: block;
 }
 
+/* In map mode, lock window scroll so mouse wheel only pans/zooms the map */
+body.map-active,
+body:has(#map-view.active) {
+  overflow: hidden;
+  height: 100vh;
+}
+
+body.map-active main.app-viewport,
+body:has(#map-view.active) main.app-viewport {
+  overflow: hidden;
+  height: calc(100vh - 65px);
+  min-height: 0;
+}
+
+body.map-active footer.site-footer,
+body:has(#map-view.active) footer.site-footer {
+  display: none !important;
+}
+
 #map-view.view-panel.active {
   display: block;
   position: relative;
   height: calc(100vh - 65px);
   min-height: 600px;
+  overflow: hidden; /* Prevent the map section from scrolling — only the Leaflet map pans */
 }
 
 /* ==========================================================================
@@ -240,6 +260,7 @@ main.app-viewport {
   width: 100%;
   height: calc(100vh - 65px);
   min-height: 600px;
+  overflow: hidden;
 }
 
 /* ============================================================
@@ -678,6 +699,48 @@ main.app-viewport {
   border: 1.5px solid var(--primary);
 }
 
+/* Shape-based capacity legend */
+.marker-shape-list {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  margin-top: 4px;
+}
+
+.marker-shape-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 11px;
+  color: var(--body);
+}
+
+.marker-shape-icon {
+  width: 16px;
+  height: 16px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.marker-shape-icon svg {
+  filter: drop-shadow(0 1px 2px rgba(0,0,0,0.18));
+}
+
+.shape-label-mw {
+  font-family: var(--font-mono);
+  font-weight: 700;
+  font-size: 11px;
+  color: var(--ink);
+  min-width: 58px;
+}
+
+.shape-label-desc {
+  font-size: 10px;
+  color: var(--charcoal);
+}
+
 /* Floating District / Facility Details Inspector */
 .map-inspector-panel {
   position: absolute;
@@ -935,6 +998,25 @@ main.app-viewport {
   line-height: 1.4;
   min-width: 220px;
   max-width: 320px;
+}
+
+/* SVG Shape Markers for Data Centres */
+.dc-shape-marker {
+  background: none !important;
+  border: none !important;
+  box-shadow: none !important;
+  display: flex !important;
+  align-items: center;
+  justify-content: center;
+  filter: drop-shadow(0 1px 2px rgba(0, 0, 0, 0.3));
+  transition: transform 0.15s ease-out, filter 0.15s ease-out;
+  cursor: pointer;
+}
+
+.dc-shape-marker:hover {
+  transform: scale(1.22);
+  filter: drop-shadow(0 2px 8px rgba(220, 38, 38, 0.65));
+  z-index: 9999 !important;
 }
 
 .popup-facility-name {
